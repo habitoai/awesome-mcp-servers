@@ -246,7 +246,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [LlamaCloud](https://github.com/run-llama/mcp-server-llamacloud) - A MCP server connecting to managed indexes on LlamaCloud
 - [manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 - [MCP Kubernetes Go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes
-- [MKP](https://github.com/StacklokLabs/mkp) - Model Kontext Protocol Server for Kubernetes that allows LLM-powered applications to interact with Kubernetes clusters through native Go implementation with direct API integration
+- [MKP](https://github.com/StacklokLabs/mkp) - Model Kontext Protocol server for Kubernetes; native Go implementation with direct API integration, resource management, and rate limiting
 
 ### Cloud Storage
 
