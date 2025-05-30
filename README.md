@@ -576,12 +576,12 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Descope](https://github.com/descope-sample-apps/descope-mcp-server) - Provides a server interface for interacting with Descope's Management APIs to search and retrieve project information
 - [DNStwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) - MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources.
-- [OSV](https://github.com/StacklokLabs/osv-mcp) - Access the OSV (Open Source Vulnerabilities) database for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manage / Proxy / Secure your MCP Servers
 - [MCP Security Auditor](https://github.com/qianniuspace/mcp-security-audit) - A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
 - [Okta](https://github.com/kapilduraphe/okta-mcp-server) - Manages Okta users and groups via a Claude-integrated server
 - [OpenCTI](https://github.com/Spathodea-Network/opencti-mcp) - A Model Context Protocol (MCP) server providing standardized access to OpenCTI threat intelligence data
 - [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) - This is a repository to experiment with MCP for security
+- [OSV MCP Server](https://github.com/StacklokLabs/osv-mcp) - Access the OSV (Open Source Vulnerabilities) database for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
 - [SafePythonExecutor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - Stdio MCP Server wrapping custom Python runtime (LocalPythonExecutor) from Hugging Faces' `smolagents` framework. The runtime combines the ease of setup (compared to docker, VM, cloud runtimes) while providing safeguards and limiting operations/imports that are allowed inside the runtime.
 - [Solana Rug Check](https://github.com/kukapay/rug-check-mcp) - An MCP server that detects potential risks in Solana meme tokens.
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) - A Model Context Protocol (MCP) server for querying the VirusTotal API.
