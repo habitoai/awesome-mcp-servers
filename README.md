@@ -181,6 +181,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [RustDocsMCP](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call.
 - [Sakura MCP](https://github.com/mullerhai/sakura-mcp) - A Scala library facilitating interoperable AI model communication via the Model Context Protocol
 - [Salesforce MCP](https://github.com/smn2gnt/MCP-Salesforce) - Connects LLMs to Salesforce data via SOQL, SOSL, and APIs for querying, manipulating, and retrieving information
+- [Scrapeless MCP](https://github.com/scrapeless-ai/scrapeless-mcp-server) - Use Browser, Crawl, Universal API or Deep SerpApi to provide real-time data from Google SERP or other scenarios for Claude, Cursor, Cline and so on.
 - [ScreenPipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [Siri Shortcuts](https://github.com/dvcrn/mcp-server-siri-shortcuts) - MCP for calling Siri Shorcuts from LLMs
 - [Solana Agent Kit MCP Server](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - connect any ai agents to solana protocols
