@@ -36,6 +36,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <br><br>
 
+- [Agent Mindshare](https://agentmindshare.com) - Track and monitor AI agent mindshare across platforms - measure brand visibility in AI conversations
 - [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) - A Model Context Protocol Server for connecting with Adfin APIs
 - [AgentRPC](https://github.com/agentrpc/agentrpc) - A universal RPC layer for AI agents. Connect to any function, any language, any framework, in minutes.
 - [Chronulus MCP Agent](https://github.com/ChronulusAI/chronulus-mcp) - MCP Server for Chronulus AI Forecasting and Prediction Agents
