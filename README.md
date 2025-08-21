@@ -429,6 +429,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### File Systems
 
 - [Backup](https://github.com/hexitex/MCP-Backup-Server) - A Model Context Protocol (MCP) server implementation that provides file backup and restoration capabilities
+- [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) - Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.
 - [MCP Filesystem Server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 
 ### Finance
@@ -895,3 +896,4 @@ A Model Context Protocol server is an implementation that:
 - Ensures consistent communication protocols
 
 <!-- MCP_LIST_END -->
+
