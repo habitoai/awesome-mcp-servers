@@ -452,6 +452,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [CryptoPanic News Server](https://github.com/kukapay/cryptopanic-mcp-server) - Provide latest cryptocurrency news to AI agents.
 - [Freqtrade-MCP](https://github.com/kukapay/freqtrade-mcp) - An MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 - [GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - The leading agentic finance toolkit for AI agents
+- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics
 - [Investor Agent](https://github.com/ferdousbhai/investor-agent) - A Model Context Protocol server for building an investor agent
 - [Jupiter MCP](https://github.com/kukapay/jupiter-mcp) - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [KukaPay Uniswap Trader](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
@@ -463,7 +464,6 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [WhaleTracker MCP](https://github.com/kukapay/whale-tracker-mcp) - A mcp server for tracking cryptocurrency whale transactions.
 - [Yahoo Finance MCP](https://github.com/narumiruna/yfinance-mcp) - Fetches stock data, news, and financial information via a Yahoo Finance API server
 - [ZBD](https://github.com/zebedeeio/zbd-mcp-server) - Enables Bitcoin Lightning payments within large language models
-- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics
 
 ### Gaming
 
@@ -896,4 +896,5 @@ A Model Context Protocol server is an implementation that:
 - Ensures consistent communication protocols
 
 <!-- MCP_LIST_END -->
+
 
