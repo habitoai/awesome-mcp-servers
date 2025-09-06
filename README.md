@@ -452,7 +452,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [CryptoPanic News Server](https://github.com/kukapay/cryptopanic-mcp-server) - Provide latest cryptocurrency news to AI agents.
 - [Freqtrade-MCP](https://github.com/kukapay/freqtrade-mcp) - An MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 - [GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - The leading agentic finance toolkit for AI agents
-- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics
+- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 - [Investor Agent](https://github.com/ferdousbhai/investor-agent) - A Model Context Protocol server for building an investor agent
 - [Jupiter MCP](https://github.com/kukapay/jupiter-mcp) - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [KukaPay Uniswap Trader](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
@@ -896,5 +896,6 @@ A Model Context Protocol server is an implementation that:
 - Ensures consistent communication protocols
 
 <!-- MCP_LIST_END -->
+
 
 
