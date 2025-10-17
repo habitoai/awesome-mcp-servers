@@ -793,6 +793,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [MCP Time Server](https://github.com/SecretiveShell/MCP-timeserver) - A simple MCP server that exposes datetime information to agentic systems and chat REPLs
 - [MCP-Proxy SSE](https://github.com/punkpeye/mcp-proxy) - A TypeScript SSE proxy for MCP servers that use stdio transport.
 - [MCPHub](https://github.com/Jeamee/MCPHub-Desktop) - Desktop APP for Discover and Install MCP Servers
+- [Metorial](https://github.com/metorial/metorial) - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
 - [Michael Latman](https://github.com/michaellatman) - A GitHub user profile showcasing software projects in various languages
 - [Mike Coughlin](https://github.com/macoughl) - A GitHub profile showcasing software projects and contributions
 - [National Parks API Server](https://github.com/KyrieTangSheng/mcp-server-nationalparks) - Provides real-time data on U.S. National Parks, including details, alerts, and activities
