@@ -488,6 +488,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants. All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data. Integrates directly with Obsidan.md
 - [Goal Story](https://github.com/hichana/goalstory-mcp) - Manages aspirations through narrative-driven goal setting, powered by conversational AI for personalized motivation and progress tracking
 - [Mindmap MCP](https://github.com/YuChenSSR/mindmap-mcp-server) - mindmap, mcp server, artifact
+- [Mnemex](https://github.com/simplemindedbot/mnemex) - Temporal memory system for AI assistants with human-like decay and reinforcement. Features two-layer architecture (JSONL short-term + Markdown/Obsidian long-term), natural spaced repetition through conversation, and knowledge graphs. Privacy-first with local-only storage.
 - [Notion](https://github.com/v-3/notion-server) - Seamlessly integrates language models with Notion workspaces for searching, creating, updating, and managing pages and databases
 - [Obsidian Markdown Notes](https://github.com/calclavia/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 - [PIF](https://github.com/hungryrobot1/MCP-PIF) - A MCP implementation of the personal intelligence framework (PIF)
