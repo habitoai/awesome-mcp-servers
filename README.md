@@ -59,6 +59,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [<div align="center"><img src="https://github.com/user-attachments/assets/211d0c2b-04de-471e-b1ed-97da94a58d82" height="20"/></div>](https://github.com/Upsonic/gpt-computer-assistant) - The most reliable AI agent framework that supports MCP.
 - [ADX MCP Server](https://github.com/pab1it0/adx-mcp-server) - A Model Context Protocol (MCP) server that enables AI assistants to query and analyze Azure Data Explorer databases through standardized interfaces.
 - [AgentMail MCP Toolkit](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) - Manages AgentMail email inboxes via an MCP server, enabling AI-assisted email creation, retrieval, and response
+- [AgentPMT](https://github.com/Apoth3osis-ai/agentpmt-mcp-public) - A universal MCP marketplace giving AI agents instant access to a growing library of tools, workflows, and automations through a single remote MCP connection
 - [AIQL](https://github.com/AI-QL) - Streamlines AI application development and deployment in cloud-native environments
 - [Airtable MCP Server](https://github.com/domdomegg/airtable-mcp-server) - 🗂️🤖 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases
 - [Alibaba Cloud Tablestore MCP Server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) - Connects Alibaba Cloud Tablestore to large language models via the Model Context Protocol
