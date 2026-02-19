@@ -530,6 +530,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 - [ArXiv MCP Assistant](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [ArXiv MCP Server](https://github.com/andybrandt/mcp-simple-arxiv) - Tool to  work with arXiv, provide LLM with ability to search and read papers from there
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers with structured experimental data extracted from full-text studies, returning 25+ fields per paper including methods, results, sample sizes, and quality scores
 - [DeepResearch Assistant](https://github.com/reading-plus-ai/mcp-server-deep-research) - Generates comprehensive, well-cited research reports from a given research question
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [SimplePubMed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database
