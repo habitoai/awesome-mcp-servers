@@ -185,6 +185,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Siri Shortcuts](https://github.com/dvcrn/mcp-server-siri-shortcuts) - MCP for calling Siri Shorcuts from LLMs
 - [Solana Agent Kit MCP Server](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - connect any ai agents to solana protocols
 - [Spotify MCP Controller](https://github.com/marcelmarais/spotify-mcp-server) - Controls Spotify playback and playlist management via the Model Context Protocol for AI assistants
+- [Speech AI](https://github.com/fasuizu-br/speech-ai-examples) - Speech AI MCP server with pronunciation assessment (phoneme-level scoring, 17MB model, <300ms), text-to-speech, and speech-to-text. 8 tools for AI agents building language learning, accessibility, and voice applications.
 - [Spring AI MCP SDK](https://github.com/spring-projects-experimental/spring-ai-mcp) - Java SDK for the Model Context Protocol (MCP), providing seamless integration between Java and Spring applications and MCP-compliant AI models and tools.
 - [Starknet MCP Agent](https://github.com/mcpdotdirect/starknet-mcp-server) - MCP server that provides LLM with tools for interacting with Starknet
 - [Strava MCP API Server](https://github.com/tomekkorbak/strava-mcp-server) - Provides Strava API access for language models via the Model Context Protocol, enabling queries of athlete activity data
