@@ -156,6 +156,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [OpenAI MCP Assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - MCP server that gives Claude ability to use OpenAI's GPTs assistants
 - [OpenAI WebSearch MCP](https://github.com/ConechoAI/openai-websearch-mcp) - openai websearch tool as mcp server
 - [OpenAI WebSearch Tool](https://github.com/ConechoAI/openai-websearch-mcp/) - openai websearch tool as mcp server
+- [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (MCP, A2A, WebSocket, gRPC, HTTP)
 - [OpenAPI AnyApi](https://github.com/baryhuang/mcp-server-any-openapi) - Enables natural language API calls via semantic search of remote OpenAPI specifications
 - [OpenAPI Explorer](https://github.com/snaggle-ai/openapi-mcp-server) - Allow AI to wade through complex OpenAPIs using Simple Language
 - [OpenAPI MCP Bridge](https://github.com/gabfr/waha-api-mcp-server) - Allow AI to wade through complex OpenAPIs using Simple Language
