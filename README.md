@@ -37,6 +37,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 <br><br>
 
 - [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) - A Model Context Protocol Server for connecting with Adfin APIs
+- [SkillBoss AI Gateway](https://github.com/heeyo-life/skillboss-mcp) - Unified MCP server for 100+ AI services including Claude, GPT, Gemini, DALL-E, Midjourney, Runway, and ElevenLabs. One API key, OpenAI-compatible.
 - [AgentRPC](https://github.com/agentrpc/agentrpc) - A universal RPC layer for AI agents. Connect to any function, any language, any framework, in minutes.
 - [Chronulus MCP Agent](https://github.com/ChronulusAI/chronulus-mcp) - MCP Server for Chronulus AI Forecasting and Prediction Agents
 - [Dart](https://github.com/its-dart/dart-mcp-server) - Dart AI Model Context Protocol (MCP) server
