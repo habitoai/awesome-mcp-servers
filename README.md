@@ -48,6 +48,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [gotoHuman](https://github.com/gotohuman/gotohuman-mcp-server) - Facilitates human review of AI-generated content and automated actions via asynchronous webhooks
 - [IBM wxflows](https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
 - [Inkeep](https://github.com/inkeep/mcp-server-python) - Provides a Retrieval Augmented Generation (RAG) server for accessing product documentation via the Model Context Protocol (MCP)
+- [IteraTools](https://github.com/fredpsantos33/mcp-iteratools) - A cloud-hosted multi-tool API for AI agents with 24+ tools: image generation (Flux), web scraping, browser automation, TTS, OCR, code execution, charts, DNS lookup, QR codes, weather, crypto prices, and more. Pay-per-use with x402 protocol.
 - [Langfuse MCP Server](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [Lingo.dev](https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md) - ⚡️ AI localization toolkit for web & mobile. Translate instantly from CI/CD, using the best LLM models.
 - [Meilisearch](https://github.com/meilisearch/meilisearch-mcp) - A Model Context Protocol (MCP) server for interacting with Meilisearch through LLM interfaces.
