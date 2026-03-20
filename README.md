@@ -566,6 +566,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Unsplash Image Server](https://github.com/hellokaton/unsplash-mcp-server) - 🔎 A MCP server for Unsplash image search.
 - [WebSearch MCP](https://github.com/pskill9/web-search) - Web search using free google search (NO API KEYS REQUIRED)
 
+- [Marketplace Search MCP](https://github.com/lulzasaur9192/marketplace-search-mcp) - Unified MCP server for searching 20+ online marketplaces (OfferUp, Reverb, TCGPlayer, Craigslist, Poshmark, and more) plus contractor/nurse license verification, PSA card data, and NYC building violations. 19 tools in one server.
 ### Security
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
