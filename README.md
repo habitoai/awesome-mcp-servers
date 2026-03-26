@@ -542,6 +542,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 - [Kagi Search](https://github.com/kagisearch/kagimcp) - A Model Context Protocol (MCP) server for Kagi search.
 - [Search1API MCP](https://github.com/fatwang2/search1api-mcp) - A Model Context Protocol (MCP) server offering web search, news search, content extraction, and deep reasoning capabilities via Search1API
+- [ContextWire](https://github.com/keptlive/contextwire-mcp) - Free search API for AI agents with 105 engines, 22 profiles, remote MCP server, and 94.3% SimpleQA accuracy. Tools: ask, search, extract, research, batch_search.
 - [DevRev](https://github.com/kpsunil97/devrev-mcp-server) - Searches and retrieves information from DevRev using its APIs
 - [Discourse](https://github.com/AshDevFr/discourse-mcp-server) - Searches Discourse forum posts via the Model Context Protocol (MCP)
 - [DuckDuckGo MCP Search Server](https://github.com/zhsama/duckduckgo-mpc-server/) - Provides DuckDuckGo web search functionality via the Model Context Protocol
