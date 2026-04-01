@@ -420,6 +420,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [SQLGlot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [Stripe](https://github.com/stripe/agent-toolkit/tree/main) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [Supabase MCP Server](https://github.com/joshuarileydev/supabase) - Programmatically manages Supabase projects and organizations via the Model Context Protocol
+- [ToolPipe MCP Server](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server) - 34 developer utility tools via MCP: JSON formatter, QR codes, UUID generator, hash functions, DNS lookup, Base64 encoding, regex tester, JWT decoder, crypto prices, SEO analyzer, and more. Available via npx, Docker, or remote HTTP endpoint.
 - [Typescript MCP SDK](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 - [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) - VSCode Extension with an MCP server that exposes semantic tools like Find Usages and Rename to LLMs
 - [Xcode Claude Bridge](https://github.com/r-huijts/xcode-mcp-server) - MCP Server implementation for Xcode integration
