@@ -504,6 +504,8 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Marketing
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
+- [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for Claude Code via MCP. Meta tags, schema markup, keyword bids, and CMS content pushes.
+
 
 ### Monitoring
 
