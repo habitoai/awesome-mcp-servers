@@ -622,6 +622,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [POX MCP Network Manager](https://github.com/davidlin2k/pox-mcp-server) - A Model Context Protocol (MCP) server for the POX SDN controller
 - [Pulumi](https://github.com/dogukanakkaya/pulumi-mcp-server) - Manages and deploys cloud infrastructure using code
 - [Shortcuts MCP Server](https://github.com/recursechat/mcp-server-apple-shortcuts) - Lets AI assistants control Apple Shortcuts automations on macOS
+- [Macuse](https://macuse.app) - Complete MCP server for macOS with native app integrations (Calendar, Mail, Notes, Reminders, Messages) and UI automation capabilities. Works with Claude Desktop, Cursor, and Raycast.
 - [SimControl](https://github.com/JoshuaRileyDev/simulator-mcp-server) - Programmatically controls iOS simulators, enabling actions like booting, installing apps, and launching them
 - [SwiftMCPGUI](https://github.com/NakaokaRei/swift-mcp-gui.git) - Programmatically controls macOS mouse and keyboard via the Model Context Protocol (MCP)
 - [TaskWarrior MCP](https://github.com/awwaiid/mcp-server-taskwarrior) - MCP Server for TaskWarrior!
