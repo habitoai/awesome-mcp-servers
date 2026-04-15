@@ -25,6 +25,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Social Media](#social-media)
 - [System Automation](#system-automation)
 - [Travel and Transportation](#travel-and-transportation)
+- [US Business Data](https://github.com/avabuildsdata/mcp-us-business-data) - MCP server to search Secretary of State business registrations across 17 US states, building permits, SAM.gov contracts, and SEC EDGAR filings.
 - [Version Control](#version-control)
 - [Workflow Automation](#workflow-automation)
 - [Other Tools and Integrations](#other-tools-and-integrations)
