@@ -534,6 +534,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [SimplePubMed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database
 - [World Bank data API](https://github.com/anshumax/world_bank_mcp_server) - An implementation of the Model Context Protocol for the World Bank open data API
+- [AI Dev Jobs](https://aidevboard.com/docs) - Structured data on 8,400+ active AI/ML engineering jobs from 580 company ATS sources (Anthropic, OpenAI, Meta FAIR, DeepMind, Scale, Cohere, etc.). 4 tools: search_jobs, get_job, list_companies, get_stats. Useful for hiring-market research. Remote MCP at `https://aidevboard.com/mcp`.
 
 ### Search
 
@@ -565,6 +566,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Typesense](https://github.com/suhail-ak-s/mcp-typesense-server) - Provides AI models with access to Typesense search capabilities for data discovery, search, and analysis
 - [Unsplash Image Server](https://github.com/hellokaton/unsplash-mcp-server) - 🔎 A MCP server for Unsplash image search.
 - [WebSearch MCP](https://github.com/pskill9/web-search) - Web search using free google search (NO API KEYS REQUIRED)
+- [Not Human Search](https://github.com/unitedideas/nothumansearch) - Agent-first search engine indexing 8,000+ MCP servers and agentically-readable sites, ranked across 7 signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Includes `verify_mcp` live JSON-RPC probe tool. Remote MCP at `https://nothumansearch.ai/mcp`.
 
 ### Security
 
