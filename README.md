@@ -586,6 +586,8 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) - A Model Context Protocol (MCP) server for querying the VirusTotal API.
 - [WhoAmI MCP](https://github.com/kukapay/whoami-mcp) - A lightweight MCP server that tells you exactly who you are.
 
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault MCP server. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts, logs, or LLM context. `npx enigmagent-mcp`
+
 ### Social Media
 
 - [Audiense Insights](https://github.com/AudienseCo/mcp-audiense-insights) - Audiense Insights MCP Server is a server based on the Model Context Protocol (MCP) that allows Claude and other MCP-compatible clients to interact with your Audiense Insights account
