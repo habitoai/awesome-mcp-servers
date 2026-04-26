@@ -212,6 +212,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Blender](https://github.com/ahujasid/blender-mcp) - AI-powered 3D modeling and scene manipulation tool
 - [Placid.app](https://github.com/felores/placid-mcp-server) - Generate image and video creatives using Placid.app templates in MCP compatible hosts
 - [Rijksmuseum MCP](https://github.com/r-huijts/rijksmuseum-mcp) - Rijksmuseum MCP integration for artwork exploration and analysis
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server routing image generation prompts across 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney, and more) via a unified API. `npm install -g prompt-to-asset`.
 
 ### Browser Automation
 
