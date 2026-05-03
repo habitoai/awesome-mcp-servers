@@ -354,6 +354,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 ### Developer Tools
 
+- [x711](https://x711.io) — Universal AI agent gas station. Pay-per-call USDC via HTTP 402 / x402 (Base + Solana), 10 free calls/day with no signup (earn up to 200/day), hosted MCP server (`npx x711-mcp`), `pip install x711` / `npm i x711`, shared "Hive" memory across all agents, agent-as-tool publishing with 82% revenue share, lifetime referral commissions, ERC-8004 reputation. Open standards: MCP, x402, A2A, NLWeb, agent.json, llms.txt.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
