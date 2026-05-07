@@ -493,6 +493,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [PIF](https://github.com/hungryrobot1/MCP-PIF) - A MCP implementation of the personal intelligence framework (PIF)
 - [XMind](https://github.com/apeyroux/mcp-xmind) - Analyzes and queries XMind mind maps, enabling smart searches, task management, and multi-file analysis
 
+- [Dakera](https://github.com/Dakera-AI/dakera) - Agent memory engine with vector search, knowledge graphs, session management. 83 MCP tools, self-hosted Rust binary, zero external dependencies.
 ### Location Services
 
 - [GeoMCP](https://github.com/webcoderz/MCP-Geo) - Geocoding MCP server with GeoPY!
