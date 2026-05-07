@@ -671,6 +671,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Rootly MCP Integration](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) - Integrates Rootly with MCP-compatible IDEs for rapid incident resolution
 - [Salesforce MCP Integrator](https://github.com/lciesielski/mcp-salesforce-example) - Integrates with Salesforce via the Model Context Protocol (MCP) to send emails and deploy Apex code
 - [Todoist](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude
+- [Trackly](https://github.com/kevinastuhuaman/trackly-cli) - AI job search MCP server with 128K+ openings across 1,900+ companies. 10 tools for jobs, applications, contacts, and referrals. Hosted streamable-http with OAuth 2.1 (Claude co-work, Claude Desktop, ChatGPT) or local stdio for Cursor / Windsurf / Claude Code.
 - [UserFeedbackMCP](https://github.com/mrexodia/user-feedback-mcp) - Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.
 
 ### Other Tools and Integrations
