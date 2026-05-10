@@ -503,6 +503,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 ### Marketing
 
+- [NotFair (Google Ads MCP)](https://github.com/nowork-studio/toprank) - Google Ads MCP server connecting Claude and AI agents to a Google Ads account: diagnose campaign performance (CPA, ROAS, search-term waste, quality scores), recommend optimizations (bids, budgets, negatives, ad copy), and execute approved changes via the Google Ads API with a built-in human-approval gate. Streamable-HTTP at notfair.co/api/mcp/google_ads.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
 
 ### Monitoring
