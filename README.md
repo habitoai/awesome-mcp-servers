@@ -504,6 +504,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Marketing
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
+- [Packrift MCP Server](https://github.com/Packrift/packrift-mcp) - Public MCP server for Packrift packaging-supplies catalog lookup and ecommerce packaging workflow resources.
 
 ### Monitoring
 
