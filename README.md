@@ -42,7 +42,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Dart](https://github.com/its-dart/dart-mcp-server) - Dart AI Model Context Protocol (MCP) server
 - [DevHub](https://github.com/devhub/devhub-cms-mcp) - DevHub CMS LLM integration through the Model Context Protocol
 - [E2B](https://github.com/e2b-dev/mcp-server) - Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
-- [Ejentum](https://github.com/ejentum/ejentum-mcp) - Reasoning Harness for agentic AI: 4 MCP tools (reasoning, code, anti-deception, memory) over 679 engineered cognitive operations. Each call returns a structured scaffold the calling LLM ingests before its first token, catching sycophancy, hallucination, and reasoning decay before they emerge.
+- [Ejentum](https://github.com/ejentum/ejentum-mcp) - MCP server with four pre-prompt cognitive scaffolds for reasoning, code review, anti-deception, and memory.
 - [EduBase](https://github.com/EduBase/MCP) - The EduBase MCP server enables Claude and other LLMs to interact with EduBase's comprehensive e-learning platform through the Model Context Protocol (MCP).
 - [Exa MCP Server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 - [ForeverVM](https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server) - Securely run AI-generated code in stateful sandboxes that run forever.
