@@ -486,6 +486,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Anki](https://github.com/scorzeth/anki-mcp-server) - Manages and interacts with Anki flashcards via a server, enabling card creation, review, and data retrieval
 - [Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants. All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data. Integrates directly with Obsidan.md
+- [Dakera MCP](https://github.com/dakera-ai/dakera-mcp) - Persistent memory and knowledge layer for AI agents with semantic search, hybrid retrieval, and multi-SDK support
 - [Goal Story](https://github.com/hichana/goalstory-mcp) - Manages aspirations through narrative-driven goal setting, powered by conversational AI for personalized motivation and progress tracking
 - [Mindmap MCP](https://github.com/YuChenSSR/mindmap-mcp-server) - mindmap, mcp server, artifact
 - [Notion](https://github.com/v-3/notion-server) - Seamlessly integrates language models with Notion workspaces for searching, creating, updating, and managing pages and databases
