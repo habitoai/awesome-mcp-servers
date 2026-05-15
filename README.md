@@ -689,6 +689,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Keboola Connection MCP Server](https://github.com/keboola/keboola-mcp-server) - Provides MCP server access to Keboola Connection's Storage API and data
 - [Needle](https://github.com/needle-ai/needle-mcp) - Integration of Needle in modelcontextprotocol
 - [Neon MCP Server](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
+- [Packrift](https://github.com/Packrift/packrift-mcp) - Packaging catalog, pricing, inventory, shipping estimate, packaging recommendation, and cart helper tools for Packrift.
 - [Rember MCP Flashcards](https://github.com/rember/rember-mcp) - A Model Context Protocol (MCP) server for Rember.
 - [ScreenshotOne](https://github.com/screenshotone/mcp/) - A simple implementation of an MCP server for the ScreenshotOne API
 - [Thirdweb](https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp) - Unifies access to Thirdweb's blockchain tools and services via the Model Context Protocol
