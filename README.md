@@ -503,6 +503,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 ### Marketing
 
+- [Nevent](https://github.com/nevent-dev/mcp-nevent) - Official MCP server for [Nevent](https://nevent.ai), the live-events CRM and marketing platform. 43 tools across analytics, segments, campaigns, templates, deliverability, paid media (Meta/Google/TikTok), and multi-tenant operations. Hosted with OAuth 2.1 at `https://mcp.nevent.ai/mcp`; stdio mode also supported.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
 
 ### Monitoring
