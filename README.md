@@ -521,6 +521,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 <br><br>
 
 - [BearMCP](https://github.com/akseyh/bear-mcp-server) - MCP Server integration for Bear note app
+- [EVC Team Relay MCP](https://github.com/entire-vc/evc-team-relay-mcp) - Collaborative Obsidian vault access via Team Relay — read, write, and sync notes with real-time CRDT-based conflict resolution
 - [Google Calendar](https://github.com/v-3/google-calendar) - Manages and schedules events, meetings, and free time slots
 
 ### Research and Data
