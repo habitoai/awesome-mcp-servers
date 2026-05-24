@@ -663,6 +663,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Maton](https://github.com/maton-ai/agent-toolkit/tree/main/modelcontextprotocol) - Integrates with various APIs via function calls for interacting with different services
 - [MiroMCP](https://github.com/evalstate/mcp-miro) - Connects Claude to Miro whiteboards, enabling creation, manipulation, and bulk operations on board elements
 - [Monday.com](https://github.com/sakce/mcp-server-monday) - MCP Server to interact with Monday.com boards and items
+- [Sanka](https://github.com/sankaHQ/sanka-mcp) - Hosted remote MCP server for Sanka API, connecting AI agents to CRM and back-office workflows
 - [n8n](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 - [NotionMCP](https://github.com/danhilse/notion_mcp) - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - [NTFY-MCP Notifier](https://github.com/teddyzxcv/ntfy-mcp) - Sends ntfy notifications upon Model Context Protocol task completion
