@@ -504,6 +504,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Marketing
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
+- [OrbiAds — Google Ad Manager MCP](https://github.com/OrbiAds/Orbiads-GAM-MCP) - Hosted MCP server connecting Claude, ChatGPT, Gemini, and Codex to Google Ad Manager. 200+ tools for campaigns, line items, creatives, reporting, and ad-ops audits. OAuth on-behalf-of-user, GAM API v202602, free trial at orbiads.com.
 
 ### Monitoring
 
