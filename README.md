@@ -505,6 +505,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Marketing
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
+- [ProposalCraft](https://github.com/bradshawprojects/proposalcraft) - MCP server for freelancers that drafts proposals in your voice from your past winning work. Paste a client brief, get a ready-to-send proposal. 7 tools including brief analysis, voice-matched drafting, and template library. Install: `npx -y github:bradshawprojects/proposalcraft`
 
 ### Monitoring
 
