@@ -535,6 +535,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [SimplePubMed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database
 - [World Bank data API](https://github.com/anshumax/world_bank_mcp_server) - An implementation of the Model Context Protocol for the World Bank open data API
+- [IDPhotoSnap](https://idphotosnap.com/developers/mcp) - Passport and visa photo specifications for 100+ countries and 248 document formats. Tools for country specs, government portal file-size constraints (DS-160, Saudi Enjaz, India Sarathi, China COVA, Canada IRCC, Schengen VFS, K-ETA), and deep links to a browser-only photo tool. Validated against 15+ official government sources. Open MIT dataset at github.com/whitetirocket/passport-photo-specs.
 
 ### Search
 
