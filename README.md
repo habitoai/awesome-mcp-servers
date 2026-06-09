@@ -259,6 +259,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Command Line](https://github.com/phialsbasement/cmd-mcp-server) - MCP server for executing CMD commands. Can be hooked to claude for additional agentics.
 - [DeepSeek Terminal](https://github.com/OthmaneBlial/term_mcp_deepseek) - A MCP‑like server using the DeepSeek API for Terminal
 - [iTerm MCP](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
+- [MCP SSH Manager](https://github.com/bvisible/mcp-ssh-manager) - Manage multiple SSH servers from Claude Code and Codex: command execution, file transfer & rsync, database operations (MySQL/PostgreSQL/MongoDB), backups & restore, health monitoring, persistent sessions, tunnels, ProxyJump/bastion, and per-server security modes (readonly/restricted) with audit log. 37 tools.
 - [MCP Tools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
 - [MCP-Chat](https://github.com/3choff/mcp-chatbot) - A simple CLI chatbot that demonstrates the integration of the Model Context Protocol (MCP).
 - [opentoolsteam](https://github.com/opentoolsteam) - A command-line interface (CLI) tool
