@@ -492,6 +492,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Notion](https://github.com/v-3/notion-server) - Seamlessly integrates language models with Notion workspaces for searching, creating, updating, and managing pages and databases
 - [Obsidian Markdown Notes](https://github.com/calclavia/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 - [PIF](https://github.com/hungryrobot1/MCP-PIF) - A MCP implementation of the personal intelligence framework (PIF)
+- [Wikivibe MCP](https://github.com/AlexMi64/wikivibe-mcp) - Public read-only MCP endpoint for searching Wikivibe AI-assisted development guides, glossary entries, jobs, and articles
 - [XMind](https://github.com/apeyroux/mcp-xmind) - Analyzes and queries XMind mind maps, enabling smart searches, task management, and multi-file analysis
 
 ### Location Services
