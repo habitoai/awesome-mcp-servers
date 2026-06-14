@@ -290,6 +290,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 - [Inoyu Unomi MCP Server](https://github.com/sergehuber/inoyu-mcp-unomi-server) - An implementation of Anthropic's Model Context Protocol for the Apache Unomi CDP
 - [Intercom](https://github.com/raoulbia-ai/mcp-server-for-intercom) - Retrieves Intercom support tickets for AI assistant analysis
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ### Data Science Tools
 
