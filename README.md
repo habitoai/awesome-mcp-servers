@@ -435,6 +435,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Finance
 
 - [Bankless Onchain](https://github.com/bankless/onchain-mcp) - Bringing the bankless onchain API to MCP
+- [Eulerpool](https://eulerpool.com/financial-data-api/mcp) - Hosted MCP server for institutional-grade financial data: stocks, ETFs, funds, crypto, forex, bonds, and macro (FRED/ECB/IMF/World Bank) via 157+ tools covering fundamentals, analyst estimates, ownership, insider & US-congress trades, and screeners. Free tier.
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
 - [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A free Model Context Protocol (MCP) server that integrates with Octagon API for investment research.
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - A MCP server for the stock market data API, Alphavantage API.
