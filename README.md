@@ -504,6 +504,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 ### Marketing
 
+- [FiveCoins Validation Plan](https://github.com/AndreuSerraSastre/fivecoins-ai-profit-experiment) - A no-signup MCP server and agent Skill that helps AI agents create evidence-focused validation plans for micro-offers, including offer, free asset, distribution, measurement, and decision rules.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
 
 ### Monitoring
