@@ -633,6 +633,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Travel and Transportation
 
 - [FlightRadar24](https://github.com/sunsetcoder/flightradar24-mcp-server) - Model Context Protocol server for Flight Tracking
+- [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup for AI agents.
 - [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) - A Model Context Protocol (MCP) server that provides access to NS (Dutch Railways) travel information through Claude AI. This server enables Claude to fetch real-time train travel information and disruptions using the official Dutch NS API.
 - [Travel Planner](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server) - Provides travel planning functionalities like location search, route calculation, and time zone retrieval via Google Maps APIs
 
