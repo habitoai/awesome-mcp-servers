@@ -511,6 +511,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
 <br><br>
 
+- [ax](https://github.com/Necmttn/ax) - Local-first telemetry and memory MCP server for AI coding agents, exposing recall, session drill-down, cost analytics, skill and hook usage, dispatches, and workflow evidence
 - [Grafana MCP](https://github.com/grafana/mcp-grafana) - Provides programmatic access to Grafana dashboards, data sources, and alerting features via the Model Context Protocol
 - [Logfire Telemetry Analyzer](https://github.com/pydantic/logfire-mcp) - The Logfire MCP Server is here! :tada:
 - [Raygun MCP Server](https://github.com/MindscapeHQ/mcp-server-raygun) - Provides API access to Raygun's crash reporting and real user monitoring features via the Model Context Protocol
