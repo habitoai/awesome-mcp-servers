@@ -493,6 +493,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Obsidian Markdown Notes](https://github.com/calclavia/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 - [PIF](https://github.com/hungryrobot1/MCP-PIF) - A MCP implementation of the personal intelligence framework (PIF)
 - [XMind](https://github.com/apeyroux/mcp-xmind) - Analyzes and queries XMind mind maps, enabling smart searches, task management, and multi-file analysis
+- [GadgetHumans Memory Vault](https://github.com/scotia1973/api-hub) - Persistent cross-session memory for AI agents via agent_memory, memory_search, memory_list, and agent_profile tools. Stores conversation context, task state, and config across sessions. Free tier: 100 ops/day. Endpoint: api.gadgethumans.com/mcp
 
 ### Location Services
 
