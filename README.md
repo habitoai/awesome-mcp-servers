@@ -437,6 +437,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Bankless Onchain](https://github.com/bankless/onchain-mcp) - Bringing the bankless onchain API to MCP
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
 - [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A free Model Context Protocol (MCP) server that integrates with Octagon API for investment research.
+- [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money — create a wallet, get AGENT from the faucet, send, and create/trade tokens on a live EVM chain. MCP server + one-click Claude Desktop extension
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - A MCP server for the stock market data API, Alphavantage API.
 - [Awesome Crypto MCP Servers by badkk](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
 - [Bankless Onchain MCP](https://github.com/Bankless/onchain-mcp/) - Bringing the bankless onchain API to MCP
