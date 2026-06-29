@@ -505,6 +505,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Marketing
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
+- [LLM Pulse](https://github.com/estevecastells/llmpulse-mcp) - MCP server for AI search visibility (GEO/AEO): brand mentions, citations, share of voice and AI-referred traffic across ChatGPT, Perplexity, Gemini and Google AI Overviews.
 
 ### Monitoring
 
@@ -576,6 +577,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Code Sandbox](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code while maintaining security through containerization.
 - [Descope](https://github.com/descope-sample-apps/descope-mcp-server) - Provides a server interface for interacting with Descope's Management APIs to search and retrieve project information
 - [DNStwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
+- [DomScan](https://github.com/estevecastells/domscan-mcp) - MCP server for domain intelligence: availability across 1500+ TLDs, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security and typosquatting/brand protection.
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) - MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources.
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manage / Proxy / Secure your MCP Servers
 - [MCP Security Auditor](https://github.com/qianniuspace/mcp-security-audit) - A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
