@@ -436,6 +436,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 - [Bankless Onchain](https://github.com/bankless/onchain-mcp) - Bringing the bankless onchain API to MCP
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
+- [FilingFirehose](https://filingfirehose.com) - MCP + REST API over SEC EDGAR filings (8-K, 10-K, 10-Q, S-3) with red-flag risk scoring (going-concern, restatement, cyber, officer departure, dilution). Free tier and per-ticker AI report. Companion open-source classifier at [buried-events-parser](https://github.com/jaablon/buried-events-parser) (MIT).
 - [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A free Model Context Protocol (MCP) server that integrates with Octagon API for investment research.
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - A MCP server for the stock market data API, Alphavantage API.
 - [Awesome Crypto MCP Servers by badkk](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
