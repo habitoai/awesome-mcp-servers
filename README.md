@@ -363,6 +363,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [JetBrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [Magic Component Platform](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [Semgrep](https://github.com/semgrep/mcp) - [beta] Use Semgrep in LLMs using MCP framework
+- [SPARDA](https://github.com/zyx77550/sparda-hq) - System for Proving Agent Reliability and Defensive Alignment. An MCP server that protects systems from autonomous agents while unlocking advanced capabilities through cryptographic proofs.
 - [Stripe](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [UnifAI](https://github.com/unifai-network/unifai-mcp-server) - Simplifies multi-chain protocol (MCP) client development with TypeScript and Python SDKs
 - [VeyraX](https://github.com/VeyraX/veyrax-mcp) - Unifies access to tools across MCP-compatible environments like Claude and VS Code, eliminating multiple authentications
