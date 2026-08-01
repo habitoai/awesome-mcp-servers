@@ -581,6 +581,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [MCP Security Auditor](https://github.com/qianniuspace/mcp-security-audit) - A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
 - [Okta](https://github.com/kapilduraphe/okta-mcp-server) - Manages Okta users and groups via a Claude-integrated server
 - [OpenCTI](https://github.com/Spathodea-Network/opencti-mcp) - A Model Context Protocol (MCP) server providing standardized access to OpenCTI threat intelligence data
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Self-hosted MCP server for autonomous AI penetration testing across web, API, Active Directory, and Kubernetes, with a local Privacy Gateway that tokenizes sensitive data before it reaches the LLM.
 - [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) - This is a repository to experiment with MCP for security
 - [SafePythonExecutor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - Stdio MCP Server wrapping custom Python runtime (LocalPythonExecutor) from Hugging Faces' `smolagents` framework. The runtime combines the ease of setup (compared to docker, VM, cloud runtimes) while providing safeguards and limiting operations/imports that are allowed inside the runtime.
 - [Solana Rug Check](https://github.com/kukapay/rug-check-mcp) - An MCP server that detects potential risks in Solana meme tokens.
