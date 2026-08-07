@@ -593,6 +593,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Twikit](https://github.com/adhikasp/mcp-twikit) - A Model Context Protocol (MCP) server for interacting with Twitter.
 - [X (Twitter)](https://github.com/EnesCinr/twitter-mcp) - A Model Context Protocol server allows to interact with Twitter, enabling posting tweets and searching Twitter.
 - [X (Twitter)](https://github.com/vidhupv/x-mcp) - Manages and publishes X/Twitter posts via Claude chat
+- [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Remote MCP server to schedule, generate and publish social posts to X, LinkedIn, Instagram, Threads and YouTube
 
 ### System Automation
 
