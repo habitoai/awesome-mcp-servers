@@ -211,6 +211,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Art and Culture
 
 - [Blender](https://github.com/ahujasid/blender-mcp) - AI-powered 3D modeling and scene manipulation tool
+- [Orkas VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first MCP server and CLI for planning and rendering videos from editable timeline files
 - [Placid.app](https://github.com/felores/placid-mcp-server) - Generate image and video creatives using Placid.app templates in MCP compatible hosts
 - [Rijksmuseum MCP](https://github.com/r-huijts/rijksmuseum-mcp) - Rijksmuseum MCP integration for artwork exploration and analysis
 
