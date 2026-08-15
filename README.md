@@ -54,6 +54,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Metoro MCP Server](https://github.com/metoro-io/metoro-mcp-server) - Connects LLMs to Kubernetes clusters via the Claude Desktop App, using Metoro's observability data
 - [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 - [Riza](https://github.com/riza-io/riza-mcp) - Securely executes and manages LLM-generated code via isolated code interpretation and API tools
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source CLI and MCP bridge that connects AI coding agents to 2,000+ AI models and APIs through one account
 - [Tavily](https://github.com/tavily-ai/tavily-mcp) - Enables AI assistants to access real-time web data via advanced search and extraction
 - [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Governs model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
 - [ZenML MCP Server](https://github.com/zenml-io/mcp-zenml) - MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines
