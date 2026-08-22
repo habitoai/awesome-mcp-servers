@@ -448,10 +448,12 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Claude YFinance Trader](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) - Provides real-time stock data, company information, and trading capabilities within Claude Desktop
 - [CoinCap Data Server](https://github.com/QuantGeekDev/coincap-mcp) - A coincap mcp server to access crypto data from coincap API
 - [CoinMarketCap Server](https://github.com/anjor/coinmarket-mcp-server) - Provides access to CoinMarketCap API data, including currency listings and quotes, via custom URI scheme and command-line tools
+- [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) - Crypto market data for 12,000+ coins and 350+ exchanges. Tickers, OHLCV, historical prices, contract lookups. Free tier, no API key required. Hosted MCP at mcp.coinpaprika.com
 - [CoinPriceFetcher](https://github.com/pwh-pwh/coin-mcp-server) - use Bitget's API to get cryptocurrency info
 - [Crypto Fear & Greed Index Server](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear & Greed Index data
 - [Crypto Indicators MCP](https://github.com/kukapay/crypto-indicators-mcp) - An MCP server providing a range of cryptocurrency technical analysis indicators and strategies.
 - [CryptoPanic News Server](https://github.com/kukapay/cryptopanic-mcp-server) - Provide latest cryptocurrency news to AI agents.
+- [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - DEX data across 36 blockchains. 36M+ pools, 33M+ tokens, OHLCV, trades, search. Free tier, no API key required. Hosted MCP at mcp.dexpaprika.com
 - [Freqtrade-MCP](https://github.com/kukapay/freqtrade-mcp) - An MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 - [GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - The leading agentic finance toolkit for AI agents
 - [Investor Agent](https://github.com/ferdousbhai/investor-agent) - A Model Context Protocol server for building an investor agent
