@@ -600,6 +600,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Solana Rug Check](https://github.com/kukapay/rug-check-mcp) - An MCP server that detects potential risks in Solana meme tokens.
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) - A Model Context Protocol (MCP) server for querying the VirusTotal API.
 - [WhoAmI MCP](https://github.com/kukapay/whoami-mcp) - A lightweight MCP server that tells you exactly who you are.
+- [DSHCorrectover/ccs-mcp-server](https://github.com/DSHCorrectover/ccs-mcp-server) 📇 🏠 🍎 🪟 🐧 - CCS runtime verification MCP server: 7-dimension validation (Structure/Schema/Latency/Cost/Identity/Integrity/Security) for AI agent tool calls with sub-millisecond OOP. Ed25519-signed evidence receipts, blocks RCE/SSRF/credential exfiltration. Zero dependencies, fail-closed, fully offline. IETF Internet-Draft. `npx ccs-mcp-server`.
 
 ### Social Media
 
