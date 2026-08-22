@@ -589,6 +589,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Descope](https://github.com/descope-sample-apps/descope-mcp-server) - Provides a server interface for interacting with Descope's Management APIs to search and retrieve project information
 - [DNStwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [DomScan](https://github.com/estevecastells/domscan-mcp) - MCP server for domain intelligence: availability, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security and typosquatting/brand protection.
+- [CCS MCP Server](https://github.com/DSHCorrectover/ccs-mcp-server) - Runtime verification middleware for AI agent tool calls. 7-dimension checks (Structure/Schema/Latency/Cost/Identity/Integrity/Security), Ed25519-signed receipts, sub-millisecond P50, zero dependencies. IETF draft + PyPI/GitHub Action ecosystem.
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) - MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources.
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manage / Proxy / Secure your MCP Servers
 - [MCP Security Auditor](https://github.com/qianniuspace/mcp-security-audit) - A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
