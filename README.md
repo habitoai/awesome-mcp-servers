@@ -556,6 +556,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Google Search Console](https://github.com/ahonn/mcp-server-gsc) - A Model Context Protocol (MCP) server providing access to Google Search Console
 - [GSearchMCP](https://github.com/jae-jae/g-search-mcp) - A powerful MCP server for Google search that enables parallel searching with multiple keywords simultaneously.
 - [LocalRAG](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
+- [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [NYTimes Article Search Server](https://github.com/angheljf/nyt) - Searches New York Times articles from the past 30 days using keywords, returning titles, abstracts, URLs, dates, and authors
 - [Scholarly](https://github.com/adityak74/mcp-scholarly) - A MCP server to search for accurate academic articles.
 - [SearXNG MCP](https://github.com/ihor-sokoliuk/mcp-searxng) - Provides web search functionality via the SearXNG API using the Model Context Protocol
