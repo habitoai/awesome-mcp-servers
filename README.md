@@ -362,6 +362,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 - [APIMatic MCP](https://github.com/apimatic/apimatic-validator-mcp) - APIMatic Validator MCP Server for validating OpenAPI specs via APIMatic's API with MCP
 - [Comet Opik MCP](https://github.com/comet-ml/opik-mcp) - Model Context Protocol (MCP) implementation for Opik enabling seamless IDE integration and unified access to prompts, projects, traces, and metrics.
+- [GLM MCP](https://github.com/djerok/glm-mcp) - Run GLM (Zhipu/Z.ai) as a real sub-agent inside Claude Code, GitHub Copilot, or Codex with its own read/write/edit/run agent loop, peak-aware routing, and diff/dry-run/git-revert oversight. ~10x cheaper than Opus.
 - [JetBrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [Magic Component Platform](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [Semgrep](https://github.com/semgrep/mcp) - [beta] Use Semgrep in LLMs using MCP framework
