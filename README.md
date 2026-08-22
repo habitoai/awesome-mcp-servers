@@ -509,6 +509,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 ### Marketing
 
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, keyword research, meta tag optimization, schema markup, and paid-ad management.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
 - [SEO Performance MCP](https://github.com/AutomateLab-tech/seo-performance-mcp) - Post-publish SEO performance server that unifies Google Search Console, GA4, Matomo, Clarity, and AI-citation signals per URL and emits a per-URL verdict (refresh, expand, merge, or kill) for every published page.
 
