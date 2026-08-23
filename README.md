@@ -462,6 +462,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Jupiter MCP](https://github.com/kukapay/jupiter-mcp) - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [KukaPay Uniswap Trader](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [LedgerAI](https://github.com/minhyeoky/mcp-server-ledger) - A Model Context Protocol server for interacting with Ledger CLI, a powerful double-entry accounting system. This server enables Large Language Models to query and analyze financial data through a standardized interface, making it easy for AI assistants to help with financial reporting, budget analysis, and accounting tasks.
+- [Live Tennis API](https://github.com/livetennisapi/livetennisapi-mcp) - Live tennis match state (score, current server, three-valued break-point flag, retirement/walkover/completed) plus player rankings, Elo, and fixtures, for enriching event-market strategies. Free tier, no card required.
 - [PancakeSwap PoolSpy](https://github.com/kukapay/pancakeswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Pancake Swap
 - [Stripe](https://github.com/atharvagupta2003/mcp-stripe) - Manages financial transactions via Stripe, providing secure payment processing, customer management, and refund capabilities with detailed audit logging
 - [TastyTrade Agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio.
