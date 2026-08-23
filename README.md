@@ -466,6 +466,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Stripe](https://github.com/atharvagupta2003/mcp-stripe) - Manages financial transactions via Stripe, providing secure payment processing, customer management, and refund capabilities with detailed audit logging
 - [TastyTrade Agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio.
 - [Uniswap PoolSpy](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
+- [vatnode](https://github.com/vatnode/vatnode-mcp) - Official MCP server for EU VAT validation via VIES, offline VAT rates for 45 European countries, and VAT number format checks.
 - [WhaleTracker MCP](https://github.com/kukapay/whale-tracker-mcp) - A mcp server for tracking cryptocurrency whale transactions.
 - [Yahoo Finance MCP](https://github.com/narumiruna/yfinance-mcp) - Fetches stock data, news, and financial information via a Yahoo Finance API server
 - [ZBD](https://github.com/zebedeeio/zbd-mcp-server) - Enables Bitcoin Lightning payments within large language models
