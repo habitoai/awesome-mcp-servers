@@ -553,7 +553,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 <br><br>
 
 - [Kagi Search](https://github.com/kagisearch/kagimcp) - A Model Context Protocol (MCP) server for Kagi search.
-- [Worklittle Jobs](https://github.com/worklittle/jobs-mcp) - Swipe to apply for jobs in your AI app, and search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love.. Remote Streamable HTTP at `https://mcp.worklittle.com/`. Official registry `io.github.worklittle/jobs`.
+- [Worklittle Jobs](https://github.com/worklittle/jobs-mcp) - Swipe to apply for jobs in your AI app, and search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love. Remote Streamable HTTP at `https://mcp.worklittle.com/`. Official registry `io.github.worklittle/jobs`.
 - [Search1API MCP](https://github.com/fatwang2/search1api-mcp) - A Model Context Protocol (MCP) server offering web search, news search, content extraction, and deep reasoning capabilities via Search1API
 - [DevRev](https://github.com/kpsunil97/devrev-mcp-server) - Searches and retrieves information from DevRev using its APIs
 - [Discourse](https://github.com/AshDevFr/discourse-mcp-server) - Searches Discourse forum posts via the Model Context Protocol (MCP)
