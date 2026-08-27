@@ -545,6 +545,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [DeepResearch Assistant](https://github.com/reading-plus-ai/mcp-server-deep-research) - Generates comprehensive, well-cited research reports from a given research question
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [SimplePubMed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database
+- [VidWords](https://github.com/haljishi/vidwords-mcp) - Hosted YouTube MCP server for searching transcripts across a whole channel, reading captions, and analysing a video's frames, returning answers with citable timestamps
 - [World Bank data API](https://github.com/anshumax/world_bank_mcp_server) - An implementation of the Model Context Protocol for the World Bank open data API
 
 ### Search
