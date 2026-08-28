@@ -692,6 +692,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 
 ### Other Tools and Integrations
 
+- [Natural Context Provider (NCP)](https://github.com/portel-dev/ncp) - N-to-1 MCP orchestration that transforms 50+ scattered MCP tools into 2 unified tools (find & run). Reduces AI token usage by 87% and eliminates tool confusion through intelligent semantic discovery.
 - [AgentQL MCP](https://github.com/tinyfish-io/agentql-mcp) - Model Context Protocol server that integrates AgentQL's data extraction capabilities.
 - [Aiven MCP](https://github.com/Aiven-Open/mcp-aiven) - Model Context Protocol server for Aiven
 - [Apify Actors MCP Server](https://github.com/apify/actors-mcp-server) - Model Context Protocol (MCP) Server for Apify's Actors
