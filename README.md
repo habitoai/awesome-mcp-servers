@@ -697,6 +697,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Apify Actors MCP Server](https://github.com/apify/actors-mcp-server) - Model Context Protocol (MCP) Server for Apify's Actors
 - [Axiom](https://github.com/axiomhq/mcp-server-axiom) - Axiom Model Context Protocol Server
 - [Box](https://github.com/box-community/mcp-server-box) - An MCP server capable of interacting with the Box API
+- [Civic Nexus](https://docs.civic.com) - Zero-setup MCP gateway securely connecting AI to your tools with authentication and workflows
 - [eSignatures](https://github.com/esignaturescom/mcp-server-esignatures) - MCP server for eSignatures (https://esignatures.com)
 - [Fewsats](https://github.com/Fewsats/fewsats-mcp) - Securely processes AI agent purchases via integrated payment methods and offers
 - [Fireproof MCP Server](https://github.com/fireproof-storage/mcp-database-server) - Store and load JSON documents from LLM tool use
