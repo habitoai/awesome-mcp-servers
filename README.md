@@ -215,6 +215,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Orkas VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first MCP server and CLI for planning and rendering videos from editable timeline files
 - [Placid.app](https://github.com/felores/placid-mcp-server) - Generate image and video creatives using Placid.app templates in MCP compatible hosts
 - [Rijksmuseum MCP](https://github.com/r-huijts/rijksmuseum-mcp) - Rijksmuseum MCP integration for artwork exploration and analysis
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Render 4-6s animated b-roll overlay videos for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape video. Paste a script, AI writes the scene spec and renders the mp4. Free, MIT, local.
 
 ### Browser Automation
 
