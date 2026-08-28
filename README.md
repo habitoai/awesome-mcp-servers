@@ -469,6 +469,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [WhaleTracker MCP](https://github.com/kukapay/whale-tracker-mcp) - A mcp server for tracking cryptocurrency whale transactions.
 - [Yahoo Finance MCP](https://github.com/narumiruna/yfinance-mcp) - Fetches stock data, news, and financial information via a Yahoo Finance API server
 - [ZBD](https://github.com/zebedeeio/zbd-mcp-server) - Enables Bitcoin Lightning payments within large language models
+- [GoldRush MCP Server](https://goldrush.dev/docs/goldrush-mcp-server) - Exposes GoldRush APIs as MCP resources and tools, enabling LLMs to interact with blockchain data across 100+ chains.
 
 ### Gaming
 
