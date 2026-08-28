@@ -731,6 +731,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Awesome MCP Servers by punkpeye](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Awesome MCP Servers by wong2](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 - [BearMCP](https://github.com/bart6114/my-bear-mcp-server/) - Provides read-only access to Bear notes for AI assistants via the Model Context Protocol (MCP)
+- [Bifrost](https://github.com/maximhq/bifrost) - A high-performance AI gateway written in Go that unifies 23+ LLM providers through a single OpenAI-compatible API, with automatic failover, load balancing, semantic caching, MCP integration, and Prometheus metrics.
 - [Bilibili MCP Searcher](https://github.com/34892002/bilibili-mcp-js) - Searches Bilibili videos via a Model Context Protocol (MCP) API, providing video metadata and supporting pagination
 - [Bitable MCP](https://github.com/lloydzhou/bitable-mcp) - This MCP server provides access to Lark Bitable through the Model Context Protocol. It allows users to interact with Bitable tables using predefined tools.
 - [Bluesky Context Server](https://github.com/keturiosakys/bluesky-context-server) - Enables MCP clients to query Bluesky instances
