@@ -793,6 +793,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [MCP Chat Client](https://github.com/flux159/mcp-chat) - Open Source Generic MCP Client for testing & evaluating mcp servers and agents
 - [MCP CLI Inspector](https://github.com/wong2/mcp-cli) - A CLI inspector for the Model Context Protocol
 - [MCP Compass](https://github.com/liuyoshio/mcp-compass) - MCP Discovery & Recommendation Service - Find the right MCP server for your needs
+- [Skillselion](https://github.com/skillselion/skillselion-mcp) - Search thousands of community-vetted Claude Code skills, MCP servers and marketplaces from the [Skillselion](https://skillselion.com) catalog (ranked by installs); `load_skill` fetches a real SKILL.md mid-task
 - [MCP Create](https://github.com/tesla0225/mcp-create) - Dynamically creates, manages, and runs Model Context Protocol (MCP) servers
 - [MCP Everything Server](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) - Model Context Protocol Servers
 - [MCP Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Model Context Protocol Servers
