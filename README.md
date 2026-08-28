@@ -578,6 +578,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Typesense](https://github.com/suhail-ak-s/mcp-typesense-server) - Provides AI models with access to Typesense search capabilities for data discovery, search, and analysis
 - [Unsplash Image Server](https://github.com/hellokaton/unsplash-mcp-server) - 🔎 A MCP server for Unsplash image search.
 - [WebSearch MCP](https://github.com/pskill9/web-search) - Web search using free google search (NO API KEYS REQUIRED)
+- [Toolradar MCP](https://github.com/Nadeus/toolradar-mcp) - Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, G2/Capterra ratings, and real alternatives
 
 ### Security
 
