@@ -104,6 +104,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Firebase MCP](https://github.com/gannonh/firebase-mcp) - Model Context Protocol (MCP) server to interact with Firebase services.
 - [Flipt MCP Server](https://github.com/flipt-io/mcp-server-flipt) - Enables AI assistants to manage Flipt feature flags via the Model Context Protocol
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) - Foxy contexts is a library for building context servers supporting Model Context Protocol
+- [Framesail](https://framesail.com/developers) - Remote MCP server that turns a script into a finished long-form video end to end: script, locked character/environment references, storyboard, voiceover, animated segments, and MP4 export, with every shot rendered against the same references
 - [Freshdesk AI Agent](https://github.com/effytech/freshdesk_mcp) - MCP server created for Freshdesk, allowing AI models to interact with Freshdesk modules
 - [Gemini Summarizer](https://github.com/0xshellming/mcp-summarizer) - MCP Server for AI Summarization
 - [Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp) - Professional Gemini API integration for Claude and all MCP-compatible hosts with intelligent model selection and advanced file handling | Smithery.ai verified
