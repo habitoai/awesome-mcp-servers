@@ -50,6 +50,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Inkeep](https://github.com/inkeep/mcp-server-python) - Provides a Retrieval Augmented Generation (RAG) server for accessing product documentation via the Model Context Protocol (MCP)
 - [Langfuse MCP Server](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [Lingo.dev](https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md) - ⚡️ AI localization toolkit for web & mobile. Translate instantly from CI/CD, using the best LLM models.
+- [Magic Hour](https://magichour.ai) - Official [hosted MCP server](https://github.com/magichourhq/magic-hour-mcp) for AI video, image, and audio generation and editing
 - [Meilisearch](https://github.com/meilisearch/meilisearch-mcp) - A Model Context Protocol (MCP) server for interacting with Meilisearch through LLM interfaces.
 - [Metoro MCP Server](https://github.com/metoro-io/metoro-mcp-server) - Connects LLMs to Kubernetes clusters via the Claude Desktop App, using Metoro's observability data
 - [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
