@@ -684,6 +684,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [NotionMCP](https://github.com/danhilse/notion_mcp) - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - [NTFY-MCP Notifier](https://github.com/teddyzxcv/ntfy-mcp) - Sends ntfy notifications upon Model Context Protocol task completion
 - [Pipedream MCP](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect APIs, remarkably fast.  Free for developers.
+- [Process Street MCP Server](https://github.com/process-street/process-street-mcp) - Connects AI clients to Process Street workflows, workflow runs, tasks, users, data sets, and operational records.
 - [Productboard](https://github.com/kenjihikmatullah/productboard-mcp) - Integrate the Productboard API into agentic workflows via MCP
 - [Rootly MCP Integration](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) - Integrates Rootly with MCP-compatible IDEs for rapid incident resolution
 - [Salesforce MCP Integrator](https://github.com/lciesielski/mcp-salesforce-example) - Integrates with Salesforce via the Model Context Protocol (MCP) to send emails and deploy Apex code
