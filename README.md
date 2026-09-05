@@ -484,6 +484,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [ObsidianMCP](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian
 - [Open-Sourced MCP Servers Directory](https://github.com/chatmcp/mcp-directory) - directory for Awesome MCP Servers
 - [OpenDota](https://github.com/asusevski/opendota-mcp-server) - Provides real-time Dota 2 statistics and match data via a Model Context Protocol server
+- [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) - Sports odds, player props, public event discovery, and account usage through a Python stdio server; account data tools use each user's own API key and allowances.
 - [SimpleMCP](https://github.com/ribeirogab/simple-mcp) - A simple TypeScript library for creating MCP servers.
 - [Unity Integration (Advanced)](https://github.com/quazaai/UnityMCPIntegration) - Enable AI Agents to Control Unity
 
