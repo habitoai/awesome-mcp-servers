@@ -442,6 +442,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A free Model Context Protocol (MCP) server that integrates with Octagon API for investment research.
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - A MCP server for the stock market data API, Alphavantage API.
 - [Awesome Crypto MCP Servers by badkk](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
+- [Bank Statement](https://github.com/theluckystrike/mcp-bank-statement) - Imports a bank CSV export, categorises transactions, summarises per currency, finds recurring charges and reconciles against an expense ledger. Runs locally, no API key.
 - [Bankless Onchain MCP](https://github.com/Bankless/onchain-mcp/) - Bringing the bankless onchain API to MCP
 - [Base Free USDC Transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP (Model Context Protocol) server - free usdc transfer powered by Coinbase CDP
 - [Bitcoin MCP Server](https://github.com/AbdelStark/bitcoin-mcp) - Bitcoin & Lightning Network MCP Server.
@@ -456,9 +457,11 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Crypto Indicators MCP](https://github.com/kukapay/crypto-indicators-mcp) - An MCP server providing a range of cryptocurrency technical analysis indicators and strategies.
 - [CryptoPanic News Server](https://github.com/kukapay/cryptopanic-mcp-server) - Provide latest cryptocurrency news to AI agents.
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - DEX data across 36 blockchains. 36M+ pools, 33M+ tokens, OHLCV, trades, search. Free tier, no API key required. Hosted MCP at mcp.dexpaprika.com
+- [Expense Tracker](https://github.com/theluckystrike/mcp-expense-tracker) - Logs expenses, receipts and mileage, auto-categorises them, splits VAT, summarises and exports to CSV or xlsx, and rebills straight into an invoice. All data stays on the machine.
 - [Freqtrade-MCP](https://github.com/kukapay/freqtrade-mcp) - An MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 - [GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - The leading agentic finance toolkit for AI agents
 - [Investor Agent](https://github.com/ferdousbhai/investor-agent) - A Model Context Protocol server for building an investor agent
+- [Invoice](https://github.com/theluckystrike/mcp-invoice) - Creates real A4 PDF invoices from chat: clients, gap-free sequential numbering, discounts, per-rate VAT lines and totals in integer minor units, plus payment and overdue tracking. Data stays in local JSON files.
 - [Jupiter MCP](https://github.com/kukapay/jupiter-mcp) - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [KukaPay Uniswap Trader](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [LedgerAI](https://github.com/minhyeoky/mcp-server-ledger) - A Model Context Protocol server for interacting with Ledger CLI, a powerful double-entry accounting system. This server enables Large Language Models to query and analyze financial data through a standardized interface, making it easy for AI assistants to help with financial reporting, budget analysis, and accounting tasks.
