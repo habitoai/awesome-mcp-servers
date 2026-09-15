@@ -465,6 +465,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [PancakeSwap PoolSpy](https://github.com/kukapay/pancakeswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Pancake Swap
 - [Stripe](https://github.com/atharvagupta2003/mcp-stripe) - Manages financial transactions via Stripe, providing secure payment processing, customer management, and refund capabilities with detailed audit logging
 - [TastyTrade Agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio.
+- [Ulule](https://developers.ulule.com/docs/mcp) - OAuth 2.1-protected MCP server for the Ulule crowdfunding platform, letting AI assistants manage projects, proposals and news updates on behalf of authenticated users.
 - [Uniswap PoolSpy](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [WhaleTracker MCP](https://github.com/kukapay/whale-tracker-mcp) - A mcp server for tracking cryptocurrency whale transactions.
 - [Yahoo Finance MCP](https://github.com/narumiruna/yfinance-mcp) - Fetches stock data, news, and financial information via a Yahoo Finance API server
