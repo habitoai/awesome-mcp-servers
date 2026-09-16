@@ -287,6 +287,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Telegram](https://github.com/chigwell/telegram-mcp) - A Python-based server enabling interaction with Telegram chats via the Model Context Protocol
 - [WhatsApp-MCP](https://github.com/lharries/whatsapp-mcp) - Searches WhatsApp messages and contacts, and sends messages via an LLM-integrated Model Context Protocol server
 - [wong2](https://github.com/wong2) - Facilitates communication and sharing via email and Telegram
+- [MeetStream](https://github.com/meetstream-ai/meetstream-mcp) - Send AI bots into Zoom, Google Meet and Microsoft Teams to record, transcribe and summarize meetings. 19 tools for bot lifecycle, transcripts, per-participant audio, live chat and calendar scheduling.
 
 ### Customer Data Platforms
 
