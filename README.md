@@ -536,6 +536,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Google Calendar](https://github.com/v-3/google-calendar) - Manages and schedules events, meetings, and free time slots
 
 ### Research and Data
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote endpoint: `https://statsnet.co/mcp`. Registry: `io.github.usenetstate/statsnet`.
 
 <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
 <br><br>
