@@ -584,6 +584,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 <br><br>
 
+- [AffixIO](https://github.com/AffixIO/affixio-mcp) - Local stdio MCP wrapping the affixio SDK. Host-side signed ACTION yes/no attestations (`attest_action`, `verify_action`, `gate_tool_call`). PII stays on the host. Install: `npx -y @affixio/mcp@0.1.0`.
 - [CLI-MCP Secure Server](https://github.com/MladenSU/cli-mcp-server) - Command line interface for MCP clients with secure execution and customizable security policies
 - [Code Sandbox](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code while maintaining security through containerization.
 - [Descope](https://github.com/descope-sample-apps/descope-mcp-server) - Provides a server interface for interacting with Descope's Management APIs to search and retrieve project information
