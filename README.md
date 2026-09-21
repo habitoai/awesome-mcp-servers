@@ -695,6 +695,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [AgentQL MCP](https://github.com/tinyfish-io/agentql-mcp) - Model Context Protocol server that integrates AgentQL's data extraction capabilities.
 - [Aiven MCP](https://github.com/Aiven-Open/mcp-aiven) - Model Context Protocol server for Aiven
 - [Apify Actors MCP Server](https://github.com/apify/actors-mcp-server) - Model Context Protocol (MCP) Server for Apify's Actors
+- [Axialis IconVectors MCP](https://github.com/marcemile/iconvectors-mcp) - Local stdio integration for inspecting and editing SVG documents in the proprietary IconVectors desktop application; requires a separate installation.
 - [Axiom](https://github.com/axiomhq/mcp-server-axiom) - Axiom Model Context Protocol Server
 - [Box](https://github.com/box-community/mcp-server-box) - An MCP server capable of interacting with the Box API
 - [eSignatures](https://github.com/esignaturescom/mcp-server-esignatures) - MCP server for eSignatures (https://esignatures.com)
