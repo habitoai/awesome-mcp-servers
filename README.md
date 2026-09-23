@@ -683,6 +683,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [n8n](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 - [NotionMCP](https://github.com/danhilse/notion_mcp) - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - [NTFY-MCP Notifier](https://github.com/teddyzxcv/ntfy-mcp) - Sends ntfy notifications upon Model Context Protocol task completion
+- [Orbit by Noveum](https://orbit.noveum.ai/mcp) - Manage issues, projects, sprints, docs and files through a hosted Streamable HTTP server with workspace-scoped OAuth.
 - [Pipedream MCP](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect APIs, remarkably fast.  Free for developers.
 - [Productboard](https://github.com/kenjihikmatullah/productboard-mcp) - Integrate the Productboard API into agentic workflows via MCP
 - [Rootly MCP Integration](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) - Integrates Rootly with MCP-compatible IDEs for rapid incident resolution
