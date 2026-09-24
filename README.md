@@ -833,6 +833,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Reaper](https://github.com/dschuler36/reaper-mcp-server) - An MCP Server for interacting with Reaper projects.
 - [Rememberizer AI](https://github.com/skydeckai/mcp-server-rememberizer) - An MCP Server to enable global access to Rememberizer
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - A type-safe solution to remote MCP communication, enabling effortless integration for centralized management of Model Context.
+- [RemoveDuplicates.org](https://github.com/suvadadepolo-blip/remove-duplicates) - Remove duplicate lines or CSV/TSV rows (e.g. pasted from Excel or Google Sheets) with one read-only tool; free hosted Streamable HTTP endpoint `https://removeduplicates.org/mcp`, no API key.
 - [ROADrecon MCP Bridge](https://github.com/atomicchonk/roadrecon_mcp_server) - Claude MCP server to perform analysis on ROADrecon data
 - [Rquest](https://github.com/xxxbrian/mcp-rquest) - A MCP server providing realistic browser-like HTTP request capabilities with accurate TLS/JA3/JA4 fingerprints for bypassing anti-bot measures. It also supports converting PDF and HTML documents to Markdown for easier processing by LLMs.
 - [SentryMCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Model Context Protocol Servers
