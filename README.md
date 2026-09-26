@@ -663,6 +663,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 <br><br>
 
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill) - Remote MCP server that connects AI agents to 1,000+ apps through one setup (https://aident.ai)
 - [Chargebee AgentKit MCP](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) - Seamlessly integrate AI agents with Chargebee using AgentKit for smarter billing and subscription workflows.
 - [Fibery](https://github.com/Fibery-inc/fibery-mcp-server) - Enables natural language interaction with Fibery workspaces via LLM integration, allowing querying, creation, and updating of entities
 - [Make AI Connector](https://github.com/integromat/make-mcp-server) - Connects AI assistants to Make automation workflows, enabling AI-driven execution and interaction with scenarios
