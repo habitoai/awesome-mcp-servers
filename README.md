@@ -53,6 +53,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Meilisearch](https://github.com/meilisearch/meilisearch-mcp) - A Model Context Protocol (MCP) server for interacting with Meilisearch through LLM interfaces.
 - [Metoro MCP Server](https://github.com/metoro-io/metoro-mcp-server) - Connects LLMs to Kubernetes clusters via the Claude Desktop App, using Metoro's observability data
 - [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
+- [RapportScore](https://app.rapportscore.ai) - Hosted Streamable HTTP MCP server at `https://mcp.rapportscore.ai/mcp`. Connect with an OAuth-capable client and sign in to access authorized Conversational AI Coaching sessions, transcripts, measurements, and coaching, plus permissioned Team Dynamics reports in a limited U.S. pilot; availability depends on account permissions and plan.
 - [Riza](https://github.com/riza-io/riza-mcp) - Securely executes and manages LLM-generated code via isolated code interpretation and API tools
 - [RunAPI](https://github.com/runapi-ai/mcp) - Runs AI model jobs through MCP, including image, video, music/audio, and LLM tasks
 - [Tavily](https://github.com/tavily-ai/tavily-mcp) - Enables AI assistants to access real-time web data via advanced search and extraction
