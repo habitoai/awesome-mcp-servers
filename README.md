@@ -371,6 +371,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Alex Andru](https://github.com/QuantGeekDev) - Builds software, focusing on GenAI and the MCP framework, and manages related communities
 - [App Store Connect MCP Server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) - Manages App Store Connect resources (apps, beta testers, bundle IDs, devices, users) via the Model Context Protocol
 - [Azure DevOps](https://github.com/Vortiago/mcp-azure-devops) - A Model Context Protocol (MCP) server enabling AI assistants to interact with Azure DevOps services via Python SDK.
+- [Better Design](https://github.com/marvkr/better-design) - Gives AI coding agents design systems, UI and UX principles, icons and UI review checks, over a remote endpoint (https://better-design.com/api/mcp) or the `better-design` npm package
 - [Claude Debugger](https://github.com/jasonjmcghee/claude-debugs-for-you) - Enable any LLM (e.g. Claude) to interactively debug any language for you via MCP and a VS Code Extension
 - [clj-kondo MCP Server](https://github.com/Bigsy/clj-kondo-MCP) - Provides clj-kondo linting for Clojure/ClojureScript/EDN via the Model Context Protocol (MCP)
 - [Clojars Dependency Server](https://github.com/Bigsy/Clojars-MCP-Server) - A Model Context Protocol (MCP) server that provides tools for fetching dependency information from Clojars, the Clojure community's artifact repository.
