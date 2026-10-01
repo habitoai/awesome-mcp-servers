@@ -589,7 +589,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Descope](https://github.com/descope-sample-apps/descope-mcp-server) - Provides a server interface for interacting with Descope's Management APIs to search and retrieve project information
 - [DNStwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [DomScan](https://github.com/estevecastells/domscan-mcp) - MCP server for domain intelligence: availability, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security and typosquatting/brand protection.
-- [Lodestar Stamp](https://lodestarstamp.com) - Dated public-source receipts agents fetch before they act via MCP (`https://api.lodestarindex.com/mcp` or `npx -y lodestar-stamp-mcp@0.1.10`). Facts on the record. We do not approve the booking. Lookup free through 2026.
+- [Lodestar Stamp](https://lodestarstamp.com) - Dated public-source receipts agents fetch before they act via MCP (`https://api.lodestarindex.com/mcp` or `npx -y lodestar-stamp-mcp@0.1.15`). Facts on the record. We do not approve the booking. Lookup free through 2026.
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) - MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources.
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manage / Proxy / Secure your MCP Servers
 - [MCP Security Auditor](https://github.com/qianniuspace/mcp-security-audit) - A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
