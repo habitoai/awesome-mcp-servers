@@ -571,6 +571,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [GitMCP](https://github.com/idosal/git-mcp) - Remote MCP server for searching documentation and source content from GitHub repositories and GitHub Pages.
 - [JADX MCP Server](https://github.com/zinja-coder/jadx-mcp-server) - Connects MCP clients to JADX for Android APK analysis, code exploration, and reverse-engineering workflows.
 - [SmartBear MCP Server](https://github.com/SmartBear/smartbear-mcp) - Official MCP server for SmartBear testing and API quality products.
+- [Gemmein MCP](https://github.com/gemmeinhq/gemmein-release) - Replaces an app's stubbed sign-in, storage and payments, and runs server-defined AI tools on the owner's provider key without exposing it to the browser
 
 ### Diagramming and Visualization
 
@@ -1187,16 +1188,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
