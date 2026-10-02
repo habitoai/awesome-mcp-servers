@@ -285,6 +285,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Business Applications
 
 - [ERPNext MCP Server](https://github.com/rakeshgangwar/erpnext-mcp-server) - Queries and manages ERPNext documents, reports, and whitelisted methods.
+- [FirstSales MCP](https://developer.firstsales.io/agents/mcp-server) - Hosted CRM MCP for reading contacts, companies, deals and lists, and creating contacts in an authorized workspace; Streamable HTTP endpoint `https://api.app.firstsales.io/mcp`, OAuth and an eligible paid FirstSales plan required.
 - [Odoo MCP Server](https://github.com/ivnvxd/mcp-server-odoo) - Connects AI assistants to Odoo ERP records for search, retrieval, and data management.
 
 - [kintone MCP Server (official)](https://github.com/kintone/mcp-server) - Official server for working with kintone apps and records through MCP tools.
