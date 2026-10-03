@@ -367,6 +367,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Communication
 
+- [Ethora](https://github.com/dappros/ethora-mcp-server) - MCP server for the open-source Ethora chat and messaging platform: create apps, rooms and users, send and search messages, deploy AI agents and RAG chatbots, and generate a website chat widget.
 - [Inbox Zero MCP](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - Open source email app to reach inbox zero fast.
 - [Mailgun](https://github.com/mailgun/mailgun-mcp-server) - Implementation of Model Context Protocol server for Mailgun APIs
 - [ChatMCP](https://github.com/AI-QL/chat-mcp) - A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs.
@@ -1329,16 +1330,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
