@@ -926,6 +926,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AISIX MCP Gateway](https://github.com/api7/aisix) - Expose registered MCP servers through one endpoint, with per-tool access controls and caller authentication.
 - [1MCP](https://github.com/1mcp-app/agent) - Aggregate configured MCP servers behind one runtime, with client-specific filtering and a CLI for progressive tool discovery and execution.
 - [MCPJungle](https://github.com/mcpjungle/MCPJungle) - Consolidates registered MCP servers behind a Streamable HTTP endpoint, with unified tool, resource, and prompt discovery plus optional tool groups.
+- [Aident Loadout](https://aident.ai) - Hosted remote MCP (`https://loadout.aident.ai/mcp`) connecting Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ Skills through one setup, with Vault credentials and Audit logging.
 - [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway) - Deploys and governs MCP adapters and agents behind a centralized gateway.
 - [MCP Proxy for AWS](https://github.com/aws/mcp-proxy-for-aws) - Client-side proxy and library for connecting AI applications and agent frameworks to MCP servers hosted on AWS.
 
