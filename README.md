@@ -867,6 +867,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Legal
 - [Australian Law MCP](https://github.com/ChangkeunJ/australian-law-mcp) - Searches Australian federal legislation, retrieves current or historical provisions, checks citations, and compares legislative versions.
 - [CanLII MCP](https://github.com/Vaquill-AI/canlii-mcp) - Browses Canadian court decisions and legislation metadata and retrieves citation relationships; requires a CanLII API key.
+- [Court Rules MCP](https://github.com/foklepoint/court-rules-mcp) - Looks up U.S. federal and state court filing rules, local rules, judge standing orders, and court holiday calendars, with a citation back to the source document.
 - [OpenAgreements Checklist MCP](https://github.com/open-agreements/open-agreements/tree/main/packages/checklist-mcp) - Creates and updates deal checklists, validates proposed changes, and imports or renders DOCX checklist documents.
 
 ### Location Services
