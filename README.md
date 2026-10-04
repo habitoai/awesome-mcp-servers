@@ -1285,6 +1285,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Axiom](https://github.com/axiomhq/mcp-server-axiom) - Axiom Model Context Protocol Server
 - [Box](https://github.com/box-community/mcp-server-box) - An MCP server capable of interacting with the Box API
 - [Clera](https://github.com/getclera/mcp) - Hosted MCP server to search 210,000+ vetted startup candidates, review Clera's picks for your open roles and request intros from Claude, ChatGPT or Cursor. OAuth 2.1, no self-host.
+- [Connections](https://studio.connections.icu/connect) - Hosted MCP server (Streamable HTTP, OAuth) for a free Connections account: contact book with follow-ups, event pages with ticketing, notes and email. Endpoint: `https://studio.connections.icu/v1/mcp`
 - [eSignatures](https://github.com/esignaturescom/mcp-server-esignatures) - MCP server for eSignatures (https://esignatures.com)
 - [Fewsats](https://github.com/Fewsats/fewsats-mcp) - Securely processes AI agent purchases via integrated payment methods and offers
 - [Fireproof MCP Server](https://github.com/fireproof-storage/mcp-database-server) - Store and load JSON documents from LLM tool use
