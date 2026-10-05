@@ -842,6 +842,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Knowledge and Memory
 
 - [AccInt](https://github.com/maxbaluev/accreted-intelligence) - Local-first Work Model and MCP server for coding-agent memory across Claude Code, OpenCode, Codex, and Cursor, using a SQLite-backed memory substrate and verified outcome feedback. [Homepage](https://accint.xyz/) | Public integration glue with private engine.
+- [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) - Remote MCP server (also A2A and HTTP) that gives agents a persistent identity, key-value memory that survives restarts, client-side encrypted storage, a searchable agent directory and a shared skills library.
 - [Anki](https://github.com/scorzeth/anki-mcp-server) - Manages and interacts with Anki flashcards via a server, enabling card creation, review, and data retrieval
 - [Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants. All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data. Integrates directly with Obsidan.md
