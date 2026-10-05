@@ -361,6 +361,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [mcp-k8s](https://github.com/silenceper/mcp-k8s) - Discovers Kubernetes API resources, reads or changes cluster objects, and manages Helm workflows.
 - [MKP Kubernetes MCP](https://github.com/StacklokLabs/mkp) - Lists, reads, and applies Kubernetes resources and executes commands in pods through the Kubernetes API.
 - [Qiniu MCP](https://github.com/qiniu/qiniu-mcp-server) - Connects to Qiniu storage, CDN, media processing, and live-streaming services through authenticated API tools.
+- [Shipvela](https://shipvela.com/integrations/codex) - Create website projects, deploy supported GitHub repositories and inspect deployment status, build logs and usage through a remote OAuth MCP server.
 - [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server) - Provides MCP tools for interacting with the Terraform ecosystem.
 - [Google Cloud CLI MCP Server](https://github.com/googleapis/gcloud-mcp/tree/main/packages/gcloud-mcp) - Exposes Google Cloud CLI operations to MCP clients.
 - [Google Cloud Backup and DR MCP Server](https://github.com/googleapis/gcloud-mcp/tree/main/packages/backupdr-mcp) - Provides tools for Google Cloud Backup and Disaster Recovery workflows.
