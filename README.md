@@ -817,6 +817,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [CareClinic Health Tracker](https://github.com/tandemloop/careclinic_mcp) - Remote OAuth MCP server for tracking symptoms, mood, medications, and wellness check-ins.
 - [FHIR MCP](https://github.com/the-momentum/fhir-mcp-server) - Queries FHIR healthcare resources, including patients, conditions, encounters, and observations, through a configured FHIR server.
 - [Fulcra Context MCP](https://github.com/fulcradynamics/fulcra-context-mcp) - Queries Fulcra workouts, health metrics, and contextual time-series data and manages user annotations.
+- [Whimbrel MedTech Analyst](https://github.com/WhimbrelResearch/whimbrel-mcp) - Remote OAuth MCP server for researching up-and-coming US medtech companies: NIH and NSF grants, federal contracts, FDA clearances and Breakthrough marketing authorizations.
 - [WSO2 FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) - Connects to FHIR APIs to discover capabilities, search and read resources, and create, update, or delete them with OAuth2 authorization.
 - [AWS HealthOmics MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-healthomics-mcp-server) - Supports genomic workflow management, execution, and analysis through AWS HealthOmics.
 
