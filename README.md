@@ -91,6 +91,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Magic Hour](https://magichour.ai) - Official [hosted MCP server](https://github.com/magichourhq/magic-hour-mcp) for AI video, image, and audio generation and editing
 - [Meilisearch](https://github.com/meilisearch/meilisearch-mcp) - A Model Context Protocol (MCP) server for interacting with Meilisearch through LLM interfaces.
 - [Metoro MCP Server](https://github.com/metoro-io/metoro-mcp-server) - Connects LLMs to Kubernetes clusters via the Claude Desktop App, using Metoro's observability data
+- [MuAPI](https://github.com/SamurAIGPT/muapi-cli) - Official CLI and hosted MCP server for image, video, and audio generation workflows
 - [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 - [Riza](https://github.com/riza-io/riza-mcp) - Securely executes and manages LLM-generated code via isolated code interpretation and API tools
 - [RunAPI](https://github.com/runapi-ai/mcp) - Runs AI model jobs through MCP, including image, video, music/audio, and LLM tasks
