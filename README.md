@@ -736,6 +736,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Norman MCP](https://github.com/norman-finance/norman-mcp-server) - Manages Norman invoices, clients, transactions, and accounting records through its API, with OAuth authentication for hosted access.
 - [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A free Model Context Protocol (MCP) server that integrates with Octagon API for investment research.
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - A MCP server for the stock market data API, Alphavantage API.
+- [ADEXTO](https://github.com/0xcuy/adexto) - Remote MCP server for bonding-curve token markets on Monad, Arbitrum One, Base, Robinhood Chain and 0G: list and price markets, buy with USDC on Base over x402, and prepare launch, stake and claim transactions for your own key.
 - [Awesome Crypto MCP Servers by badkk](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
 - [Bank Statement](https://github.com/theluckystrike/mcp-bank-statement) - Imports a bank CSV export, categorises transactions, summarises per currency, finds recurring charges and reconciles against an expense ledger. Runs locally, no API key.
 - [Bankless Onchain MCP](https://github.com/Bankless/onchain-mcp/) - Bringing the bankless onchain API to MCP
