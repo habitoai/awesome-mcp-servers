@@ -926,6 +926,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Imagician](https://github.com/flowy11/imagician) - Edits local images with resizing, cropping, format conversion, compression, rotation, flipping, metadata inspection, and batch resizing.
 - [Klaket](https://github.com/huseyinstif/klaket) - Turns video files or URLs into timestamped, structured data for LLM workflows.
 - [Kokoro TTS MCP Server](https://github.com/mberg/kokoro-tts-mcp) - Generates MP3 speech using the Kokoro text-to-speech model.
+- [MakeAIVideo](https://github.com/makeaivideo-ai/mcp) - Creates finished short-form AI videos with voiceover, AI or stock scenes, captions and music on makeaivideo.ai, and posts them to TikTok, Instagram and YouTube; stdio or hosted HTTP at `https://mcp.makeaivideo.ai`.
 - [Oh My Cassette](https://github.com/Cassette-Editor/oh-my-cassette) - MCP-assisted video editing for turning raw clips into a finished cut.
 - [Slideshot](https://github.com/06ketan/slideshot) - Converts HTML slides and carousels into PNG, WebP, PDF, or PPTX.
 - [VideoGen MCP](https://github.com/video-gen/videogen-mcp) - Generate, edit, caption, and export videos and media through stdio or hosted HTTP; [setup and documentation](https://videogen.io/videogen-mcp).
