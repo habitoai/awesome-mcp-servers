@@ -403,6 +403,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Communication
 
+- [CallForMe](https://github.com/callforme-tel/callforme) - Remote MCP server (https://callforme.tel/mcp, OAuth) that phones US and Canadian businesses for an agent, works phone menus and hold, asks the agent mid-call when needed, and returns a transcript plus structured answers.
 - [CallHub MCP](https://github.com/callhub/callhub-mcp) - Manages CallHub contacts, phonebooks, agents, teams, and campaigns through authenticated account APIs.
 - [Inbox Zero MCP](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - Open source email app to reach inbox zero fast.
 - [Mailgun](https://github.com/mailgun/mailgun-mcp-server) - Implementation of Model Context Protocol server for Mailgun APIs
