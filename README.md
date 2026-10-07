@@ -740,6 +740,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Bank Statement](https://github.com/theluckystrike/mcp-bank-statement) - Imports a bank CSV export, categorises transactions, summarises per currency, finds recurring charges and reconciles against an expense ledger. Runs locally, no API key.
 - [Bankless Onchain MCP](https://github.com/Bankless/onchain-mcp/) - Bringing the bankless onchain API to MCP
 - [Base Free USDC Transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP (Model Context Protocol) server - free usdc transfer powered by Coinbase CDP
+- [Bilbop x402](https://github.com/bilbop1/bilbop-x402-mcp) - Hosted remote MCP server for pay-per-call agent tools paid in USDC on Solana over x402, no account or API key: text summarize, Solana token brief and mint info, Piper text-to-speech, and human brand feedback. Streamable HTTP at `https://bilbop-x402-mcp.watchdogsfreak.workers.dev/mcp`; payment settles on `https://api.bilbop.org`.
 - [Bitcoin MCP Server](https://github.com/AbdelStark/bitcoin-mcp) - Bitcoin & Lightning Network MCP Server.
 - [BSC-MCP Server](https://github.com/TermiX-official/bsc-mcp) - Executes Binance Smart Chain transactions, including BNB and BEP-20 token transfers, via the Model Context Protocol
 - [Claude Crypto Trader](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) - Provides real-time cryptocurrency market data and historical charts via the CoinGecko API for Claude Desktop
