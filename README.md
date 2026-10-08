@@ -1164,6 +1164,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Audiense Insights](https://github.com/AudienseCo/mcp-audiense-insights) - Audiense Insights MCP Server is a server based on the Model Context Protocol (MCP) that allows Claude and other MCP-compatible clients to interact with your Audiense Insights account
 - [PostFast](https://github.com/peturgeorgievv-factory/postfast-mcp) - Hosted MCP server to schedule, publish, and analyze social posts across 11 platforms (X, Instagram, TikTok, LinkedIn, YouTube, Threads, Pinterest, Bluesky, Telegram, Facebook, GBP) from Claude/ChatGPT/Cursor. OAuth, 13 tools, no self-host.
+- [PostWire](https://github.com/Perufitlife/postwire-mcp) - Writes a separate native post per network from one idea and publishes or schedules it to TikTok, Instagram, YouTube, LinkedIn, Facebook Pages, Bluesky, Mastodon, Telegram and Discord (stdio via npm, or hosted at https://postwire.io/api/mcp with OAuth).
 - [Twikit](https://github.com/adhikasp/mcp-twikit) - A Model Context Protocol (MCP) server for interacting with Twitter.
 - [X (Twitter)](https://github.com/EnesCinr/twitter-mcp) - A Model Context Protocol server allows to interact with Twitter, enabling posting tweets and searching Twitter.
 - [X (Twitter)](https://github.com/vidhupv/x-mcp) - Manages and publishes X/Twitter posts via Claude chat
