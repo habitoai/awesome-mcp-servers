@@ -491,6 +491,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck) - MCP server for MotherDuck and local DuckDB
 - [Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/) - Model Context Protocol with Neo4j
 - [OceanBase](https://github.com/oceanbase/mcp-oceanbase) - MCP Server for OceanBase database and its tools
+- [Prisma MCP Server](https://www.prisma.io/docs/ai/tools/mcp-server) - Official remote MCP server for managing Prisma Postgres databases and running SQL, Prisma Compute deployments and Object Storage
 - [Qdrant MCP Server](https://github.com/qdrant/mcp-server-qdrant/) - Qdrant Model Context Protocol (MCP) server
 - [SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore) - MCP server for interacting with SingleStore Management API and services
 - [StarRocks](https://github.com/StarRocks/mcp-server-starrocks) - StarRocks MCP (Model Context Protocol) Server
