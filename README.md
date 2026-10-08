@@ -264,6 +264,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Blender](https://github.com/ahujasid/blender-mcp) - AI-powered 3D modeling and scene manipulation tool
 - [Orkas VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first MCP server and CLI for planning and rendering videos from editable timeline files
 - [Placid.app](https://github.com/felores/placid-mcp-server) - Generate image and video creatives using Placid.app templates in MCP compatible hosts
+- [QRX](https://qrx.codes/developers/mcp) - Creates artistic, print-ready QR codes from a prompt and a link, each checked to decode before it is returned. Remote MCP at https://qrx.codes/mcp (API key).
 - [Rijksmuseum MCP](https://github.com/r-huijts/rijksmuseum-mcp) - Rijksmuseum MCP integration for artwork exploration and analysis
 - [ScoreLook](https://scorelook.fr/scorelook-mcp) - French AI styling atelier (Capucine): complete sourced outfits, piece hubs, shopping criteria and weather-aware looks. Remote MCP at https://scorelook.fr/mcp (no auth, read-only).
 - [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Local MCP server for rendering animated b-roll overlays for short-form and landscape videos.
