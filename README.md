@@ -1163,6 +1163,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Social Media
 
 - [Audiense Insights](https://github.com/AudienseCo/mcp-audiense-insights) - Audiense Insights MCP Server is a server based on the Model Context Protocol (MCP) that allows Claude and other MCP-compatible clients to interact with your Audiense Insights account
+- [HeyReagent](https://heyreagent.com/linkedin-mcp?utm_source=habitoai&utm_medium=listing) - Hosted MCP server for your own LinkedIn account: read the inbox, send messages and connection invitations, search people, and read profiles and posts. Streamable HTTP with OAuth or an API key, daily limits per account, free plan. Not affiliated with LinkedIn.
 - [PostFast](https://github.com/peturgeorgievv-factory/postfast-mcp) - Hosted MCP server to schedule, publish, and analyze social posts across 11 platforms (X, Instagram, TikTok, LinkedIn, YouTube, Threads, Pinterest, Bluesky, Telegram, Facebook, GBP) from Claude/ChatGPT/Cursor. OAuth, 13 tools, no self-host.
 - [Twikit](https://github.com/adhikasp/mcp-twikit) - A Model Context Protocol (MCP) server for interacting with Twitter.
 - [X (Twitter)](https://github.com/EnesCinr/twitter-mcp) - A Model Context Protocol server allows to interact with Twitter, enabling posting tweets and searching Twitter.
