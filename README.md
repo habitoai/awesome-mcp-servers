@@ -1122,6 +1122,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Descope](https://github.com/descope-sample-apps/descope-mcp-server) - Provides a server interface for interacting with Descope's Management APIs to search and retrieve project information
 - [DNStwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [DomScan](https://github.com/estevecastells/domscan-mcp) - MCP server for domain intelligence: availability, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security and typosquatting/brand protection.
+- [HANRIA Mandate Check](https://hanria.ai) - Free, advisory pre-action check: check_action returns permit, deny or escalate against an operator mandate with a signed receipt; validate_mandate checks the mandate. Remote, no auth.
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) - MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources.
 - [MCP Audit](https://github.com/P4ST4S/mcp-audit) - Transparent stdio and HTTP proxy for MCP traffic that records signed audit logs, redacts payloads, and applies configurable tool policies and rate limits.
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manage / Proxy / Secure your MCP Servers
