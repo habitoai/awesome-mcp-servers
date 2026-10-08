@@ -1285,6 +1285,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Productboard](https://github.com/kenjihikmatullah/productboard-mcp) - Integrate the Productboard API into agentic workflows via MCP
 - [Rootly MCP Integration](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) - Integrates Rootly with MCP-compatible IDEs for rapid incident resolution
 - [Salesforce MCP Integrator](https://github.com/lciesielski/mcp-salesforce-example) - Integrates with Salesforce via the Model Context Protocol (MCP) to send emails and deploy Apex code
+- [Tale](https://github.com/tale-project/tale) - Retrieves organizational knowledge and supports authoring, testing, deploying, and running automations through Tale’s built-in HTTP MCP server; requires a bearer API key and organization header.
 - [Todoist](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude
 - [UserFeedbackMCP](https://github.com/mrexodia/user-feedback-mcp) - Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.
 - [AstraNL](https://github.com/ASTRANL/astranl-mcp) - MCP server for AI-agent coordination, EU company and VAT checks, and matching requests to service providers.
