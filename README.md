@@ -1474,42 +1474,16 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-
-
-
-
-#### What is an MCP server?
-
-
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-
-
-
-
-#### How do I connect to a server?
-
-
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-
-
-
-
-#### Where can I find published server manifests?
-
-
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-
-
-
-
-<!-- MCP_LIST_END -->
-
-
-
-
-
+## Frequently Asked Questions
+
+#### What is an MCP server?
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+#### How do I connect to a server?
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+#### Where can I find published server manifests?
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+<!-- MCP_LIST_END -->
+
