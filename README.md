@@ -491,6 +491,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck) - MCP server for MotherDuck and local DuckDB
 - [Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/) - Model Context Protocol with Neo4j
 - [OceanBase](https://github.com/oceanbase/mcp-oceanbase) - MCP Server for OceanBase database and its tools
+- [Prisma MCP Server](https://www.prisma.io/docs/ai/tools/mcp-server) - Official remote MCP server for managing Prisma Postgres databases and running SQL, Prisma Compute deployments and Object Storage
 - [Qdrant MCP Server](https://github.com/qdrant/mcp-server-qdrant/) - Qdrant Model Context Protocol (MCP) server
 - [SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore) - MCP server for interacting with SingleStore Management API and services
 - [StarRocks](https://github.com/StarRocks/mcp-server-starrocks) - StarRocks MCP (Model Context Protocol) Server
@@ -1473,16 +1474,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
