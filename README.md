@@ -730,6 +730,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Finance
 
 - [Bankless Onchain](https://github.com/bankless/onchain-mcp) - Bringing the bankless onchain API to MCP
+- [Equibles](https://equibles.com/mcp) - Hosted MCP server for US company research: SEC filing search and text, fundamentals as reported in 10-K and 10-Q filings, earnings-call transcripts, 13F holdings, insider and congressional trades, and FRED macro series, with links to the source filings.
 - [Eulerpool](https://eulerpool.com/financial-data-api/mcp) - Hosted MCP server for institutional-grade financial data: stocks, ETFs, funds, crypto, forex, bonds, and macro (FRED/ECB/IMF/World Bank) via 157+ tools covering fundamentals, analyst estimates, ownership, insider & US-congress trades, and screeners. Free tier.
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
 - [Frankfurter MCP](https://github.com/anirbanbasu/frankfurtermcp) - Retrieves supported currencies and current or historical exchange rates and performs currency conversions through the Frankfurter API.
