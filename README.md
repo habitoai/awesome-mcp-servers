@@ -442,6 +442,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Customer Data Platforms
 
+- [Datacircle](https://docs.datacircle.dev/mcp-server) - Hosted MCP server. Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. OAuth 2.1 with dynamic client registration or an API key. Endpoint: https://api.datacircle.dev/mcp
 - [Inoyu Unomi MCP Server](https://github.com/sergehuber/inoyu-mcp-unomi-server) - An implementation of Anthropic's Model Context Protocol for the Apache Unomi CDP
 - [Intercom](https://github.com/raoulbia-ai/mcp-server-for-intercom) - Retrieves Intercom support tickets for AI assistant analysis
 
