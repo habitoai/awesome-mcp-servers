@@ -908,6 +908,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Get MCP Ads — X Ads](https://github.com/get-mcp-ads/x-ads-mcp-server) - Query X advertising analytics, campaigns, and creatives, with optional preview-first writes.
 - [Nevent](https://github.com/nevent-dev/mcp-nevent) - Hosted MCP server for marketing analytics, audience segments, campaigns, templates, deliverability, and paid media.
 - [OrbiAds](https://github.com/OrbiAds/Orbiads-GAM-MCP) - Hosted OAuth MCP server for managing Google Ad Manager networks.
+- [Reach by Locus: Google Business Profile MCP](https://reach.locus-intelligence.com/google-business-profile-mcp) - Hosted GBP MCP for local SEO: read profiles, reviews, performance, Google Maps rankings, competitors and leads; preview and approve review replies, Google posts, profile edits and photo changes. Streamable HTTP at `https://reach.locus-intelligence.com/api/mcp`, with Reach account OAuth 2.1; Google connection state, permissions and plan limits apply. Free plan available.
 - [Robot Speed](https://github.com/robot-speed/mcp) - Hosted MCP server for SEO audits, keyword research, site content management, and client reports.
 - [SiteAudit](https://github.com/vdalhambra/siteaudit-mcp) - MCP server for website SEO, performance, security, and broken-link audits.
 - [DataForSEO MCP Server](https://github.com/dataforseo/mcp-server-typescript) - Provides search results, keyword research, and related SEO data through the DataForSEO API.
