@@ -974,6 +974,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Networking
 
+- [GenieACS MCP](https://github.com/GeiserX/genieacs-mcp) - Searches the routers, ONTs and other CPE devices managed by a GenieACS TR-069 ACS, reads their parameters, tasks and faults, and can reboot them, push firmware or set parameters; has no read-only mode.
 - [Hetzner DNS MCP](https://github.com/ni-c/hetzner-dns-mcp) - Inspects and manages Hetzner Cloud DNS zones and record sets, with a read-only mode and confirmed writes.
 - [Junos MCP Server](https://github.com/Juniper/junos-mcp-server) - Connects MCP clients to Juniper devices for Junos configuration and operational commands.
 - [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) - Retrieves network inventory and related data from NetBox through a read-only MCP server.
