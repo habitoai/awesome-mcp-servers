@@ -884,6 +884,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [IP2Location.io MCP](https://github.com/ip2location/mcp-ip2location-io) - Looks up IP geolocation, ASN, network, and proxy information, with bulk lookups and fields determined by the API plan.
 - [IPInfo MCP Server](https://github.com/briandconnelly/mcp-server-ipinfo) - IP Geolocation Server for MCP
 - [Nearby Search Server](https://github.com/kukapay/nearby-search-mcp) - An MCP server for nearby place searches with IP-based location detection.
+- [TerraLab MCP](https://terra-lab.ai/mcp) - Hosted GeoAI tools for preparing geospatial data for QGIS and GIS workflows through a public Streamable HTTP endpoint.
 - [Virtual location (Google Street View,etc.)](https://github.com/mfukushim/map-traveler-mcp) - Virtual traveler library for MCP
 - [WhereAmI Location Server](https://github.com/kukapay/whereami-mcp) - A lightweight mcp server that tells you exactly where you are.
 - [Baidu Maps MCP Server](https://github.com/baidu-maps/mcp) - Provides geocoding, place search, route planning, weather, and traffic tools for Baidu Maps.
