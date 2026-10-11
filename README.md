@@ -854,6 +854,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Notion](https://github.com/v-3/notion-server) - Seamlessly integrates language models with Notion workspaces for searching, creating, updating, and managing pages and databases
 - [Obsidian Markdown Notes](https://github.com/calclavia/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 - [Open Index](https://github.com/DrDroidLab/open-index) - Structured context graph for domain-specific agents with hybrid search and validated read/write MCP tools.
+- [ORANO MCP Server](https://github.com/infotik/orano-mcp-server) - A personal, read-only Model Context Protocol server that lets AI assistants search a user's saved ORANO library over remote Streamable HTTP with a personal bearer key.
 - [PIF](https://github.com/hungryrobot1/MCP-PIF) - A MCP implementation of the personal intelligence framework (PIF)
 - [XMind](https://github.com/apeyroux/mcp-xmind) - Analyzes and queries XMind mind maps, enabling smart searches, task management, and multi-file analysis
 - [ContextStream](https://github.com/contextstream/mcp-server) - Persistent project memory and semantic code search across connected repositories, documents, and conversations.
