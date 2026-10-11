@@ -1051,6 +1051,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Astronomy Oracle](https://github.com/gregario/astronomy-oracle) - Provides astronomical catalog data and observing-session visibility planning.
 - [Data Aggregator MCP](https://github.com/musharna/data-aggregator-mcp) - Searches and retrieves research data across archives, omics registries, and scholarly literature.
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - DC Hub is live data for data-center site selection. Its Data Center Power Index (DCPI) scores grid power in 300+ markets daily. MCP: https://dchub.cloud/mcp
 - [Grounding AI](https://github.com/andyliszewski/grounding-ai) - Creates a local document corpus for evidence-grounded agent answers.
 - [Hacker News MCP](https://github.com/imprvhub/mcp-claude-hackernews) - Browses Hacker News stories, rankings, searches, and comments.
 - [OmniSeek](https://github.com/Battam1111/omniseek) - Self-hosted research tools for searching podcasts, social discussions, web sources, and multilingual content.
