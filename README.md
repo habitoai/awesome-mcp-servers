@@ -1003,6 +1003,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Open Data
 
+- [Invokely](https://invokely.ai/docs) - Query source-cited official statistics by indicator, place and period; compare places and rank them at supported levels across the U.S., EU and Spain, with World Bank rankings for countries and the world. Hosted Streamable HTTP MCP at https://invokely.ai/mcp (OAuth or API key); no-account trial at https://invokely.ai/mcp/trial. Official MCP Registry: io.github.estevecastells/invokely. Proprietary hosted service; source repository is private.
 - [Israel Statistics MCP](https://github.com/reuvenaor/israel-statistics-mcp) - Queries Israeli Central Bureau of Statistics price indices, historical time series, index categories, and price-linkage calculations.
 - [KRS Poland MCP](https://github.com/pkolawa/krs-poland-mcp-server) - Retrieves current and historical entity records from Poland's National Court Register using a KRS number.
 - [MCP Brasil](https://github.com/Mcp-Brasil/mcp-brasil) - Connects to 70 Brazilian public-data sources covering government, finance, law, elections, health, education, and more.
