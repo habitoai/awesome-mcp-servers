@@ -941,6 +941,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Elicitly](https://github.com/elicitly/elicitly) - Provides a local human-in-the-loop elicitation server for agent questions and approvals.
 - [MCP Hangar](https://github.com/mcp-hangar/mcp-hangar) - Applies policy to MCP server fleets and provides attributable audit and SIEM export.
 - [MCP Triage](https://github.com/neufagents/mcp-triage) - Scans MCP client configurations and offers cautious fixes, with dry-run enabled by default.
+- [Omega MCP Router](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) - Proxies many stdio MCP servers behind one connection, serving tool schemas from a disk cache and starting each upstream only on its first call, with per-session tools to switch upstreams on and off.
 - [Reloaderoo](https://github.com/cameroncooke/reloaderoo) - Proxies MCP tools, resources, and prompts while allowing a child server to restart without reconnecting the client; includes CLI inspection commands.
 - [ToolHive](https://github.com/stacklok/toolhive) - Runs MCP servers in isolated containers and can aggregate backend tools into virtual MCP servers, with local and Kubernetes runtimes.
 
