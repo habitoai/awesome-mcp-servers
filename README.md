@@ -1098,6 +1098,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) - Real-time product search and price comparison for Singapore and Southeast Asia. Search 260K+ products from Lazada, Shopee, FairPrice, Courts, and other major SEA merchants.
 - [ContextWire](https://github.com/keptlive/contextwire-mcp) - Hosted MCP API for web search, extraction, and research.
 - [Toolradar MCP](https://github.com/Nadeus/toolradar-mcp) - Search, compare, and retrieve pricing for software tools.
+- [looot](https://github.com/loootai/looot-mcp) - Remote MCP server and API: one key for 2,500+ data endpoints (emails, phones, companies, SERP, web). Prepaid, pay per call.
 
 - [Brave Search MCP Server](https://github.com/brave/brave-search-mcp-server) - Provides web, local, place, image, video, news, and AI summarization search through Brave Search.
 - [Jina AI MCP](https://github.com/jina-ai/MCP) - Connects MCP clients to Jina's web search, reader, and embedding APIs.
