@@ -1174,6 +1174,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Bluesky Social MCP](https://github.com/gwbischof/bluesky-social-mcp) - Connects MCP clients to Bluesky through the atproto client.
 - [Posthive](https://github.com/AstaBlackClove/posthive) - Self-hosted social media scheduling and publishing with MCP tools for managing posts.
+- [Unsora](https://github.com/Shipped-Studio/unsora) - Generates AI images, video, voiceovers, music and clips, then schedules and publishes them to connected social accounts via a remote MCP server.
 - [Velog MCP](https://github.com/milcho0604/velog-mcp) - Reads, drafts, publishes, and backs up Velog articles.
 - [Wenyan MCP Server](https://github.com/caol64/wenyan-mcp) - Formats Markdown and prepares content for publication to WeChat and other supported platforms.
 
