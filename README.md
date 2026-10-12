@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [Warmerly](https://github.com/WarmerlyApp/mcp) - Official hosted OAuth MCP server for email warmup, SPF/DKIM/DMARC checks, inbox placement tests, lead search, draft cold email campaigns and inbox reply triage.
 
 ### Media and Audio
 
