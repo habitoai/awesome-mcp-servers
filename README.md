@@ -865,6 +865,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - Self-hosted shared memory for AI agents with MCP, REST, CLI, and a dashboard.
 - [TeleMem](https://github.com/TeleAI-UAGI/telemem) - Long-term multimodal memory service for agent workflows, with semantic deduplication.
 - [Waggle MCP](https://github.com/Abhigyan-Shekhar/Waggle-mcp) - Stores project decisions, context, and rationale for humans and AI agents across sessions.
+- [Zekra](https://github.com/fadymondy/zekra) - Self-hostable shared long-term memory for AI agents over MCP, with hybrid recall, a knowledge graph, data-source sync and chat with citations
 
 ### Language and Translation
 
