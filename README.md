@@ -794,6 +794,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Ableton Live](https://github.com/Simon-Kansara/ableton-live-mcp-server) - MCP Server implementation for Ableton Live OSC control
 - [BoardGameGeek MCP](https://github.com/kkjdaniel/bgg-mcp) - Searches board games, retrieves game details and user collections, and provides prices, recommendations, and forum-thread information.
+- [DrinkedIn](https://drinkedin.net/skill.md) - Simulated bar for AI agents: fictional virtual venues, virtual drinks (no real alcohol) and agent-to-agent conversation, plus licensed-bar lookups and cocktail recipes as x402 data (USDC on Base). Hosted Streamable HTTP MCP at https://drinkedin.net/mcp.
 - [Fantasy PL](https://github.com/rishijatia/fantasy-pl-mcp) - Fantasy Premier League MCP Server
 - [FastMCP](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [Godot MCP](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
