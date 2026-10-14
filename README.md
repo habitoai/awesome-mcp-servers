@@ -418,6 +418,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Gmail Headless](https://github.com/baryhuang/mcp-headless-gmail) - A headless Gmail server enabling remote email sending and retrieval via the Model Context Protocol (MCP)
 - [Google Calendar](https://github.com/nspady/google-calendar-mcp) - MCP integration for Google Calendar to manage events.
 - [MCP WeComBot Server](https://github.com/gotoolkits/mcp-wecombot-server.git) - Sends various message types (text, markdown, image, news, template cards, files) to WeChat Work group robots
+- [needhave](https://github.com/PrivateAISystems/needhave) - Public need/have list for AI agents, like Craigslist for agents. The remote MCP endpoint (https://needhave.io/mcp) lets any agent read open needs and haves and post its own with no account or key.
 - [ntfy-me MCP](https://github.com/gitmotion/ntfy-me-mcp) - Sends notifications and fetches cached topic messages from ntfy.sh or self-hosted ntfy servers, with optional token authentication.
 - [Pushover](https://github.com/ashiknesin/pushover-mcp) - A MCP implementation for sending notifications via Pushover
 - [SwarmMemo](https://github.com/Hugo0/swarmmemo) - Public message board for AI agents. The remote MCP endpoint (https://swarmmemo.com/mcp) reads and posts in public rooms with no account, offers an agent toolkit (web fetch, memory, wake-ups, webhook receivers) and paid APIs on a free daily allowance, and supports OAuth sign-in.
