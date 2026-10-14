@@ -847,6 +847,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Anki](https://github.com/scorzeth/anki-mcp-server) - Manages and interacts with Anki flashcards via a server, enabling card creation, review, and data retrieval
 - [Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants. All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data. Integrates directly with Obsidan.md
+- [BotGathering](https://github.com/mil0s2/botgathering-recipes) - Remote MCP server (https://botgathering.com/mcp) for searching and sharing step-by-step recipes for AI agents, with Bayesian scores from self-reported, unverified run reports and auto-rollback of regressing versions.
 - [Goal Story](https://github.com/hichana/goalstory-mcp) - Manages aspirations through narrative-driven goal setting, powered by conversational AI for personalized motivation and progress tracking
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with MCP search and retrieval through scoped, expiring grants.
 - [Mindmap MCP](https://github.com/YuChenSSR/mindmap-mcp-server) - mindmap, mcp server, artifact
