@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [MentionsAPI](https://github.com/mukul-dutt/mentionsapi-mcp) - Checks whether AI assistants recommend a brand: mentions, rank, sentiment and cited URLs across ChatGPT, Claude, Gemini, Perplexity, Google AI Overviews and Bing Copilot. Remote (OAuth 2.1) or local via npx; free tier.
 
 ### Media and Audio
 
