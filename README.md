@@ -819,6 +819,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Fulcra Context MCP](https://github.com/fulcradynamics/fulcra-context-mcp) - Queries Fulcra workouts, health metrics, and contextual time-series data and manages user annotations.
 - [WSO2 FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) - Connects to FHIR APIs to discover capabilities, search and read resources, and create, update, or delete them with OAuth2 authorization.
 - [AWS HealthOmics MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-healthomics-mcp-server) - Supports genomic workflow management, execution, and analysis through AWS HealthOmics.
+- [CareJobs.Now](https://carejobs.now/data) - Remote, read-only MCP server (no auth) at `https://carejobs.now/api/mcp` that searches 170,000+ open US healthcare jobs at 258 hospitals and health systems, with the pay each employer posts.
 
 - [BioThings MCP](https://github.com/longevity-genie/biothings-mcp) - Provides MCP access to BioThings biomedical APIs and their research datasets.
 - [Google Health MCP](https://github.com/davidmosiah/google-health-mcp) - Reads user-authorized Google Health data locally through OAuth, including Fitbit and Pixel Watch data.
