@@ -1106,6 +1106,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AnySearch MCP Server](https://github.com/anysearch-ai/anysearch-mcp-server) - Offers general and vertical search, batch queries, and URL content extraction.
 
 - [Agent Search MCP](https://github.com/lennney/agent-search-mcp) - Performs free-first English and Chinese web search with inspectable multi-source evidence.
+- [Desearch MCP](https://github.com/Desearch-ai/mcp-desearch) - Gives agents AI search across web, Reddit, Hacker News, arXiv and Wikipedia, plus X post, user and trend lookups and page extraction. Works over stdio or the hosted endpoint ([docs](https://www.desearch.ai/docs/guide/sdk/mcp)).
 - [Driflyte MCP Server](https://github.com/serkan-ozal/driflyte-mcp-server) - Retrieves topic-specific knowledge from recursively crawled and indexed web pages.
 - [Gopher and Gemini MCP](https://github.com/cameronrye/gopher-mcp) - Browses resources on the Gopher and Gemini protocols.
 - [pdfmux](https://github.com/NameetP/pdfmux) - Extracts PDF content and flags pages that could not be read reliably.
