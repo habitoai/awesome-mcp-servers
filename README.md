@@ -742,6 +742,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Base Free USDC Transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP (Model Context Protocol) server - free usdc transfer powered by Coinbase CDP
 - [Bitcoin MCP Server](https://github.com/AbdelStark/bitcoin-mcp) - Bitcoin & Lightning Network MCP Server.
 - [BSC-MCP Server](https://github.com/TermiX-official/bsc-mcp) - Executes Binance Smart Chain transactions, including BNB and BEP-20 token transfers, via the Model Context Protocol
+- [Chord](https://github.com/getchordlabs/chord) - Hosted no-key MCP: DEX swap quotes and unsigned txs on 7 EVM chains, token boards, candles, wallet PnL, smart money.
 - [Claude Crypto Trader](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) - Provides real-time cryptocurrency market data and historical charts via the CoinGecko API for Claude Desktop
 - [Claude YFinance Trader](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) - Provides real-time stock data, company information, and trading capabilities within Claude Desktop
 - [CoinCap Data Server](https://github.com/QuantGeekDev/coincap-mcp) - A coincap mcp server to access crypto data from coincap API
@@ -761,6 +762,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Jupiter MCP](https://github.com/kukapay/jupiter-mcp) - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [KukaPay Uniswap Trader](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [LedgerAI](https://github.com/minhyeoky/mcp-server-ledger) - A Model Context Protocol server for interacting with Ledger CLI, a powerful double-entry accounting system. This server enables Large Language Models to query and analyze financial data through a standardized interface, making it easy for AI assistants to help with financial reporting, budget analysis, and accounting tasks.
+- [MoltNode by Chord](https://github.com/tuantqse90/moltnode-mcp) - Hosted no-key MCP: read 31 blockchains over JSON-RPC, get DEX swap quotes and unsigned transactions via Chord.
 - [PancakeSwap PoolSpy](https://github.com/kukapay/pancakeswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Pancake Swap
 - [Square MCP](https://github.com/square/square-mcp-server) - Provides authenticated Square API access for payments, orders, catalog, and account operations, with sandbox and read-only options.
 - [Strale](https://strale.dev) - MCP server exposing Strale’s data capability catalog: company registry lookups across 27 countries, sanctions/PEP screening, IBAN/VAT/LEI validation, web intelligence, and document extraction. Free tier available.
