@@ -1230,6 +1230,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Travel and Transportation
 
 - [FlightRadar24](https://github.com/sunsetcoder/flightradar24-mcp-server) - Model Context Protocol server for Flight Tracking
+- [Google Hotels MCP](https://github.com/huynhtanan/google-hotels-mcp) - Live Google Hotels + Vacation Rentals search with per-OTA nightly rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers) plus a 3-month daily price calendar and party-size filters. Pay-per-use via Apify (bring your own APIFY_TOKEN).
 - [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup for AI agents.
 - [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Official MAQAMI MCP server for hotel and flight booking: search live rates across 3M+ hotels, then prebook and book. Hosted Streamable HTTP endpoint, no API key.
 - [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) - A Model Context Protocol (MCP) server that provides access to NS (Dutch Railways) travel information through Claude AI. This server enables Claude to fetch real-time train travel information and disruptions using the official Dutch NS API.
