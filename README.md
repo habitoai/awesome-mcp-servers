@@ -913,6 +913,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [DataForSEO MCP Server](https://github.com/dataforseo/mcp-server-typescript) - Provides search results, keyword research, and related SEO data through the DataForSEO API.
 - [Google Tag Manager MCP Server](https://github.com/stape-io/google-tag-manager-mcp-server) - Manages Google Tag Manager accounts, containers, tags, triggers, and variables.
 - [Microsoft Clarity MCP Server](https://github.com/microsoft/clarity-mcp-server) - Retrieves Clarity analytics and session insights for website projects.
+- [Klype](https://github.com/shruti12XT/klype-mcp) - Hosted MCP server that drafts LinkedIn, X and Reddit posts in your measured writing voice, checks drafts for AI phrasing and unsourced claims, and records approvals.
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
