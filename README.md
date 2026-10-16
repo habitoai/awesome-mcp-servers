@@ -311,6 +311,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Odoo MCP Server](https://github.com/ivnvxd/mcp-server-odoo) - Connects AI assistants to Odoo ERP records for search, retrieval, and data management.
 
 - [kintone MCP Server (official)](https://github.com/kintone/mcp-server) - Official server for working with kintone apps and records through MCP tools.
+- [RestoSignals](https://github.com/paperandbeyond23-gif/restosignals-mcp) - Hosted MCP server for pre-opening US restaurant and bar leads: liquor-license, food-permit and new-business filings fused into scored venues with owner contact.
 - [Taskade Workspace MCP](https://github.com/Taskade/mcp) - Official workspace server with tools for projects, tasks, agents, webhooks, knowledge bases, templates, and media.
 
 ### CAD and Design
