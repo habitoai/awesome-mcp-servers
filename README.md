@@ -735,6 +735,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Frankfurter MCP](https://github.com/anirbanbasu/frankfurtermcp) - Retrieves supported currencies and current or historical exchange rates and performs currency conversions through the Frankfurter API.
 - [Norman MCP](https://github.com/norman-finance/norman-mcp-server) - Manages Norman invoices, clients, transactions, and accounting records through its API, with OAuth authentication for hosted access.
 - [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A free Model Context Protocol (MCP) server that integrates with Octagon API for investment research.
+- [Silicon Floor](https://siliconfloor.com/docs/mcp) - Hosted MCP server on listed AI and semiconductor companies: who owns them (13F, Schedule 13D/G, Forms 3/4/5, N-PORT), insider buying and selling, financial statements as filed in SEC XBRL, FINRA short interest, dividends and prices. Every figure is dated and linked to its filing. Streamable HTTP, read-only, no key: `https://siliconfloor.com/mcp`
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - A MCP server for the stock market data API, Alphavantage API.
 - [Awesome Crypto MCP Servers by badkk](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
 - [Bank Statement](https://github.com/theluckystrike/mcp-bank-statement) - Imports a bank CSV export, categorises transactions, summarises per currency, finds recurring charges and reconciles against an expense ledger. Runs locally, no API key.
