@@ -594,6 +594,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [ESP-MCP Build Manager](https://github.com/horw/esp-mcp) - Manages and automates ESP-IDF project builds, including logging and automated issue resolution
 - [FastAPI to MCP auto generator](https://github.com/tadata-org/fastapi_mcp) - A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools.
 - [FastMCP](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
+- [FaviconDL](https://github.com/sweesama/favicondl.com) - Extracts the best-quality favicon (SVG/PNG/ICO) for any website URL via MCP tools and a free no-key HTTP API. [Homepage](https://favicondl.com/)
 - [FileScope](https://github.com/admica/FileScopeMCP) - Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages such as Python, C, C++, Rust, Zig, Lua.
 - [gching](https://github.com/gching) - Manages GitHub profile and repositories
 - [GDB](https://github.com/pansila/mcp_server_gdb) - MCP Server to expose the GDB debugging capabilities
@@ -1258,6 +1259,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) - Provides public web search, page scraping, structured data extraction, and browser automation tools.
 - [Olostep MCP](https://github.com/olostep/olostep-mcp-server) - Searches the web, scrapes pages, crawls sites, maps URLs, and runs batch extraction through the Olostep API.
 - [Supadata MCP](https://github.com/supadata-ai/mcp) - Retrieves video transcripts and media metadata, scrapes or crawls websites, and extracts structured content through the Supadata API.
+- [ReadGZH](https://github.com/sweesama/readgzh) - Reads public WeChat Official Account articles from a URL and returns clean Markdown via remote MCP tools; anonymous shared quota or optional API key. [Homepage](https://readgzh.site/)
 
 ### Workflow Automation
 
