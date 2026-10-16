@@ -753,6 +753,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [CryptoPanic News Server](https://github.com/kukapay/cryptopanic-mcp-server) - Provide latest cryptocurrency news to AI agents.
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - DEX data across 36 blockchains. 36M+ pools, 33M+ tokens, OHLCV, trades, search. Free tier, no API key required. Hosted MCP at mcp.dexpaprika.com
 - [Expense Tracker](https://github.com/theluckystrike/mcp-expense-tracker) - Logs expenses, receipts and mileage, auto-categorises them, splits VAT, summarises and exports to CSV or xlsx, and prepares billable expenses as invoice line items. All data stays on the machine.
+- [Fillfolio MCP](https://github.com/fillfolio/portfolio-mcp) - Reads stored portfolios, holdings, cash, bank spending and budgets through hosted OAuth. Requires a paid account; spending and budgets also require an eligible plan, bank-spending consent and separate permissions.
 - [Freqtrade-MCP](https://github.com/kukapay/freqtrade-mcp) - An MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 - [GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - The leading agentic finance toolkit for AI agents
 - [Investor Agent](https://github.com/ferdousbhai/investor-agent) - A Model Context Protocol server for building an investor agent
