@@ -738,6 +738,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - A MCP server for the stock market data API, Alphavantage API.
 - [Awesome Crypto MCP Servers by badkk](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
 - [Bank Statement](https://github.com/theluckystrike/mcp-bank-statement) - Imports a bank CSV export, categorises transactions, summarises per currency, finds recurring charges and reconciles against an expense ledger. Runs locally, no API key.
+- [BankBridge](https://bankbridge.money) - Hosted remote MCP server with read-only access to your own US bank, credit card and investment accounts at 12,000+ institutions: transactions, spending, recurring charges, cashflow and holdings, fetched live and never stored. Paid, $5/mo per connected bank.
 - [Bankless Onchain MCP](https://github.com/Bankless/onchain-mcp/) - Bringing the bankless onchain API to MCP
 - [Base Free USDC Transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP (Model Context Protocol) server - free usdc transfer powered by Coinbase CDP
 - [Bitcoin MCP Server](https://github.com/AbdelStark/bitcoin-mcp) - Bitcoin & Lightning Network MCP Server.
