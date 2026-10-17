@@ -1000,6 +1000,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Google Workspace MCP](https://github.com/taylorwilsdon/google_workspace_mcp) - Connects AI clients to Gmail, Calendar, Drive, Docs, Sheets, and other Google Workspace services.
 - [Paperless-NGX MCP](https://github.com/baruchiro/paperless-mcp) - Searches and manages Paperless-NGX documents, tags, correspondents, document types, notes, and custom fields through its API.
 - [Scan MCP](https://github.com/jacksenechal/scan-mcp) - Discovers scanners, starts and monitors scan jobs, and produces multipage TIFF documents and per-job capture artifacts.
+- [Vespper](https://www.vespper.com) - Reads Microsoft Word .docx files as HTML and applies agent edits back as native tracked changes.
 
 ### Open Data
 
