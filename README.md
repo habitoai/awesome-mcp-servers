@@ -906,6 +906,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Get MCP Ads — Pinterest Ads](https://github.com/get-mcp-ads/pinterest-ads-mcp-server) - Query Pinterest advertising performance and campaign data, with optional preview-first writes.
 - [Get MCP Ads — TikTok Ads](https://github.com/get-mcp-ads/tiktok-ads-mcp-server) - Query TikTok advertising performance, campaigns, and creatives, with optional preview-first writes.
 - [Get MCP Ads — X Ads](https://github.com/get-mcp-ads/x-ads-mcp-server) - Query X advertising analytics, campaigns, and creatives, with optional preview-first writes.
+- [Hypotize](https://github.com/hypotizeai/hypotize-plugin) - Growth OS shared by your team and AI agent: idea backlog, experiment pipeline and learning library. The agent checks past tests, writes and scores hypothesis-first ideas, and closes each test with a measured result and a learning.
 - [Nevent](https://github.com/nevent-dev/mcp-nevent) - Hosted MCP server for marketing analytics, audience segments, campaigns, templates, deliverability, and paid media.
 - [OrbiAds](https://github.com/OrbiAds/Orbiads-GAM-MCP) - Hosted OAuth MCP server for managing Google Ad Manager networks.
 - [Robot Speed](https://github.com/robot-speed/mcp) - Hosted MCP server for SEO audits, keyword research, site content management, and client reports.
