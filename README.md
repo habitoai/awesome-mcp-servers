@@ -251,6 +251,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Zue](https://github.com/zueai) - Builds custom AI applications, automation solutions, and data processing pipelines for various industries
 - [Kleap](https://github.com/kleaphq/cli) - Build, edit, and publish websites through a local or hosted MCP server.
 - [RouterBase](https://github.com/zenlee123/routerbase-mcp) - MCP server for model discovery, pricing lookup, and OpenAI-compatible chat completions.
+- [Zerouter MCP](https://github.com/ZerouterAI/zerouter-mcp) - AI API gateway MCP for Claude, GPT, Gemini, Grok and Kimi via one OpenAI-compatible API key: chat, compare models side by side, and look up API pricing.
 - [SandBase CLI](https://github.com/sandbaseai/cli) - Local MCP bridge for discovering, inspecting, and running models and APIs from SandBase.
 - [Hugging Face MCP Server](https://github.com/huggingface/hf-mcp-server) - Provides MCP access to Hugging Face Hub models, datasets, spaces, and related APIs.
 - [Pipecat MCP Server](https://github.com/pipecat-ai/pipecat-mcp-server) - Provides voice-agent and screen-capture tools for Pipecat pipelines.
