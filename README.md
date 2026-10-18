@@ -1031,6 +1031,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Epoch](https://github.com/KyaniteLabs/Epoch) - Estimates project duration and schedule risk with PERT, COCOMO II, and Monte Carlo methods.
 - [Kanboard MCP Server](https://github.com/bivex/kanboard-mcp) - Connects AI assistants to Kanboard projects, tasks, and boards.
 - [Kelvia MCP](https://github.com/gonnagetapower/kelvia-mcp) - Shared task management for people and coding agents, including task handoffs.
+- [LystBot](https://github.com/TourAround/LystBot) - Shared lists for people and AI agents. A local stdio MCP server and CLI let an agent add or check items; changes show up in the iOS/Android app.
 - [Road Poneglyph](https://github.com/xfloukiex-lab/road-poneglyph) - Reviews project plans for missing assumptions, risks, and gaps.
 
 ### Research and Data
