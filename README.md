@@ -656,6 +656,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Apollo MCP Server](https://github.com/apollographql/apollo-mcp-server) - Lets AI clients inspect GraphQL schemas and invoke configured operations.
 - [Postman MCP Server](https://github.com/postmanlabs/postman-mcp-server) - Connects MCP clients to Postman collections, API definitions, and environments.
 - [Salesforce DX MCP Server](https://github.com/salesforcecli/mcp) - Exposes Salesforce org, metadata, code analysis, and DevOps tools to MCP clients.
+- [sf-intelligence](https://github.com/PranavNagrecha/Salesforce-Intelligence) - Read-only, offline knowledge base for one Salesforce org: where a field is used, what runs on save, who can edit what, and deployment risk, with answers cited to the org's metadata.
 - [Tidewave for Phoenix](https://github.com/tidewave-ai/tidewave_phoenix) - Adds MCP tools for inspecting and working with a running Phoenix application.
 - [Webflow MCP Server](https://github.com/webflow/mcp-server) - Connects AI assistants to Webflow sites and the Designer through Webflow's APIs.
 - [Buildkite MCP Server](https://github.com/buildkite/buildkite-mcp-server) - Provides access to Buildkite pipelines, builds, jobs, and test data.
