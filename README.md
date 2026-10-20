@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [App Store & Google Play Review Intelligence](https://github.com/gunnargray-dev/app-store-review-intelligence-mcp) - Hosted MCP server that reads App Store and Google Play reviews for any app and returns top complaints with quotes, rating change by version (what got worse in the latest release), and side-by-side competitor and iOS vs Android comparisons.
 
 ### Media and Audio
 
