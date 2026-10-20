@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [Seonix SEO MCP](https://github.com/seonix-ai/seonix-mcp) - Read-only MCP server that audits any website for technical SEO, GEO/AEO (JSON-LD, llms.txt, AI-crawler rules) and page speed, then proposes and dry-runs minimal fixes without writing to the site.
 
 ### Media and Audio
 
