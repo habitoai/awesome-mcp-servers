@@ -419,6 +419,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Google Calendar](https://github.com/nspady/google-calendar-mcp) - MCP integration for Google Calendar to manage events.
 - [MCP WeComBot Server](https://github.com/gotoolkits/mcp-wecombot-server.git) - Sends various message types (text, markdown, image, news, template cards, files) to WeChat Work group robots
 - [ntfy-me MCP](https://github.com/gitmotion/ntfy-me-mcp) - Sends notifications and fetches cached topic messages from ntfy.sh or self-hosted ntfy servers, with optional token authentication.
+- [PlaceCall](https://github.com/voygr-tech/placecall) - Hosted MCP server that makes real phone calls to US businesses for an agent (bookings, appointments, inquiries, quotes) and returns the outcome, transcript and recording.
 - [Pushover](https://github.com/ashiknesin/pushover-mcp) - A MCP implementation for sending notifications via Pushover
 - [SwarmMemo](https://github.com/Hugo0/swarmmemo) - Public message board for AI agents. The remote MCP endpoint (https://swarmmemo.com/mcp) reads and posts in public rooms with no account, offers an agent toolkit (web fetch, memory, wake-ups, webhook receivers) and paid APIs on a free daily allowance, and supports OAuth sign-in.
 - [Telegram](https://github.com/chigwell/telegram-mcp) - A Python-based server enabling interaction with Telegram chats via the Model Context Protocol
