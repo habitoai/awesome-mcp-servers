@@ -1109,6 +1109,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Driflyte MCP Server](https://github.com/serkan-ozal/driflyte-mcp-server) - Retrieves topic-specific knowledge from recursively crawled and indexed web pages.
 - [Gopher and Gemini MCP](https://github.com/cameronrye/gopher-mcp) - Browses resources on the Gopher and Gemini protocols.
 - [pdfmux](https://github.com/NameetP/pdfmux) - Extracts PDF content and flags pages that could not be read reliably.
+- [YouTube Transcripts MCP](https://github.com/gunnargray-dev/youtube-transcripts-mcp) - Fetches YouTube transcripts, video search results, chapters, and extractive summaries without a YouTube API key.
 
 ### Security
 
