@@ -893,6 +893,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [FilmMap MCP](https://github.com/Flightmussy/filmmap-mcp) - Maps real filming locations from movies, television, games, anime, and manga.
 - [Floodwise](https://github.com/qinisolabs/floodwise) - Looks up England postcode flood risk from Environment Agency data.
 - [LocuSync GIS MCP](https://github.com/matbel91765/gis-mcp-server) - Provides geocoding, routing, spatial analysis, and geospatial file tools.
+- [Zaptu](https://github.com/TommyTap11/zaptu) - Sends a person's consented US home-service contact request (service, ZIP, name, phone) to independent local providers; for plumbing it returns a number the person dials. Hosted at https://api.zaptu.ai/mcp, no auth.
 
 ### Marketing
 
