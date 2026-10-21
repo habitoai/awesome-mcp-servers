@@ -692,6 +692,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### E-Commerce
 
+- [Nexscope](https://www.nexscope.ai/mcp-map?co-from=habitoai) - Ecommerce data for AI agents: 228 tools for product, keyword, review and competitor research across Amazon, TikTok Shop, Walmart, Temu, Shopee, 1688 and more. Remote MCP at https://api.nexscope.ai/mcp (OAuth or API key).
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
