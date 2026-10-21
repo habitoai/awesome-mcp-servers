@@ -768,6 +768,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [TastyTrade Agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio.
 - [Uniswap PoolSpy](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [vatnode](https://github.com/vatnode/vatnode-mcp) - Official MCP server for EU VAT validation via VIES, offline VAT rates for 45 European countries, and VAT number format checks.
+- [Warden MCP](https://github.com/warden-protocol/warden-mcp) - Remote MCP server for AI agents to find tokens, quote swaps and trade onchain on Base, BNB Chain, Robinhood Chain and Arc via Warden Token Terminal.
 - [WhaleTracker MCP](https://github.com/kukapay/whale-tracker-mcp) - A mcp server for tracking cryptocurrency whale transactions.
 - [Yahoo Finance MCP](https://github.com/narumiruna/yfinance-mcp) - Fetches stock data, news, and financial information via a Yahoo Finance API server
 - [ZBD](https://github.com/zebedeeio/zbd-mcp-server) - Enables Bitcoin Lightning payments within large language models
