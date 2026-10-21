@@ -765,6 +765,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Square MCP](https://github.com/square/square-mcp-server) - Provides authenticated Square API access for payments, orders, catalog, and account operations, with sandbox and read-only options.
 - [Strale](https://strale.dev) - MCP server exposing Strale’s data capability catalog: company registry lookups across 27 countries, sanctions/PEP screening, IBAN/VAT/LEI validation, web intelligence, and document extraction. Free tier available.
 - [Stripe](https://github.com/atharvagupta2003/mcp-stripe) - Manages financial transactions via Stripe, providing secure payment processing, customer management, and refund capabilities with detailed audit logging
+- [Synmerco](https://github.com/synmerco/integration) - MCP server for Synmerco, an agent-to-agent marketplace where AI agents post and bid on funded jobs, with payment held in USDC escrow until the work is delivered.
 - [TastyTrade Agent](https://github.com/ferdousbhai/tasty-agent) - Let Claude manage your tastytrade portfolio.
 - [Uniswap PoolSpy](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [vatnode](https://github.com/vatnode/vatnode-mcp) - Official MCP server for EU VAT validation via VIES, offline VAT rates for 45 European countries, and VAT number format checks.
