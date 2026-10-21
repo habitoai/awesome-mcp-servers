@@ -1221,6 +1221,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [TermCtrlMCP](https://github.com/GongRzhe/terminal-controller-mcp) - A Model Context Protocol (MCP) server that enables secure terminal command execution, directory navigation, and file system operations through a standardized interface.
 - [Terraform MCP](https://github.com/nwiizo/tfmcp) - 🌍 Terraform Model Context Protocol (MCP) Tool - An experimental CLI tool that enables AI assistants to manage and operate Terraform environments. Supports reading Terraform configurations, analyzing plans, applying configurations, and managing state with Claude Desktop integration. ⚡️
 - [Windows Control](https://github.com/Cheffromspace/nutjs-windows-control) - MCP server for Windows OS automation
+- [Zeptap](https://github.com/Zeptap/mcp) - Mac app with a local MCP server that lets AI agents see, tap, swipe and type on a real iPhone over USB and Bluetooth. Paid, first hour free.
 - [Linux MCP Server](https://github.com/rhel-lightspeed/linux-mcp-server) - Runs read-only diagnostic tools across one or more remote Linux hosts.
 - [Apple Events MCP Server](https://github.com/FradSer/mcp-server-apple-events) - Controls macOS Calendar and Reminders through native Apple Events and EventKit APIs.
 - [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - Exposes Windows app and UI controls, file navigation, input simulation, and testing tools.
