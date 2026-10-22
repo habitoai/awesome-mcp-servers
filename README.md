@@ -893,6 +893,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [FilmMap MCP](https://github.com/Flightmussy/filmmap-mcp) - Maps real filming locations from movies, television, games, anime, and manga.
 - [Floodwise](https://github.com/qinisolabs/floodwise) - Looks up England postcode flood risk from Environment Agency data.
 - [LocuSync GIS MCP](https://github.com/matbel91765/gis-mcp-server) - Provides geocoding, routing, spatial analysis, and geospatial file tools.
+- [Wheremind](https://wheremind.ai/llms.txt) - Hosted remote MCP server for place search, place details, nearby search, forward and reverse geocoding, and directions, with no Maps API key to manage. Endpoint: `https://wheremind.ai/mcp` (OAuth sign-in) · Registry: `ai.wheremind/wheremind`
 
 ### Marketing
 
