@@ -692,6 +692,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### E-Commerce
 
+- [datawebot](https://github.com/datawebot/datawebot-mcp) - Hosted MCP server (`https://mcp.datawebot.com/mcp`, Streamable HTTP, OAuth 2.1) with ecommerce product data for agents: product search across online shops worldwide, every seller's price for one product with direct shop links, and extraction Jobs on Amazon and Shopify stores.
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
