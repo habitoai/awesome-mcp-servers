@@ -899,6 +899,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Get MCP Ads — Google Ads](https://github.com/get-mcp-ads/google-ads-mcp-server) - Query Google Ads performance, Shopping and Performance Max reports, with optional preview-first campaign writes.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, keyword research, meta tag optimization, schema markup, and paid-ad management.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
+- [PeekPanda](https://github.com/fdarkaou/peekpanda-mcp) - iOS competitor intelligence over MCP: Meta ads, App Store keyword rankings and viral content for any iOS app.
 - [SEO Performance MCP](https://github.com/AutomateLab-tech/seo-performance-mcp) - Post-publish SEO performance server that unifies Google Search Console, GA4, Matomo, Clarity, and AI-citation signals per URL and emits a per-URL verdict (refresh, expand, merge, or kill) for every published page.
 - [Get MCP Ads — Google Analytics 4](https://github.com/get-mcp-ads/google-analytics-mcp-server) - Read GA4 reports, realtime data, and property configuration through MCP.
 - [Get MCP Ads — Google Search Console](https://github.com/get-mcp-ads/google-search-console-mcp-server) - Read Search Console performance, URL inspection results, sitemaps, and site data through MCP.
@@ -1473,16 +1474,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
