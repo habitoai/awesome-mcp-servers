@@ -762,6 +762,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [KukaPay Uniswap Trader](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [LedgerAI](https://github.com/minhyeoky/mcp-server-ledger) - A Model Context Protocol server for interacting with Ledger CLI, a powerful double-entry accounting system. This server enables Large Language Models to query and analyze financial data through a standardized interface, making it easy for AI assistants to help with financial reporting, budget analysis, and accounting tasks.
 - [PancakeSwap PoolSpy](https://github.com/kukapay/pancakeswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Pancake Swap
+- [Predge Whale Data MCP](https://github.com/predgeAI/whale-data-mcp) - Polymarket settlement-risk records from UMA (signed, free), whale trades and delivery verdicts for paid agent calls; paid tools settle per call over x402.
+
 - [Square MCP](https://github.com/square/square-mcp-server) - Provides authenticated Square API access for payments, orders, catalog, and account operations, with sandbox and read-only options.
 - [Strale](https://strale.dev) - MCP server exposing Strale’s data capability catalog: company registry lookups across 27 countries, sanctions/PEP screening, IBAN/VAT/LEI validation, web intelligence, and document extraction. Free tier available.
 - [Stripe](https://github.com/atharvagupta2003/mcp-stripe) - Manages financial transactions via Stripe, providing secure payment processing, customer management, and refund capabilities with detailed audit logging
