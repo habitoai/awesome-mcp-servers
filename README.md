@@ -343,6 +343,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Azure CLI MCP](https://github.com/jdubois/azure-cli-mcp) - Talk with Azure using MCP
 - [Azure MCP Server (Microsoft)](https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server) - Provides tools across Azure services, including subscriptions, Cosmos DB, Storage, and Azure Monitor.
 - [AzureDevOpsMCP](https://github.com/Tiberriver256/mcp-server-azure-devops) - An MCP server for Azure DevOps
+- [deed.page](https://github.com/f-o-x11/deed-page-skill) - Remote MCP server (Streamable HTTP at `https://deed.page/mcp`) that publishes HTML or a static folder to a permanent `https://{slug}.deed.page/` URL with no account, then updates, restores versions of, or deletes the site with the returned owner token
 - [ESXi-MCP Manager](https://github.com/bright8192/esxi-mcp-server) - A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
 - [Gcore MCP](https://github.com/G-Core/gcore-mcp-server) - Exposes selected Gcore cloud API operations through configurable tool sets and authenticated stdio or HTTP connections.
 - [Hostinger API MCP](https://github.com/hostinger/api-mcp-server) - Manages Hostinger hosting, VPS, domains, DNS, mail, and account services through authenticated API tools.
