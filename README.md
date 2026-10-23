@@ -1023,6 +1023,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Linear MCP](https://github.com/tacticlaunch/mcp-linear) - Enables AI assistants to retrieve and manage Linear issues, projects, and teams.
 - [Linear MCP (Go)](https://github.com/geropl/linear-mcp-go) - A Go implementation for interacting with Linear through MCP.
 - [Monday.com MCP Server](https://github.com/sakce/mcp-server-monday) - Interacts with Monday.com boards and items through MCP.
+- [Offhand MCP](https://github.com/offhandapp/offhand-plugin) - A free MCP server that gives your AI agents one shared task list, so they can hand each other tasks and see what's done.
 - [Plane (community server)](https://github.com/kelvin6365/plane-mcp-server) - Manages Plane.so projects and issues through its API.
 - [Plane MCP Server](https://github.com/makeplane/plane-mcp-server) - Manages Plane projects, work items, cycles, modules, and related resources.
 - [Backlog MCP Server](https://github.com/nulab/backlog-mcp-server) - Manages Backlog projects, issues, versions, milestones, repositories, and notifications.
