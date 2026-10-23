@@ -309,6 +309,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [ERPNext MCP Server](https://github.com/rakeshgangwar/erpnext-mcp-server) - Queries and manages ERPNext documents, reports, and whitelisted methods.
 - [Kontent.ai MCP](https://github.com/kontent-ai/mcp-server) - Creates and manages Kontent.ai content items, content types, languages, taxonomies, and publishing workflows.
 - [Odoo MCP Server](https://github.com/ivnvxd/mcp-server-odoo) - Connects AI assistants to Odoo ERP records for search, retrieval, and data management.
+- [ppl](https://github.com/ppl-crm/ppl) - Personal CRM with a hosted OAuth MCP server (https://withppl.com/mcp) for contacts, conversation notes, birthdays, and follow-ups.
 
 - [kintone MCP Server (official)](https://github.com/kintone/mcp-server) - Official server for working with kintone apps and records through MCP tools.
 - [Taskade Workspace MCP](https://github.com/Taskade/mcp) - Official workspace server with tools for projects, tasks, agents, webhooks, knowledge bases, templates, and media.
