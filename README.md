@@ -1179,6 +1179,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Sports and Fitness
 
+- [Athmex](https://www.athmex.com/faq) - Hosted MCP server that gives Claude and ChatGPT athlete profiles, personal bests, goals, races, and constraints; requires an Athmex account and connected membership, and stores no activity history.
 - [Balldontlie MCP](https://github.com/mikechao/balldontlie-mcp) - Retrieves NBA, NFL, and MLB teams, players, games, and schedules through the Balldontlie API.
 - [Cadence](https://github.com/rajanshxrma/cadence) - Combines local WHOOP and Apple Health data with coding activity for personal trend analysis.
 - [Garmin Local MCP](https://github.com/anup-shesh/garmin-local-mcp) - Syncs Garmin data to a local warehouse for analysis, including when the API is unavailable.
