@@ -1470,19 +1470,46 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Zotero MCP](https://github.com/kaliaboi/mcp-zotero) - A connector for Claude Desktop to work with collection and sources on your Zotero Cloud.
 - [API Bridge Lite](https://github.com/tiranmoskovitch-dev/mcp-api-bridge-lite) - Local REST-to-MCP wrapper that exposes configured API requests as a tool.
 - [Natural Context Provider](https://github.com/portel-dev/ncp) - Local MCP proxy for discovering and running tools across configured MCP servers.
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`), HTTP 402 payment wall, and MCP tool server for verifying Layer-1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
