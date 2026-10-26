@@ -729,6 +729,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Finance
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local stdio MCP and CLI payment tools for AI agents on macOS Apple Silicon, with owner-set limits and foreground approval for direct-transfer signing.
 - [Bankless Onchain](https://github.com/bankless/onchain-mcp) - Bringing the bankless onchain API to MCP
 - [Eulerpool](https://eulerpool.com/financial-data-api/mcp) - Hosted MCP server for institutional-grade financial data: stocks, ETFs, funds, crypto, forex, bonds, and macro (FRED/ECB/IMF/World Bank) via 157+ tools covering fundamentals, analyst estimates, ownership, insider & US-congress trades, and screeners. Free tier.
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
