@@ -942,6 +942,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [MCP Hangar](https://github.com/mcp-hangar/mcp-hangar) - Applies policy to MCP server fleets and provides attributable audit and SIEM export.
 - [MCP Triage](https://github.com/neufagents/mcp-triage) - Scans MCP client configurations and offers cautious fixes, with dry-run enabled by default.
 - [Reloaderoo](https://github.com/cameroncooke/reloaderoo) - Proxies MCP tools, resources, and prompts while allowing a child server to restart without reconnecting the client; includes CLI inspection commands.
+- [Speakeasy control plane](https://www.speakeasy.com/) - MCP gateway for identity-based tool access, per-action security policies, and tool-call audit logs.
 - [ToolHive](https://github.com/stacklok/toolhive) - Runs MCP servers in isolated containers and can aggregate backend tools into virtual MCP servers, with local and Kubernetes runtimes.
 
 ### Monitoring
