@@ -1257,6 +1257,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) - Search, scrape, crawl, and map websites, and return structured data from page content through Firecrawl's API.
 - [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) - Provides public web search, page scraping, structured data extraction, and browser automation tools.
 - [Olostep MCP](https://github.com/olostep/olostep-mcp-server) - Searches the web, scrapes pages, crawls sites, maps URLs, and runs batch extraction through the Olostep API.
+- [Perceptlayer MCP](https://github.com/pratik-dani/perceptlayer-mcp) - Searches and calls 1,659 endpoints across 248 websites (maps, real estate, jobs, travel, search) and returns structured JSON through the Perceptlayer API.
 - [Supadata MCP](https://github.com/supadata-ai/mcp) - Retrieves video transcripts and media metadata, scrapes or crawls websites, and extracts structured content through the Supadata API.
 
 ### Workflow Automation
