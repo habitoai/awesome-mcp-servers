@@ -1081,6 +1081,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Google Custom Search](https://github.com/adenot/mcp-google-search) - Provides web search and webpage content extraction using the Google Custom Search API
 - [Google News MCP Server](https://github.com/ChanMeng666/server-google-news) - 【Star-crossed coders unite!⭐️】Model Context Protocol (MCP) server implementation providing Google News search capabilities via SerpAPI, with automatic news categorization and multi-language support.
 - [Google Search Console](https://github.com/ahonn/mcp-server-gsc) - A Model Context Protocol (MCP) server providing access to Google Search Console
+- [GSCmate](https://github.com/Fushey/gscmate-mcp-listing) - Hosted remote MCP for read-only Google Search Console access, search analytics, sitemap metadata, and URL inspection via OAuth 2.1.
 - [GSearchMCP](https://github.com/jae-jae/g-search-mcp) - A powerful MCP server for Google search that enables parallel searching with multiple keywords simultaneously.
 - [LocalRAG](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
