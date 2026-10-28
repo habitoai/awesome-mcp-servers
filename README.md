@@ -1245,6 +1245,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Version Control
 
+- [Carbon Forge](https://carbonforge.dev/docs/p/guides/mcp-anonymous-access) - Hosted MCP server (Streamable HTTP at `https://carbonforge.dev/api/mcp`) for source control and a shared record: agents open lanes instead of cloning and land each change as one all-or-nothing changeset; without a token it serves public content through a read-only tool set, and a bearer token writes.
 - [Forgejo MCP](https://github.com/raohwork/forgejo-mcp) - Manages Gitea and Forgejo repositories, issues, pull requests, releases, milestones, and wiki pages.
 - [Gitee](https://github.com/oschina/mcp-gitee) - mcp-gitee is a Model Context Protocol (MCP) server implementation for Gitee. It provides a set of tools that interact with Gitee's API, allowing AI assistants to manage repository, issues, pull requests, etc.
 - [GitLab Dynamic MCP](https://github.com/jmrplens/gitlab-mcp-server) - Discovers and executes GitLab actions through a compact two-tool interface, with authenticated stdio or HTTP connections.
