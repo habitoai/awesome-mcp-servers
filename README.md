@@ -564,6 +564,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Agent QA](https://github.com/vostride/agent-qa) - Source-available MCP server for authoring and inspecting natural-language web and mobile tests.
 - [APIMatic MCP](https://github.com/apimatic/apimatic-validator-mcp) - APIMatic Validator MCP Server for validating OpenAPI specs via APIMatic's API with MCP
 - [Clojure MCP](https://github.com/bhauman/clojure-mcp) - Supports Clojure development through REPL evaluation, project inspection, code search, and structural file-editing tools.
+- [Coding Tools MCP](https://github.com/mybolide/coding-tools-mcp) - Desktop (Rust + Tauri 2) MCP workspace that turns a local project into an AI-developable area with file edits, command runs, Git status, and resumable history sessions.
 - [Comet Opik MCP](https://github.com/comet-ml/opik-mcp) - Model Context Protocol (MCP) implementation for Opik enabling seamless IDE integration and unified access to prompts, projects, traces, and metrics.
 - [Currents MCP](https://github.com/currents-dev/currents-mcp) - Retrieves CI test runs, failures, and performance data and manages Currents project settings, actions, and webhooks.
 - [Gemmein MCP](https://github.com/gemmeinhq/gemmein-release/tree/main/mcp) - Provides Gemmein builder guides, SDK references, rule and error explanations, and live app integration checks; checks with development credentials can create temporary test data.
@@ -572,6 +573,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Magic Component Platform](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Checks JVM dependency versions, analyzes POM files, audits licenses and known vulnerabilities, and prepares dependency-upgrade recommendations.
 - [MCP Files](https://github.com/flesler/mcp-files) - Searches source symbols and makes targeted code edits with symbol imports, text insertion, and search-and-replace tools.
+- [mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) - Spec-driven dev workflow MCP: start_feature/start_bugfix orchestration, resumable plans, a converge gate requiring spec/test/review evidence, cross-session history. `npx -y mcp-probe-kit@latest`
 - [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Exposes OpenAPI specifications as MCP resource templates for inspecting paths, operations, and schema components on demand.
 - [OpenZeppelin Contracts Wizard MCP](https://github.com/OpenZeppelin/contracts-wizard/tree/master/packages/mcp) - Generates OpenZeppelin smart-contract source for Solidity, Cairo, Stellar, Stylus, TRON, confidential contracts, and Uniswap Hooks; MCP Apps clients can render an interactive wizard.
 - [Package Registry MCP](https://github.com/Artmann/package-registry-mcp) - Searches package registries, retrieves package versions and metadata, and queries GitHub Security Advisories across multiple language ecosystems.
