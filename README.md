@@ -404,6 +404,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Communication
 
 - [CallHub MCP](https://github.com/callhub/callhub-mcp) - Manages CallHub contacts, phonebooks, agents, teams, and campaigns through authenticated account APIs.
+- [CallMeMCP (/call-me)](https://github.com/radres/call-me) - Remote MCP server (https://callmemcp.com/mcp) that rings the user's own phone, reads the agent's text aloud and returns the spoken reply as a transcript; also sends texts. Needs the paid /call-me phone app (iPhone or Android).
 - [Inbox Zero MCP](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - Open source email app to reach inbox zero fast.
 - [Mailgun](https://github.com/mailgun/mailgun-mcp-server) - Implementation of Model Context Protocol server for Mailgun APIs
 - [ChatMCP](https://github.com/AI-QL/chat-mcp) - A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs.
