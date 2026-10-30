@@ -326,6 +326,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [build123d MCP](https://github.com/pzfreo/build123d-mcp) - Exposes build123d CAD modeling and inspection tools to AI clients.
 - [Design Token Bridge MCP](https://github.com/kenneives/design-token-bridge-mcp) - Imports and exports design tokens between supported design tools and formats.
 - [Figwright](https://github.com/awdr74100/figwright) - Provides two-way Figma integration through an MCP server and companion plugin.
+- [House AI](https://github.com/Apex-Byte-Technologies/house-ai-mcp) - Hosted MCP server that redesigns rooms, house exteriors and yards from a photo in 100+ styles, previews wall paint and flooring, and finds furniture and decor from partner stores. OAuth 2.1, no self-host.
 - [Mockit MCP](https://github.com/karyaboyraz/mockit-mcp) - Creates iOS interface mockups from prompts using a Playwright-based renderer.
 
 ### Chemistry
