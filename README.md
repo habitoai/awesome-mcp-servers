@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [Tera Ads](https://github.com/Teralabsx/meta-ads-mcp) - Hosted OAuth MCP server for Meta Ads with approval before changes, undo for pauses and budgets, and Shopify profit after returns.
 
 ### Media and Audio
 
