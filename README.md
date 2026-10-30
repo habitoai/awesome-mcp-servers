@@ -693,6 +693,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### E-Commerce
 
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
+- [SoldFetch](https://github.com/ecom-crawl/soldfetch-mcp) - Hosted MCP server for eBay sold and active listings, category search, and item details. Requires a SoldFetch API key. Not affiliated with eBay.
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
 
