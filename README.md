@@ -1077,6 +1077,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [DuckDuckGo MCP Server](https://github.com/nickclyde/duckduckgo-mcp-server) - A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
 - [Elasticsearch MCP Server](https://github.com/cr7258/elasticsearch-mcp-server) - A Model Context Protocol (MCP) server implementation that provides Elasticsearch interaction.
 - [Everything Search Server](https://github.com/mamertofabian/mcp-everything-search) - Provides fast cross-platform file searching on Windows, macOS, and Linux
+- [FindAIforWork](https://findaiforwork.com) - Read-only remote MCP for discovering and comparing AI tools by work scenario.
 - [Glean](https://github.com/longyi1207/glean-mcp-server) - Provides search and chatbot functionality via a Glean API-integrated MCP server
 - [Google Custom Search](https://github.com/adenot/mcp-google-search) - Provides web search and webpage content extraction using the Google Custom Search API
 - [Google News MCP Server](https://github.com/ChanMeng666/server-google-news) - 【Star-crossed coders unite!⭐️】Model Context Protocol (MCP) server implementation providing Google News search capabilities via SerpAPI, with automatic news categorization and multi-language support.
