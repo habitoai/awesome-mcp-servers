@@ -299,6 +299,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Scrapling Fetch](https://github.com/cyberchitta/scrapling-fetch-mcp) - Helps AI assistants access text content from bot-protected websites. MCP server that fetches HTML/markdown from sites with anti-automation measures using Scrapling.
 - [WebdriverIO MCP](https://github.com/webdriverio/mcp) - Automates browser interactions and Android or iOS applications through WebdriverIO sessions and tool-driven navigation.
 - [Website Downloader](https://github.com/pskill9/website-downloader) - MCP server to download entire websites
+- [CurlShot](https://curlshot.com/tools/screenshot-tool-for-ai-agents) - Hosted Streamable HTTP MCP server (`https://curlshot.com/api/mcp`) that screenshots any public URL as PNG, JPEG, WebP or PDF, full page or a single element; needs a free API key
 
 - [Safari MCP](https://github.com/achiya-automation/safari-mcp) - Automates native Safari on macOS through browser-control tools.
 - [SnapDiff MCP](https://github.com/corralimited/snapdiff-mcp) - Visually compares web pages and reports highlighted differences.
