@@ -911,6 +911,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Robot Speed](https://github.com/robot-speed/mcp) - Hosted MCP server for SEO audits, keyword research, site content management, and client reports.
 - [SiteAudit](https://github.com/vdalhambra/siteaudit-mcp) - MCP server for website SEO, performance, security, and broken-link audits.
 - [DataForSEO MCP Server](https://github.com/dataforseo/mcp-server-typescript) - Provides search results, keyword research, and related SEO data through the DataForSEO API.
+- [Fictura](https://github.com/Apex-Byte-Technologies/fictura-mcp) - AI-native growth data for mobile coding agents. Hosted MCP exposes real app setup, funnels, experiments, attribution and errors, plus authorized draft-only paywall/onboarding editing. OAuth 2.1; no self-hosting.
 - [Google Tag Manager MCP Server](https://github.com/stape-io/google-tag-manager-mcp-server) - Manages Google Tag Manager accounts, containers, tags, triggers, and variables.
 - [Microsoft Clarity MCP Server](https://github.com/microsoft/clarity-mcp-server) - Retrieves Clarity analytics and session insights for website projects.
 
