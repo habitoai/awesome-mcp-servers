@@ -565,6 +565,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [APIMatic MCP](https://github.com/apimatic/apimatic-validator-mcp) - APIMatic Validator MCP Server for validating OpenAPI specs via APIMatic's API with MCP
 - [Clojure MCP](https://github.com/bhauman/clojure-mcp) - Supports Clojure development through REPL evaluation, project inspection, code search, and structural file-editing tools.
 - [Comet Opik MCP](https://github.com/comet-ml/opik-mcp) - Model Context Protocol (MCP) implementation for Opik enabling seamless IDE integration and unified access to prompts, projects, traces, and metrics.
+- [ComputeFirst](https://computefirst.net/docs) - Free hosted MCP server for deterministic calculations, identifier validation, and data transformations; no API key required.
 - [Currents MCP](https://github.com/currents-dev/currents-mcp) - Retrieves CI test runs, failures, and performance data and manages Currents project settings, actions, and webhooks.
 - [Gemmein MCP](https://github.com/gemmeinhq/gemmein-release/tree/main/mcp) - Provides Gemmein builder guides, SDK references, rule and error explanations, and live app integration checks; checks with development credentials can create temporary test data.
 - [GLM MCP](https://github.com/djerok/glm-mcp) - Run GLM (Zhipu/Z.ai) as a real sub-agent inside Claude Code, GitHub Copilot, or Codex with its own read/write/edit/run agent loop, peak-aware routing, and diff/dry-run/git-revert oversight. ~10x cheaper than Opus.
