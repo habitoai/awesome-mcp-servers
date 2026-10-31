@@ -625,6 +625,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [NPM Search](https://github.com/btwiuse/npm-search-mcp-server) - MCP server for searching npm packages
 - [OpenAPI Schema](https://github.com/hannesj/mcp-openapi-schema) - OpenAPI Schema Model Context Protocol Server
 - [OpenAPI-to-MCP Converter](https://github.com/automation-ai-labs/mcp-link) - Convert Any OpenAPI V3 API to MCP Server
+- [Persqo](https://github.com/YaakovTzedek/persqo-mcp) - AI personas test your web app like real users and hand your coding agent ready-to-paste fix prompts.
 - [Phabricator MCP Bridge](https://github.com/baba786/phabricator-mcp-server) - A Model Context Protocol (MCP) server for interacting with Phabricator API
 - [Poem MCP Server](https://github.com/poem-web/poem/tree/master/poem-mcpserver) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [Postman](https://github.com/shannonlal/mcp-postman) - MCP Server for running Postman Collections with Newman
