@@ -976,6 +976,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Hetzner DNS MCP](https://github.com/ni-c/hetzner-dns-mcp) - Inspects and manages Hetzner Cloud DNS zones and record sets, with a read-only mode and confirmed writes.
 - [Junos MCP Server](https://github.com/Juniper/junos-mcp-server) - Connects MCP clients to Juniper devices for Junos configuration and operational commands.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Local macOS MCP server for network diagnostics and connection status.
 - [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) - Retrieves network inventory and related data from NetBox through a read-only MCP server.
 - [AWS Core Network MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-network-mcp-server) - Analyzes and troubleshoots AWS VPC, Transit Gateway, Cloud WAN, Network Firewall, and VPN resources.
 
