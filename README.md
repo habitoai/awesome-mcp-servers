@@ -692,6 +692,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### E-Commerce
 
+- [McClipFace](https://github.com/velhetica/mcclipface-plugin) - Remote MCP server (https://mcclipface.com/mcp/read, no auth) that finds current coupon codes, promo codes, deals and discounts for stores and products.
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
