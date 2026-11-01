@@ -822,6 +822,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [BioThings MCP](https://github.com/longevity-genie/biothings-mcp) - Provides MCP access to BioThings biomedical APIs and their research datasets.
 - [Google Health MCP](https://github.com/davidmosiah/google-health-mcp) - Reads user-authorized Google Health data locally through OAuth, including Fitbit and Pixel Watch data.
+- [Gosset](https://gosset.ai/mcp-api) - Remote OAuth MCP server for source-linked pharmaceutical research across drugs, clinical trials, results, patents and deals.
 - [Health Export MCP](https://github.com/PhilipAD/health-export-mcp) - Read-only, local access to 190 Apple Health metrics through an MCP server.
 - [SynergyAge MCP](https://github.com/longevity-genie/synergy-age-mcp) - Queries SynergyAge data on genetic interventions and aging.
 
