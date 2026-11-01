@@ -927,6 +927,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Klaket](https://github.com/huseyinstif/klaket) - Turns video files or URLs into timestamped, structured data for LLM workflows.
 - [Kokoro TTS MCP Server](https://github.com/mberg/kokoro-tts-mcp) - Generates MP3 speech using the Kokoro text-to-speech model.
 - [Oh My Cassette](https://github.com/Cassette-Editor/oh-my-cassette) - MCP-assisted video editing for turning raw clips into a finished cut.
+- [Reelsi](https://reelsi.ai/api?utm_source=github&utm_medium=listing&utm_campaign=directories) - Creates and revises short-form reels from a prompt plus your video, website, store link or graphic (hosted MCP at `https://reelsi.ai/mcp`).
 - [Slideshot](https://github.com/06ketan/slideshot) - Converts HTML slides and carousels into PNG, WebP, PDF, or PPTX.
 - [VideoGen MCP](https://github.com/video-gen/videogen-mcp) - Generate, edit, caption, and export videos and media through stdio or hosted HTTP; [setup and documentation](https://videogen.io/videogen-mcp).
 
@@ -1115,6 +1116,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 <br><br>
 
+- [BALMAS AI](https://balmasai.com/mcp?utm_source=github&utm_medium=listing&utm_campaign=directories) - Local, read-only MCP server that anonymizes every file an agent reads (PDF, Word, Excel, PowerPoint, TXT, CSV): names, IDs, amounts and secrets become consistent tokens before the content reaches the model. Install: `npx -y balmas-mcp`.
 - [Binary Ninja MCP](https://github.com/fosdickio/binary_ninja_mcp) - Connects to Binary Ninja for function analysis, decompilation, cross references, annotations, and reverse-engineering workflows.
 - [CLI-MCP Secure Server](https://github.com/MladenSU/cli-mcp-server) - Command line interface for MCP clients with secure execution and customizable security policies
 - [Code Sandbox](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code while maintaining security through containerization.
