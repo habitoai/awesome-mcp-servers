@@ -1069,6 +1069,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 <br><br>
 
 - [Kagi Search](https://github.com/kagisearch/kagimcp) - A Model Context Protocol (MCP) server for Kagi search.
+- [Nova Research (CIVAI)](https://github.com/civai-technologies/research-agent-mcp-by-nova-civai) - Deep research and report generation over live web search. Remote MCP at https://nova.civai.co/mcp/agents/research-agent; tool discovery is open, tool calls need a Nova account (OAuth or API key).
 - [Worklittle Jobs](https://github.com/worklittle/jobs-mcp) - Search 4M+ jobs by visa, salary, and distance; swipe to apply and save roles to a Worklittle account. Remote OAuth MCP at `https://mcp.worklittle.com/`; [setup docs](https://docs.worklittle.com/mcp); support@worklittle.com.
 - [Search1API MCP](https://github.com/fatwang2/search1api-mcp) - A Model Context Protocol (MCP) server offering web search, news search, content extraction, and deep reasoning capabilities via Search1API
 - [DevRev](https://github.com/kpsunil97/devrev-mcp-server) - Searches and retrieves information from DevRev using its APIs
