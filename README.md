@@ -1057,6 +1057,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [OpenPitch](https://github.com/Avierovich/openpitch) - Read-only, source-backed intelligence on AI startups, companies, and industry events.
 - [Scholar RAG MCP](https://github.com/notwhiteblank/scholar-rag-mcp) - Builds a searchable academic-paper knowledge base from local PDFs.
 - [TechTrend MCP](https://github.com/salwks/mcp-techTrend) - Collects academic, code, and medical-device regulatory trends from multiple sources.
+- [Space Mushroom](https://github.com/simulsarker007/space-mushroom-mcp) - Hosted read-only MCP server (streamable HTTP, no API key) for an open materials database; returns property values with unit, test conditions, method and source.
 
 ### Robotics
 
