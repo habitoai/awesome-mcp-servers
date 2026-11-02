@@ -909,6 +909,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Nevent](https://github.com/nevent-dev/mcp-nevent) - Hosted MCP server for marketing analytics, audience segments, campaigns, templates, deliverability, and paid media.
 - [OrbiAds](https://github.com/OrbiAds/Orbiads-GAM-MCP) - Hosted OAuth MCP server for managing Google Ad Manager networks.
 - [Robot Speed](https://github.com/robot-speed/mcp) - Hosted MCP server for SEO audits, keyword research, site content management, and client reports.
+- [Sequenzy](https://github.com/Sequenzy/mcp) - Manage email subscribers, segments, campaigns and automation sequences, send transactional email, and inspect delivery statistics through Sequenzy; requires user OAuth authorization or an API key.
 - [SiteAudit](https://github.com/vdalhambra/siteaudit-mcp) - MCP server for website SEO, performance, security, and broken-link audits.
 - [DataForSEO MCP Server](https://github.com/dataforseo/mcp-server-typescript) - Provides search results, keyword research, and related SEO data through the DataForSEO API.
 - [Google Tag Manager MCP Server](https://github.com/stape-io/google-tag-manager-mcp-server) - Manages Google Tag Manager accounts, containers, tags, triggers, and variables.
