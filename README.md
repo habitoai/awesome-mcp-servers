@@ -877,6 +877,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Australian Law MCP](https://github.com/ChangkeunJ/australian-law-mcp) - Searches Australian federal legislation, retrieves current or historical provisions, checks citations, and compares legislative versions.
 - [CanLII MCP](https://github.com/Vaquill-AI/canlii-mcp) - Browses Canadian court decisions and legislation metadata and retrieves citation relationships; requires a CanLII API key.
 - [OpenAgreements Checklist MCP](https://github.com/open-agreements/open-agreements/tree/main/packages/checklist-mcp) - Creates and updates deal checklists, validates proposed changes, and imports or renders DOCX checklist documents.
+- [Vérif Entreprise FR](https://github.com/YILDIZ-TOLGA/verif-entreprise-mcp) - French company verification (KYB) by SIREN: legal status, insolvency proceedings (BODACC), RGE certifications, LEI, asset-freeze screening, BODACC monitoring with signed webhooks. Free preview tool; paid tools per call in USDC on Base via x402, no account or API key.
 
 ### Location Services
 
