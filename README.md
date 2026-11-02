@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [Sumora](https://trysumora.com/mcp) - Remote OAuth MCP server for Sumora's approval-first B2B outreach agent: discover leads against an ICP, run LinkedIn and Instagram campaigns with engine-enforced send ceilings, and approve every queued message. Endpoint: `https://mcp.trysumora.com/workspace/mcp`.
 
 ### Media and Audio
 
