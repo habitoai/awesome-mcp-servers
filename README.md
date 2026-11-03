@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) - Competitor Google ads from the Google Ads Transparency Center: give it a domain, advertiser ID, Transparency Center link or advertiser name and get the ads that are new, still running or stopped, with first and last shown dates, format and ad links.
 
 ### Media and Audio
 
