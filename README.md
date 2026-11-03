@@ -692,6 +692,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### E-Commerce
 
+- [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) - Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop. Local stdio server: `npx -y github:GeminiGeorge22/etsy-sales-mcp` with your own `APIFY_TOKEN`.
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
