@@ -1003,6 +1003,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Open Data
 
+- [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) - Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. Local stdio server: `npx -y github:GeminiGeorge22/gov-tenders-mcp` with your own `APIFY_TOKEN`.
 - [Israel Statistics MCP](https://github.com/reuvenaor/israel-statistics-mcp) - Queries Israeli Central Bureau of Statistics price indices, historical time series, index categories, and price-linkage calculations.
 - [KRS Poland MCP](https://github.com/pkolawa/krs-poland-mcp-server) - Retrieves current and historical entity records from Poland's National Court Register using a KRS number.
 - [MCP Brasil](https://github.com/Mcp-Brasil/mcp-brasil) - Connects to 70 Brazilian public-data sources covering government, finance, law, elections, health, education, and more.
