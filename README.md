@@ -1082,6 +1082,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Google News MCP Server](https://github.com/ChanMeng666/server-google-news) - 【Star-crossed coders unite!⭐️】Model Context Protocol (MCP) server implementation providing Google News search capabilities via SerpAPI, with automatic news categorization and multi-language support.
 - [Google Search Console](https://github.com/ahonn/mcp-server-gsc) - A Model Context Protocol (MCP) server providing access to Google Search Console
 - [GSearchMCP](https://github.com/jae-jae/g-search-mcp) - A powerful MCP server for Google search that enables parallel searching with multiple keywords simultaneously.
+- [Keenable](https://github.com/keenableai/keenable-mcp) - Web search over Keenable's own index and page fetch as clean Markdown for AI agents; hosted at `https://api.keenable.ai/mcp`, usable without an API key on a rate-limited public tier
 - [LocalRAG](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [NYTimes Article Search Server](https://github.com/angheljf/nyt) - Searches New York Times articles from the past 30 days using keywords, returning titles, abstracts, URLs, dates, and authors
