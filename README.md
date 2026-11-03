@@ -1040,6 +1040,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [ArXiv MCP Assistant](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [ArXiv MCP Server](https://github.com/andybrandt/mcp-simple-arxiv) - Tool to  work with arXiv, provide LLM with ability to search and read papers from there
+- [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) - New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Local stdio server: `npx -y github:GeminiGeorge22/ats-jobs-mcp` with your own `APIFY_TOKEN`.
 - [DeepResearch Assistant](https://github.com/reading-plus-ai/mcp-server-deep-research) - Generates comprehensive, well-cited research reports from a given research question
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [Open Library MCP](https://github.com/8enSmith/mcp-open-library) - Searches Open Library books and authors and retrieves book metadata, author details, and cover or author-photo URLs.
