@@ -876,6 +876,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Legal
 - [Australian Law MCP](https://github.com/ChangkeunJ/australian-law-mcp) - Searches Australian federal legislation, retrieves current or historical provisions, checks citations, and compares legislative versions.
 - [CanLII MCP](https://github.com/Vaquill-AI/canlii-mcp) - Browses Canadian court decisions and legislation metadata and retrieves citation relationships; requires a CanLII API key.
+- [Fonciq](https://github.com/fonciq-dev/fonciq-mcp) - Connecteur MCP indépendant pour consulter le Registre foncier du Québec (index des immeubles, lots, documents) depuis votre assistant IA. / Independent MCP connector for Québec land registry lookups from your AI assistant.
 - [OpenAgreements Checklist MCP](https://github.com/open-agreements/open-agreements/tree/main/packages/checklist-mcp) - Creates and updates deal checklists, validates proposed changes, and imports or renders DOCX checklist documents.
 
 ### Location Services
