@@ -928,6 +928,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Kokoro TTS MCP Server](https://github.com/mberg/kokoro-tts-mcp) - Generates MP3 speech using the Kokoro text-to-speech model.
 - [Oh My Cassette](https://github.com/Cassette-Editor/oh-my-cassette) - MCP-assisted video editing for turning raw clips into a finished cut.
 - [Slideshot](https://github.com/06ketan/slideshot) - Converts HTML slides and carousels into PNG, WebP, PDF, or PPTX.
+- [UberLLM MCP](https://uberllm.dev/docs/mcp) - Hosted Streamable HTTP server that generates and edits images and starts video and music jobs on paid UberLLM models, with price quotes, a balance check and a `max_cost` cap per call.
 - [VideoGen MCP](https://github.com/video-gen/videogen-mcp) - Generate, edit, caption, and export videos and media through stdio or hosted HTTP; [setup and documentation](https://videogen.io/videogen-mcp).
 
 ### MCP Infrastructure
