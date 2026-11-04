@@ -991,6 +991,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Google Calendar](https://github.com/v-3/google-calendar) - Manages and schedules events, meetings, and free time slots
 
 - [Inkra MCP Server](https://github.com/juergenkoller-software/inkra-mcp) - Connects MCP clients to the native macOS Inkra Markdown editor.
+- [Worktable](https://github.com/worktable/worktable-dev) - Workspace for people and agents to create and revise docs, interactive HTML, drawings, records, and threads.
 
 ### Office Productivity
 
