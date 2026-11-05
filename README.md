@@ -1043,6 +1043,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [DeepResearch Assistant](https://github.com/reading-plus-ai/mcp-server-deep-research) - Generates comprehensive, well-cited research reports from a given research question
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [Open Library MCP](https://github.com/8enSmith/mcp-open-library) - Searches Open Library books and authors and retrieves book metadata, author details, and cover or author-photo URLs.
+- [RealtyCrawl](https://github.com/realtycrawl/realtycrawl-mcp) - Discover real estate capabilities and endpoint schemas, then retrieve source-linked observations with explicit credit budgets; data calls require an API key.
 - [SimplePubMed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database
 - [World Bank data API](https://github.com/anshumax/world_bank_mcp_server) - An implementation of the Model Context Protocol for the World Bank open data API
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Hosted MCP server for researching company registrations, executives, court records, and financial data.
