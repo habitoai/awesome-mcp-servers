@@ -896,6 +896,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Marketing
 
+- [AgentSEO](https://github.com/AgentSEO-dev/agentseo-clients/tree/main/packages/mcp-server) - SEO MCP server for keyword research, SERP analysis, rank tracking, site audits and AI search visibility for AEO workflows. Execution requires an API key and usage credits.
 - [Get MCP Ads — Google Ads](https://github.com/get-mcp-ads/google-ads-mcp-server) - Query Google Ads performance, Shopping and Performance Max reports, with optional preview-first campaign writes.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, keyword research, meta tag optimization, schema markup, and paid-ad management.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
