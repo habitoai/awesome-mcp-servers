@@ -327,6 +327,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Design Token Bridge MCP](https://github.com/kenneives/design-token-bridge-mcp) - Imports and exports design tokens between supported design tools and formats.
 - [Figwright](https://github.com/awdr74100/figwright) - Provides two-way Figma integration through an MCP server and companion plugin.
 - [Mockit MCP](https://github.com/karyaboyraz/mockit-mcp) - Creates iOS interface mockups from prompts using a Playwright-based renderer.
+- [RoomLab.app](https://roomlab.app/en/mcp) - Hosted MCP server for AI virtual staging, room restyling, decluttering and room videos from your own photos (OAuth sign-in).
 
 ### Chemistry
 
