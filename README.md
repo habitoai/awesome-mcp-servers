@@ -323,6 +323,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [TouchDesigner MCP](https://github.com/8beeeaaat/touchdesigner-mcp) - Provides tools, prompts, and resources for TouchDesigner creative coding workflows.
 
 - [Altium Designer MCP](https://github.com/embedded-society/altium-designer-mcp) - Creates and manages Altium component-library files through MCP.
+- [AppScreen](https://appscreen.pro) - Hosted OAuth MCP server that lets agents like Claude Code, Cursor or ChatGPT build App Store and Google Play screenshots in the browser editor. Endpoint: `https://appscreen.pro/mcp` (requires an AppScreen Pro account).
 - [build123d MCP](https://github.com/pzfreo/build123d-mcp) - Exposes build123d CAD modeling and inspection tools to AI clients.
 - [Design Token Bridge MCP](https://github.com/kenneives/design-token-bridge-mcp) - Imports and exports design tokens between supported design tools and formats.
 - [Figwright](https://github.com/awdr74100/figwright) - Provides two-way Figma integration through an MCP server and companion plugin.
