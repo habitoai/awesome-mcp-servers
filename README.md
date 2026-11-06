@@ -882,6 +882,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [GeoMCP](https://github.com/webcoderz/MCP-Geo) - Geocoding MCP server with GeoPY!
 - [IP2Location.io MCP](https://github.com/ip2location/mcp-ip2location-io) - Looks up IP geolocation, ASN, network, and proxy information, with bulk lookups and fields determined by the API plan.
+- [IPGeolocation.io MCP](https://github.com/IPGeolocation/ipgeolocation-io-mcp) - The official server’s 17 tools cover IP geolocation, company information, ASN and network data, IP security (VPN, proxy, Tor, bot, hosting and spam detection), abuse contacts, time zones, astronomy, currency data and user-agent parsing. A free key is enough for basic IP lookups. Company details and security checks require a paid plan. `get_my_ip` works without a key.
 - [IPInfo MCP Server](https://github.com/briandconnelly/mcp-server-ipinfo) - IP Geolocation Server for MCP
 - [Nearby Search Server](https://github.com/kukapay/nearby-search-mcp) - An MCP server for nearby place searches with IP-based location detection.
 - [Virtual location (Google Street View,etc.)](https://github.com/mfukushim/map-traveler-mcp) - Virtual traveler library for MCP
