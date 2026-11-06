@@ -406,6 +406,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [CallHub MCP](https://github.com/callhub/callhub-mcp) - Manages CallHub contacts, phonebooks, agents, teams, and campaigns through authenticated account APIs.
 - [Inbox Zero MCP](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - Open source email app to reach inbox zero fast.
 - [Mailgun](https://github.com/mailgun/mailgun-mcp-server) - Implementation of Model Context Protocol server for Mailgun APIs
+- [MailVeri MCP](https://github.com/mailveri/mailveri-mcp) - Verify single emails and bulk lists (SMTP, catch-all, disposable, role) from AI assistants via the MailVeri API.
 - [ChatMCP](https://github.com/AI-QL/chat-mcp) - A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs.
 - [Claude Slack Connector](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Model Context Protocol Servers
 - [ClaudePost](https://github.com/ZilongXue/claude-post) - ClaudePost enables seamless email management through natural language conversations with Claude, offering secure features like email search, reading, and sending.
