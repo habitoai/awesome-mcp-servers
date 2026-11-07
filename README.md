@@ -856,6 +856,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Open Index](https://github.com/DrDroidLab/open-index) - Structured context graph for domain-specific agents with hybrid search and validated read/write MCP tools.
 - [PIF](https://github.com/hungryrobot1/MCP-PIF) - A MCP implementation of the personal intelligence framework (PIF)
 - [XMind](https://github.com/apeyroux/mcp-xmind) - Analyzes and queries XMind mind maps, enabling smart searches, task management, and multi-file analysis
+- [Zambo](https://github.com/zambodotdev/zambo-mcp) - The verifiable work layer for AI: a remote MCP server at https://zambo.dev/mcp with 153 tools, handovers that carry work and memory from one AI to another, and a verifiable AER-1 receipt for every job.
 - [ContextStream](https://github.com/contextstream/mcp-server) - Persistent project memory and semantic code search across connected repositories, documents, and conversations.
 - [Memxus](https://github.com/gpitrella/memxus-remote-mcp) - Remote persistent memory MCP server that carries context across coding agents and can connect GitHub and Notion sources.
 - [Zara Agent OPC](https://github.com/aldok10/zara-agent-opc) - Local MCP server for engineering memory, semantic retrieval, and specialist-agent workflows.
