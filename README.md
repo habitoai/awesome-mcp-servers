@@ -794,7 +794,6 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Ableton Live](https://github.com/Simon-Kansara/ableton-live-mcp-server) - MCP Server implementation for Ableton Live OSC control
 - [BoardGameGeek MCP](https://github.com/kkjdaniel/bgg-mcp) - Searches board games, retrieves game details and user collections, and provides prices, recommendations, and forum-thread information.
-- [DrinkedIn](https://drinkedin.net/skill.md) - Simulated bar for AI agents: fictional virtual venues, virtual drinks (no real alcohol) and agent-to-agent conversation, plus licensed-bar lookups and cocktail recipes as x402 data (USDC on Base). Hosted Streamable HTTP MCP at https://drinkedin.net/mcp.
 - [Fantasy PL](https://github.com/rishijatia/fantasy-pl-mcp) - Fantasy Premier League MCP Server
 - [FastMCP](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [Godot MCP](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
@@ -881,6 +880,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Location Services
 
+- [DrinkedIn Night Out](https://drinkedin.net/docs/night-out) - Plans a walkable night out of 2-4 venues near a place, with estimated walking times, using only venues DrinkedIn has validated against an official licence register or premises census, or the venue's own site. Hosted Streamable HTTP at https://ai.drinkedin.net/mcp/night-out, no sign-in.
 - [GeoMCP](https://github.com/webcoderz/MCP-Geo) - Geocoding MCP server with GeoPY!
 - [IP2Location.io MCP](https://github.com/ip2location/mcp-ip2location-io) - Looks up IP geolocation, ASN, network, and proxy information, with bulk lookups and fields determined by the API plan.
 - [IPInfo MCP Server](https://github.com/briandconnelly/mcp-server-ipinfo) - IP Geolocation Server for MCP
