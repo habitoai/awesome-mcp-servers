@@ -296,6 +296,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [OmniParser AutoGUI MCP](https://github.com/NON906/omniparser-autogui-mcp) - Automatic operation of on-screen GUI.
 - [Playwright MCP Server](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 - [Playwright Plus MCP Server](https://github.com/blackwhite084/playwright-plus-python-mcp) - A server providing Playwright-based web automation tools and a simple note storage system for prompt generation
+- [Ruin Everything](https://github.com/yuki4266/ruin-everything) - Reconnects to an open application tab in local Chrome, inspects verification prompts, and retrieves saved Ashby submission receipts.
 - [Scrapling Fetch](https://github.com/cyberchitta/scrapling-fetch-mcp) - Helps AI assistants access text content from bot-protected websites. MCP server that fetches HTML/markdown from sites with anti-automation measures using Scrapling.
 - [WebdriverIO MCP](https://github.com/webdriverio/mcp) - Automates browser interactions and Android or iOS applications through WebdriverIO sessions and tool-driven navigation.
 - [Website Downloader](https://github.com/pskill9/website-downloader) - MCP server to download entire websites
