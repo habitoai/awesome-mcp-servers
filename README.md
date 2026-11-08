@@ -910,6 +910,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [OrbiAds](https://github.com/OrbiAds/Orbiads-GAM-MCP) - Hosted OAuth MCP server for managing Google Ad Manager networks.
 - [Robot Speed](https://github.com/robot-speed/mcp) - Hosted MCP server for SEO audits, keyword research, site content management, and client reports.
 - [SiteAudit](https://github.com/vdalhambra/siteaudit-mcp) - MCP server for website SEO, performance, security, and broken-link audits.
+- [SimpleVerifier](https://simpleverifier.com/docs/mcp) - Hosted MCP server for email verification with a live SMTP mailbox check (valid, risky or invalid with the mail server's reason), catch-all grading, phone format checks and domain MX/SPF/DMARC lookups. Streamable HTTP at https://simpleverifier.com/api/mcp, OAuth or API key (Pro plan and up).
 - [DataForSEO MCP Server](https://github.com/dataforseo/mcp-server-typescript) - Provides search results, keyword research, and related SEO data through the DataForSEO API.
 - [Google Tag Manager MCP Server](https://github.com/stape-io/google-tag-manager-mcp-server) - Manages Google Tag Manager accounts, containers, tags, triggers, and variables.
 - [Microsoft Clarity MCP Server](https://github.com/microsoft/clarity-mcp-server) - Retrieves Clarity analytics and session insights for website projects.
