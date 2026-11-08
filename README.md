@@ -880,6 +880,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Location Services
 
+- [DrinkedIn Night Out](https://drinkedin.net/docs/night-out) - Plans a walkable night out of 2-4 venues near a place, with estimated walking times, using only venues DrinkedIn has validated against an official licence register or premises census, or the venue's own site. Hosted Streamable HTTP at https://ai.drinkedin.net/mcp/night-out, no sign-in.
 - [GeoMCP](https://github.com/webcoderz/MCP-Geo) - Geocoding MCP server with GeoPY!
 - [IP2Location.io MCP](https://github.com/ip2location/mcp-ip2location-io) - Looks up IP geolocation, ASN, network, and proxy information, with bulk lookups and fields determined by the API plan.
 - [IPInfo MCP Server](https://github.com/briandconnelly/mcp-server-ipinfo) - IP Geolocation Server for MCP
