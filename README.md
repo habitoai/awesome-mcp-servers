@@ -693,6 +693,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### E-Commerce
 
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
+- [TellMyShop](https://github.com/tellmyshop/tellmyshop) - Run a PrestaShop or WooCommerce store through Claude or ChatGPT with a module or plugin that serves MCP inside the store: every change shown before it is saved and undoable, product feeds, Google integrations and a detailed safety model. Free read-only edition.
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
 
