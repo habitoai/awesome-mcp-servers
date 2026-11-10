@@ -85,6 +85,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [ForeverVM](https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server) - Securely run AI-generated code in stateful sandboxes that run forever.
 - [gotoHuman](https://github.com/gotohuman/gotohuman-mcp-server) - Facilitates human review of AI-generated content and automated actions via asynchronous webhooks
 - [IBM wxflows](https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
+- [Imagera MCP](https://imagera.ai/mcp) - Remote MCP server (https://mcp.imagera.ai/mcp, OAuth) for image, video, voice and music generation and editing, with a cost estimate before each run
 - [Inkeep](https://github.com/inkeep/mcp-server-python) - Provides a Retrieval Augmented Generation (RAG) server for accessing product documentation via the Model Context Protocol (MCP)
 - [Langfuse MCP Server](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [Lingo.dev](https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md) - ⚡️ AI localization toolkit for web & mobile. Translate instantly from CI/CD, using the best LLM models.
