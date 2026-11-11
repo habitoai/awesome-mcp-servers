@@ -1006,6 +1006,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Israel Statistics MCP](https://github.com/reuvenaor/israel-statistics-mcp) - Queries Israeli Central Bureau of Statistics price indices, historical time series, index categories, and price-linkage calculations.
 - [KRS Poland MCP](https://github.com/pkolawa/krs-poland-mcp-server) - Retrieves current and historical entity records from Poland's National Court Register using a KRS number.
 - [MCP Brasil](https://github.com/Mcp-Brasil/mcp-brasil) - Connects to 70 Brazilian public-data sources covering government, finance, law, elections, health, education, and more.
+- [Polish MCP Servers](https://github.com/kamilkaczmareksolutions/polish-mcp-servers) - Seventeen read-only tools for Polish public registers and law: company lookup by NIP/REGON/KRS, new KRS companies, CEIDG sole proprietorships, court judgments, legal acts, EV charging stations, building permits, land parcels and public tenders.
 - [data.gouv.fr MCP Server](https://github.com/datagouv/datagouv-mcp) - Official server for searching and exploring datasets on France's national open-data platform.
 
 - [CKAN MCP Server](https://github.com/ondata/ckan-mcp-server) - Searches CKAN portals for datasets and metadata, explores organizations and tags, and queries DataStore tables.
