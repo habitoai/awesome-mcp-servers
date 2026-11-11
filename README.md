@@ -783,6 +783,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Massive MCP Server](https://github.com/massive-com/mcp_massive) - Retrieves market data, reference data, and financial information through the Massive API.
 - [Razorpay MCP Server](https://github.com/razorpay/razorpay-mcp-server) - Provides payment, order, refund, and other Razorpay API operations through MCP.
 - [freee MCP](https://github.com/freee/freee-mcp) - Official server for freee accounting, HR, invoicing, and other business APIs.
+- [Trading Signals MCP](https://github.com/gdietsch/trading-signals-mcp) - Pay-per-call market data for AI agents: ES futures event-risk gate, SEC insider buys, and AI trade briefs. Free tier (100 calls/mo via API key) or pay per call in USDC via x402 ($0.005-$0.10).
 - [TradingView Market Data MCP](https://github.com/atilaahmettaner/tradingview-mcp) - Open-source server for market data, screeners, technical indicators, sentiment tools, and backtesting across stocks, crypto, forex, and futures.
 
 - [Copilot Money MCP](https://github.com/ignaciohermosillacornejo/copilot-money-mcp) - Queries and manages locally stored Copilot Money data for personal finance assistance.
