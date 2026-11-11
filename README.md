@@ -908,6 +908,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Get MCP Ads — X Ads](https://github.com/get-mcp-ads/x-ads-mcp-server) - Query X advertising analytics, campaigns, and creatives, with optional preview-first writes.
 - [Nevent](https://github.com/nevent-dev/mcp-nevent) - Hosted MCP server for marketing analytics, audience segments, campaigns, templates, deliverability, and paid media.
 - [OrbiAds](https://github.com/OrbiAds/Orbiads-GAM-MCP) - Hosted OAuth MCP server for managing Google Ad Manager networks.
+- [RoboDebut](https://robodebut.com/llms.txt) - Hosted MCP server for submitting a website or startup to the RoboDebut directory for manual review and checking its status. No account or API key; the homepage needs the RoboDebut badge.
 - [Robot Speed](https://github.com/robot-speed/mcp) - Hosted MCP server for SEO audits, keyword research, site content management, and client reports.
 - [SiteAudit](https://github.com/vdalhambra/siteaudit-mcp) - MCP server for website SEO, performance, security, and broken-link audits.
 - [DataForSEO MCP Server](https://github.com/dataforseo/mcp-server-typescript) - Provides search results, keyword research, and related SEO data through the DataForSEO API.
