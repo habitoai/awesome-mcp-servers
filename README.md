@@ -693,6 +693,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### E-Commerce
 
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
+- [Toolbox POD](https://github.com/Toolbox-POD/toolbox-pod-mcp) - Hosted remote MCP server (https://mcp.toolboxpod.com/mcp, OAuth sign-in) to design custom tees and hoodies, see mockups, and order prints made and shipped from Utah, with a link to pay on toolboxpod.com
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
 
