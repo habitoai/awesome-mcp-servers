@@ -692,6 +692,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### E-Commerce
 
+- [Car Listing Check](https://github.com/TRW123123/car-listing-check-mcp) - Checks vehicle listings you supply and returns a completeness score, missing fields and prioritised fixes, plus market checklists; hosted at `https://mcp.aicarvideo.com/mcp`, no auth.
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
@@ -922,6 +923,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Audiobookshelf MCP](https://github.com/ni-c/audiobookshelf-mcp) - Lets agents browse a self-hosted Audiobookshelf library and listening history.
 - [AutoEQ MCP](https://github.com/verIdyia/autoeq-mcp) - Searches the AutoEQ headphone and IEM database for equalization settings.
 - [FableCut](https://github.com/ronak-create/FableCut) - Lets AI agents edit browser-based video projects through an editable timeline.
+- [Headshot Photo Check](https://github.com/TRW123123/bewerbungsfoto-check-mcp) - Checks the technical quality of profile and job-application photos and returns a score, crop recommendations and tips; hosted at `https://mcp.profilfoto-ki.de/mcp`, no auth.
 - [ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp) - Provides local image-processing tools for MCP clients.
 - [Imagician](https://github.com/flowy11/imagician) - Edits local images with resizing, cropping, format conversion, compression, rotation, flipping, metadata inspection, and batch resizing.
 - [Klaket](https://github.com/huseyinstif/klaket) - Turns video files or URLs into timestamped, structured data for LLM workflows.
