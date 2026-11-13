@@ -257,6 +257,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Amazon Bedrock AgentCore MCP Server](https://github.com/awslabs/mcp/tree/main/src/amazon-bedrock-agentcore-mcp-server) - Manages AgentCore runtimes, memories, identity providers, gateways, and policies.
 - [Amazon Translate MCP Server](https://github.com/awslabs/mcp/tree/main/src/amazon-translate-mcp-server) - Translates text and documents with Amazon Translate and supports batch and custom terminology workflows.
 - [DeepL MCP Server](https://github.com/DeepL/deepl-mcp-server) - Translates text and documents, rephrases content, and looks up glossary and style rules through DeepL.
+- [Kling AI MCP (China)](https://github.com/klingai-dev/openclaw-plugin) - Official hosted image/video generation, reference workflows and task tracking at `https://klingai.com/mcp/plugin` via Streamable HTTP and OAuth; generation uses matching regional account credits, with China/Global accounts, credits and task IDs kept separate.
+- [Kling AI MCP (Global)](https://github.com/klingai-tech/claude-plugin) - Official hosted image/video generation, reference workflows and task tracking at `https://kling.ai/mcp/plugin` via Streamable HTTP and OAuth; generation uses matching regional account credits, with China/Global accounts, credits and task IDs kept separate.
 - [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Exposes MiniMax text-to-speech, image-generation, and video-generation APIs through MCP.
 
 ### Art and Culture
