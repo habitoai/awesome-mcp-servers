@@ -1012,6 +1012,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Colombian Legislation MCP](https://github.com/Angelthebestone/Normativa-colombiana-MCP) - Searches Colombian legislation and case law across official sources.
 - [U.S. Government Open Data MCP](https://github.com/lzinga/us-gov-open-data-mcp) - Queries 40+ U.S. government and international data APIs across economic, legislative, health, environmental, and spending domains with 300+ tools.
 - [Luxembourg MCP](https://github.com/amirdaraee/luxembourg-mcp) - Provides MCP access to Luxembourg public datasets from government data systems.
+- [EU & Nordic Open Data MCP](https://github.com/itulo/eu-nordic-open-data-mcp) - Queries official EU and Nordic open data (TED tenders, EU sanctions, VIES VAT, ECB rates, Finnish company, grid and weather data) with licence attribution in every response.
 
 ### Project Management
 
