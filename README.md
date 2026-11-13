@@ -925,6 +925,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp) - Provides local image-processing tools for MCP clients.
 - [Imagician](https://github.com/flowy11/imagician) - Edits local images with resizing, cropping, format conversion, compression, rotation, flipping, metadata inspection, and batch resizing.
 - [Klaket](https://github.com/huseyinstif/klaket) - Turns video files or URLs into timestamped, structured data for LLM workflows.
+- [Kling AI MCP (China)](https://github.com/klingai-dev/openclaw-plugin) - Official hosted image/video generation, reference workflows and task tracking at `https://klingai.com/mcp/plugin` via Streamable HTTP and OAuth; generation uses matching regional account credits, with China/Global accounts, credits and task IDs kept separate.
+- [Kling AI MCP (Global)](https://github.com/klingai-tech/claude-plugin) - Official hosted image/video generation, reference workflows and task tracking at `https://kling.ai/mcp/plugin` via Streamable HTTP and OAuth; generation uses matching regional account credits, with China/Global accounts, credits and task IDs kept separate.
 - [Kokoro TTS MCP Server](https://github.com/mberg/kokoro-tts-mcp) - Generates MP3 speech using the Kokoro text-to-speech model.
 - [Oh My Cassette](https://github.com/Cassette-Editor/oh-my-cassette) - MCP-assisted video editing for turning raw clips into a finished cut.
 - [Slideshot](https://github.com/06ketan/slideshot) - Converts HTML slides and carousels into PNG, WebP, PDF, or PPTX.
