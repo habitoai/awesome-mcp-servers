@@ -1052,6 +1052,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Astronomy Oracle](https://github.com/gregario/astronomy-oracle) - Provides astronomical catalog data and observing-session visibility planning.
 - [Data Aggregator MCP](https://github.com/musharna/data-aggregator-mcp) - Searches and retrieves research data across archives, omics registries, and scholarly literature.
 - [Grounding AI](https://github.com/andyliszewski/grounding-ai) - Creates a local document corpus for evidence-grounded agent answers.
+- [AIHOT MCP](https://aihot.news/agent?tab=mcp) - Read-only Streamable HTTP server for searching Chinese-language AI news and reading daily and weekly reports without an API key.
 - [Hacker News MCP](https://github.com/imprvhub/mcp-claude-hackernews) - Browses Hacker News stories, rankings, searches, and comments.
 - [OmniSeek](https://github.com/Battam1111/omniseek) - Self-hosted research tools for searching podcasts, social discussions, web sources, and multilingual content.
 - [OpenPitch](https://github.com/Avierovich/openpitch) - Read-only, source-backed intelligence on AI startups, companies, and industry events.
