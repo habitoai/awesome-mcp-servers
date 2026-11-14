@@ -308,7 +308,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [ERPNext MCP Server](https://github.com/rakeshgangwar/erpnext-mcp-server) - Queries and manages ERPNext documents, reports, and whitelisted methods.
 - [Kontent.ai MCP](https://github.com/kontent-ai/mcp-server) - Creates and manages Kontent.ai content items, content types, languages, taxonomies, and publishing workflows.
-- [LeadSets](https://www.leadsets.ai/docs/mcp) - Hosted MCP server with Unlimited B2B Contact Data for AI agents: search people and companies, enrich records and verify work emails.
+- [LeadSets](https://www.leadsets.ai/docs/mcp) - Hosted MCP server with Unlimited B2B Contact Data for AI agents (lifetime data; fair-use rate limits apply): search people and companies, enrich records and verify work emails.
 - [Odoo MCP Server](https://github.com/ivnvxd/mcp-server-odoo) - Connects AI assistants to Odoo ERP records for search, retrieval, and data management.
 
 - [kintone MCP Server (official)](https://github.com/kintone/mcp-server) - Official server for working with kintone apps and records through MCP tools.
