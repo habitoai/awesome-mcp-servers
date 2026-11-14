@@ -197,6 +197,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Notion MCP Server](https://github.com/suekou/mcp-notion-server) - Enables Claude to interact with Notion workspaces via the Notion API
 - [Oat++ MCP](https://github.com/oatpp/oatpp-mcp) - Anthropic's Model Context Protocol implementation for Oat++
 - [OneNote](https://github.com/rajvirtual/MCP-Servers/tree/master/onenote) - A Model Context Protocol (MCP) server that provides AI assistants with access to Microsoft OneNote. This server enables AI models to read from and write to OneNote notebooks, sections, and pages.
+- [OpenAny](https://github.com/openanysi/openany-mcp) - The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models. Browse free; pay per call. https://mcp.openany.si
 - [OpenAI MCP Assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - MCP server that gives Claude ability to use OpenAI's GPTs assistants
 - [OpenAI WebSearch MCP](https://github.com/ConechoAI/openai-websearch-mcp) - openai websearch tool as mcp server
 - [OpenAI WebSearch Tool](https://github.com/ConechoAI/openai-websearch-mcp/) - openai websearch tool as mcp server
