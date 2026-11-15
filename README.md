@@ -1185,6 +1185,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [MLB API MCP Server](https://github.com/guillochon/mlb-api-mcp) - Provides access to Major League Baseball statistics and game data.
 - [MusclesWorked MCP](https://github.com/csjoblom/musclesworked-mcp) - Looks up muscles used by exercises, finds alternative movements, and analyzes workout muscle coverage through the MusclesWorked API.
 - [Oura MCP](https://github.com/Rajskij/oura-mcp) - Provides read-only sleep, readiness, activity, stress, workout, and vital-sign data through Oura OAuth; requires an active Oura subscription.
+- [Splyt](https://splyt.fit/claude) - Provides read-only access to your Splyt strength-training data (workouts, PRs, exercise progress, training plan, habits and sleep) through a hosted remote server with OAuth.
 - [Strava MCP](https://github.com/r-huijts/strava-mcp) - Reads authenticated Strava activities, routes, segments, and athlete data, with route export tools.
 
 ### System Automation
