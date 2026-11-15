@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [SEO Rank Fixer](https://seorankfixer.com) - Hosted MCP server (OAuth 2.1, `https://seorankfixer.com/api/mcp`) that reads your Google Search Console and Bing data and ranks SEO fixes by the clicks they can win, with site audits, index status, page scans and AI search visibility.
 
 ### Media and Audio
 
@@ -1473,16 +1474,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
