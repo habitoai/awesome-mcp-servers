@@ -673,6 +673,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [EvalView](https://github.com/hidai25/eval-view) - Snapshot-tests AI agent behavior and detects regressions between runs.
 - [GodotLens MCP](https://github.com/pzalutski-pixel/godotlens-mcp) - Queries Godot project symbols, signatures, references, and scene wiring.
 - [LynxMCP](https://github.com/lorenzo-cambiaghi/LynxMCP) - Answers local code relationship questions such as call sites and change impact.
+- [Undo](https://docs.undo.io/UndoAIWithYourAgent.html) - Gives AI agents runtime context from Undo recordings of Linux programs for automated root-cause analysis: what the program did, not what the code says.
 
 ### Diagramming and Visualization
 
