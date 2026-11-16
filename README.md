@@ -916,6 +916,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Mureo](https://github.com/logly/mureo) - Local-first ad operations tools for finding waste, auditing changes, and safely managing accounts.
 - [Studio MCP](https://github.com/AIOProductOS/studio-mcp) - Records scripted walkthrough videos of a web app with cursor movement and visual highlights.
+- [Transformer.gg](https://transformer.gg/?utm_source=github&utm_medium=referral&utm_campaign=backlinks&utm_content=listing) - Hosted MCP server for booking sponsored posts from X creators: find creators who fit a website, see suggested prices, send offers and track clicks and sales ([repo](https://github.com/NBV-AppFactory/transformer-mcp)).
 
 ### Media and Audio
 
