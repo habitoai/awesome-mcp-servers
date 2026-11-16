@@ -928,6 +928,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Kokoro TTS MCP Server](https://github.com/mberg/kokoro-tts-mcp) - Generates MP3 speech using the Kokoro text-to-speech model.
 - [Oh My Cassette](https://github.com/Cassette-Editor/oh-my-cassette) - MCP-assisted video editing for turning raw clips into a finished cut.
 - [Slideshot](https://github.com/06ketan/slideshot) - Converts HTML slides and carousels into PNG, WebP, PDF, or PPTX.
+- [VideoDB](https://videodb.io/?utm_source=github.com/habitoai/awesome-mcp-servers&utm_medium=directory) - VideoDB lets an AI agent watch, search and clip video. Works in Claude, ChatGPT, Claude Code, Cursor and any MCP client. Hosted MCP server: `https://mcp.videodb.io/mcp`; [setup](https://docs.videodb.io/pages/mcp/connect?utm_source=github.com/habitoai/awesome-mcp-servers&utm_medium=directory).
 - [VideoGen MCP](https://github.com/video-gen/videogen-mcp) - Generate, edit, caption, and export videos and media through stdio or hosted HTTP; [setup and documentation](https://videogen.io/videogen-mcp).
 
 ### MCP Infrastructure
