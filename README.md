@@ -413,6 +413,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Discord](https://github.com/SaseQ/discord-mcp) - A Model Context Protocol (MCP) server for the Discord integration with MCP-compatible applications like Claude Desktop.
 - [Email](https://github.com/Shy2593666979/mcp-server-email) - Sends and receives emails, manages attachments, and searches files via pattern matching
 - [Ethora](https://github.com/dappros/ethora-mcp-server) - MCP server for the open-source Ethora chat and messaging platform: create apps, rooms and users, send and search messages, deploy AI agents and RAG chatbots, and generate a website chat widget.
+- [FairValid](https://fairvalid.com/en/help/mcp) - Official hosted MCP server for email verification and FairMatch work-email discovery; uses Streamable HTTP with OAuth or API-key authentication.
 - [GitHub Discussions](https://github.com/orgs/modelcontextprotocol/discussions) - Facilitates community discussion and collaboration on GitHub repositories
 - [Gmail](https://github.com/GongRzhe/Gmail-MCP-Server) - A Model Context Protocol (MCP) server for Gmail integration in Claude Desktop with auto authentication support. This server enables AI assistants to manage Gmail through natural language interactions.
 - [Gmail Headless](https://github.com/baryhuang/mcp-headless-gmail) - A headless Gmail server enabling remote email sending and retrieval via the Model Context Protocol (MCP)
