@@ -692,6 +692,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### E-Commerce
 
+- [PlushSource](https://github.com/quickman924/plushsource-mcp) - Searches, filters and compares 55 custom plush manufacturers (MOQ, lead time, OEM/ODM, claimed certifications) from a bundled dataset; local stdio, no API key.
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
