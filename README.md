@@ -575,6 +575,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Exposes OpenAPI specifications as MCP resource templates for inspecting paths, operations, and schema components on demand.
 - [OpenZeppelin Contracts Wizard MCP](https://github.com/OpenZeppelin/contracts-wizard/tree/master/packages/mcp) - Generates OpenZeppelin smart-contract source for Solidity, Cairo, Stellar, Stylus, TRON, confidential contracts, and Uniswap Hooks; MCP Apps clients can render an interactive wizard.
 - [Package Registry MCP](https://github.com/Artmann/package-registry-mcp) - Searches package registries, retrieves package versions and metadata, and queries GitHub Security Advisories across multiple language ecosystems.
+- [Precedent](https://github.com/juw12/precedent) - Checks an AI coding agent's "I can't" and "done" claims against evidence from local agent history before they reach you.
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - Searches technical documentation and retrieves linked pages as Markdown through the Ref API; requires a Ref API key.
 - [Semgrep](https://github.com/semgrep/mcp) - [beta] Use Semgrep in LLMs using MCP framework
 - [Stripe](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
