@@ -1240,6 +1240,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Search peer-to-peer luxury, exotic, and electric-vehicle rentals; booking finishes in the iOS app.
 - [TableJourney](https://github.com/lewismvaughan/tablejourney-mcp) - Read-only MCP server for food travel data, verified restaurants and markets, food festivals, and trip planning across 214 cities.
 - [12306 MCP](https://github.com/Joooook/12306-mcp) - Searches and filters China Railway 12306 train ticket information, including transfer routes.
+- [CheapCarRent](https://github.com/aleksandrjefimov4-crypto/cheapcarent-mcp) - Hosted Streamable HTTP MCP server for car rental search: 15,000 pickup points in 46 countries, 19 languages. No auth, read-only tools list_locations and search_cars.
 
 - [Chelaile Transit MCP](https://github.com/PeanutSplash/chelaile-mcp) - Provides real-time Chinese bus and metro arrivals, stops, search, and route planning.
 
