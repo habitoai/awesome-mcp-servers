@@ -1175,6 +1175,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Bluesky Social MCP](https://github.com/gwbischof/bluesky-social-mcp) - Connects MCP clients to Bluesky through the atproto client.
 - [Posthive](https://github.com/AstaBlackClove/posthive) - Self-hosted social media scheduling and publishing with MCP tools for managing posts.
 - [Velog MCP](https://github.com/milcho0604/velog-mcp) - Reads, drafts, publishes, and backs up Velog articles.
+- [Wavegrain](https://github.com/wavegrain/wavegrain-mcp) - Hosted OAuth MCP server that writes, designs, edits, schedules and exports TikTok slideshows and Instagram carousels from a brand's own photos.
 - [Wenyan MCP Server](https://github.com/caol64/wenyan-mcp) - Formats Markdown and prepares content for publication to WeChat and other supported platforms.
 
 ### Sports and Fitness
