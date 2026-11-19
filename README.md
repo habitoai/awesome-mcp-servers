@@ -653,6 +653,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [shadcn/ui MCP Server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - Provides shadcn/ui component, block, example, and metadata context to AI assistants.
 
 - [Docs MCP Server](https://github.com/arabold/docs-mcp-server) - Indexes documentation from websites, package registries, GitHub, and local files for retrieval by MCP clients.
+- [DocStar](https://github.com/swayammaheshwari/docstar-mcp) - Turns a product's API into published docs that its users' AI assistants can read and call; reading needs no account, changes need OAuth sign-in (https://mcp.docstar.io/mcp).
 - [Apollo MCP Server](https://github.com/apollographql/apollo-mcp-server) - Lets AI clients inspect GraphQL schemas and invoke configured operations.
 - [Postman MCP Server](https://github.com/postmanlabs/postman-mcp-server) - Connects MCP clients to Postman collections, API definitions, and environments.
 - [Salesforce DX MCP Server](https://github.com/salesforcecli/mcp) - Exposes Salesforce org, metadata, code analysis, and DevOps tools to MCP clients.
