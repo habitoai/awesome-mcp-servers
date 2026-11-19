@@ -702,6 +702,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Canvas LMS MCP](https://github.com/admin978/canvas-mcp) - Reads Canvas courses, assignments, grades, announcements, modules, planner items, and course pages using a personal access token.
 - [Connectry Architect Cert MCP](https://github.com/Connectry-io/connectrylab-architect-cert-mcp) - Provides software architecture study questions, practice exams, concept lessons, and persistent learning-progress tracking.
 - [EduBase](https://github.com/EduBase/MCP) - The EduBase MCP server enables Claude and other LLMs to interact with EduBase's comprehensive e-learning platform through the Model Context Protocol (MCP).
+- [Learn AI with Yaakov Tzedek](https://github.com/YaakovTzedek/tzedek-ai-mcp) - Free, read-only remote server (`https://tzedek.me/mcp`) to search practical AI guides, AI courses, learning paths and AI news from tzedek.me, in English and Hebrew.
 - [Moodle MCP](https://github.com/csmediapro/moodle-mcp-server) - Reads Moodle courses, enrollments, assignments, categories, and site metadata through Moodle Web Services.
 - [Pronunciation MCP](https://github.com/JuhongPark/mcp-server-pronunciation) - Records local voice input and provides English pronunciation, fluency, and sentence-practice feedback using locally run speech models.
 - [SCORM MCP Server](https://github.com/giacomomaria81/scorm-mcp-server) - Builds SCORM 1.2 or 2004 packages from HTML course content and exports.
