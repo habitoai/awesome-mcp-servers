@@ -307,6 +307,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Business Applications
 
 - [ERPNext MCP Server](https://github.com/rakeshgangwar/erpnext-mcp-server) - Queries and manages ERPNext documents, reports, and whitelisted methods.
+- [Forward Deployed MCP](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/cerebrixos) - Official hosted server at `https://forwardeployed.work/mcp`: research, strategy, financial models and decks, with each job priced and approved before it runs (OAuth, account needed).
 - [Kontent.ai MCP](https://github.com/kontent-ai/mcp-server) - Creates and manages Kontent.ai content items, content types, languages, taxonomies, and publishing workflows.
 - [Odoo MCP Server](https://github.com/ivnvxd/mcp-server-odoo) - Connects AI assistants to Odoo ERP records for search, retrieval, and data management.
 
@@ -487,6 +488,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [GreptimeDB MCP Server](https://github.com/GreptimeTeam/greptimedb-mcp-server) - A Model Context Protocol (MCP) server implementation for GreptimeDB
 - [Hologres](https://github.com/aliyun/alibabacloud-hologres-mcp-server) - Enables AI agents to access and query Hologres databases via SQL operations and metadata retrieval
 - [Hydrolix MCP](https://github.com/hydrolix/mcp-hydrolix) - Lists Hydrolix databases and tables, inspects column schemas, and executes SELECT queries against an authenticated cluster.
+- [HyperLake MCP](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/hyperlake) - Official hosted server for the HyperLake data lake at `https://mcp.hyperlake.cloud/hyperlake-mcp`: lists clusters, manages catalogs and access grants, and inspects apps and agents (OAuth, account needed).
 - [Milvus MCP Server](https://github.com/zilliztech/mcp-server-milvus) - Model Context Protocol Servers for Milvus
 - [MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck) - MCP server for MotherDuck and local DuckDB
 - [Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/) - Model Context Protocol with Neo4j
@@ -965,7 +967,9 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Sentry (hosted MCP)](https://github.com/getsentry/toolkit) - Sentry's remote MCP service for investigating issues, errors, traces, and performance data in coding workflows. Endpoint: `https://mcp.sentry.dev`.
 - [Google Cloud Observability MCP Server](https://github.com/googleapis/gcloud-mcp/tree/main/packages/observability-mcp) - Searches Google Cloud logs, metrics, traces, and error reports.
 - [SigNoz MCP Server](https://github.com/SigNoz/signoz-mcp-server) - Queries and investigates traces, logs, and metrics from SigNoz.
+- [Trazio MCP](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/trazio) - Official hosted server at `https://trazio.cerebrixos.com/mcp`: read-only questions over logs, metrics, traces, security events, robot runs and video (OAuth, account needed).
 - [VictoriaMetrics MCP Server](https://github.com/VictoriaMetrics/mcp-victoriametrics) - Queries VictoriaMetrics metrics and alerts, inspects rules and query behavior, and searches embedded documentation.
+- [Watchtower MCP](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/watchtower) - Official hosted server at `https://watchtower.cerebrixos.com/mcp`: findings, reports, compliance assessments and scans across reliability, change safety, security and cloud cost (OAuth, account needed).
 - [AWS CloudWatch MCP Server](https://github.com/awslabs/mcp/tree/main/src/cloudwatch-mcp-server) - Queries CloudWatch logs, metrics, and alarms for monitoring and troubleshooting.
 
 - [.NET Diagnostics MCP](https://github.com/aayushmdesai/mcp-dotnet-diagnostics) - Exposes .NET runtime health and diagnostic information to AI assistants.
@@ -1043,6 +1047,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [DeepResearch Assistant](https://github.com/reading-plus-ai/mcp-server-deep-research) - Generates comprehensive, well-cited research reports from a given research question
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [Open Library MCP](https://github.com/8enSmith/mcp-open-library) - Searches Open Library books and authors and retrieves book metadata, author details, and cover or author-photo URLs.
+- [PulseLake Experience Ops MCP](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/pulselake) - Official hosted server at `https://mcp.pulselake.co/pulselake-experience-mcp`: creates and reviews AI surveys, reads submissions, and chats with Agent Copilots (OAuth, account needed).
 - [SimplePubMed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database
 - [World Bank data API](https://github.com/anshumax/world_bank_mcp_server) - An implementation of the Model Context Protocol for the World Bank open data API
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Hosted MCP server for researching company registrations, executives, court records, and financial data.
