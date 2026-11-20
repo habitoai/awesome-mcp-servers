@@ -969,6 +969,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [SigNoz MCP Server](https://github.com/SigNoz/signoz-mcp-server) - Queries and investigates traces, logs, and metrics from SigNoz.
 - [Trazio MCP](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/trazio) - Official hosted server at `https://trazio.cerebrixos.com/mcp`: read-only questions over logs, metrics, traces, security events, robot runs and video (OAuth, account needed).
 - [VictoriaMetrics MCP Server](https://github.com/VictoriaMetrics/mcp-victoriametrics) - Queries VictoriaMetrics metrics and alerts, inspects rules and query behavior, and searches embedded documentation.
+- [Watchtower MCP](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/watchtower) - Official hosted server at `https://watchtower.cerebrixos.com/mcp`: findings, reports, compliance assessments and scans across reliability, change safety, security and cloud cost (OAuth, account needed).
 - [AWS CloudWatch MCP Server](https://github.com/awslabs/mcp/tree/main/src/cloudwatch-mcp-server) - Queries CloudWatch logs, metrics, and alarms for monitoring and troubleshooting.
 
 - [.NET Diagnostics MCP](https://github.com/aayushmdesai/mcp-dotnet-diagnostics) - Exposes .NET runtime health and diagnostic information to AI assistants.
