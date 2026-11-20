@@ -1041,6 +1041,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [ArXiv MCP Assistant](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [ArXiv MCP Server](https://github.com/andybrandt/mcp-simple-arxiv) - Tool to  work with arXiv, provide LLM with ability to search and read papers from there
 - [DeepResearch Assistant](https://github.com/reading-plus-ai/mcp-server-deep-research) - Generates comprehensive, well-cited research reports from a given research question
+- [Human Lineage](https://humanlineage.org/pl/mcp) - Free hosted genealogy MCP server for searching nearly 50 million deceased people (imports ongoing), reading profiles and family relationships, finding places, and rendering family-tree images over Streamable HTTP; no API key required.
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
 - [Open Library MCP](https://github.com/8enSmith/mcp-open-library) - Searches Open Library books and authors and retrieves book metadata, author details, and cover or author-photo URLs.
 - [SimplePubMed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database
@@ -1473,16 +1474,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
