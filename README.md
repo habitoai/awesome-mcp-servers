@@ -261,6 +261,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Art and Culture
 
+- [I2v.ai](https://github.com/i2v-ai/i2v-mcp) - Image generation and text-to-video or image-to-video across 12 image and 16 video models, with a USD quote before each paid task.
 - [Blender](https://github.com/ahujasid/blender-mcp) - AI-powered 3D modeling and scene manipulation tool
 - [Orkas VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first MCP server and CLI for planning and rendering videos from editable timeline files
 - [Placid.app](https://github.com/felores/placid-mcp-server) - Generate image and video creatives using Placid.app templates in MCP compatible hosts
