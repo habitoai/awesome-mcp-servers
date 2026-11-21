@@ -673,6 +673,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [EvalView](https://github.com/hidai25/eval-view) - Snapshot-tests AI agent behavior and detects regressions between runs.
 - [GodotLens MCP](https://github.com/pzalutski-pixel/godotlens-mcp) - Queries Godot project symbols, signatures, references, and scene wiring.
 - [LynxMCP](https://github.com/lorenzo-cambiaghi/LynxMCP) - Answers local code relationship questions such as call sites and change impact.
+- [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server) - Search and retrieve official xmcp documentation through the public, read-only Streamable HTTP endpoint `https://xmcp.dev/mcp`, with no authentication.
 
 ### Diagramming and Visualization
 
