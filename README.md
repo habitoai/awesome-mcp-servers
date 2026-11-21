@@ -1258,6 +1258,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) - Provides public web search, page scraping, structured data extraction, and browser automation tools.
 - [Olostep MCP](https://github.com/olostep/olostep-mcp-server) - Searches the web, scrapes pages, crawls sites, maps URLs, and runs batch extraction through the Olostep API.
 - [Supadata MCP](https://github.com/supadata-ai/mcp) - Retrieves video transcripts and media metadata, scrapes or crawls websites, and extracts structured content through the Supadata API.
+- [TinyRex MCP](https://github.com/emirmrkaljevic/tinyrex-mcp) - Runs 27 public TinyRex Apify actors (remote and ATS jobs, Shopify and WooCommerce products, tech stack detection, audio/video transcription, company registers, tenders) with your own Apify token and returns dataset items. Actors are billed per event by Apify.
 
 ### Workflow Automation
 
