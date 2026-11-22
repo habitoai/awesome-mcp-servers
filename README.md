@@ -1169,6 +1169,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [X (Twitter)](https://github.com/vidhupv/x-mcp) - Manages and publishes X/Twitter posts via Claude chat
 - [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and MCP server for AI-agent social media planning, scheduling, publishing, media, and analytics. [Documentation](https://app.bulkpublish.com/docs)
 - [ContHunt](https://github.com/Synthenova/conthunt-mcp) - Hosted OAuth MCP server for finding and researching trending short-form videos across TikTok, Instagram Reels, and YouTube Shorts.
+- [Social Fetch](https://github.com/social-freak-ltd/socialfetch-mcp) - Public social media data as JSON, via a hosted MCP server and a local stdio server.
 - [SocialClaw](https://github.com/ndesv21/socialclaw) - MCP server for scheduling, publishing, and tracking social posts across major social platforms.
 - [Reddit MCP Server](https://github.com/Hawstein/mcp-server-reddit) - Searches Reddit communities and retrieves posts, comments, and subreddit information.
 
@@ -1473,16 +1474,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
