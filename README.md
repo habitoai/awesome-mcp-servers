@@ -1169,6 +1169,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [X (Twitter)](https://github.com/vidhupv/x-mcp) - Manages and publishes X/Twitter posts via Claude chat
 - [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and MCP server for AI-agent social media planning, scheduling, publishing, media, and analytics. [Documentation](https://app.bulkpublish.com/docs)
 - [ContHunt](https://github.com/Synthenova/conthunt-mcp) - Hosted OAuth MCP server for finding and researching trending short-form videos across TikTok, Instagram Reels, and YouTube Shorts.
+- [dmswift](https://github.com/Noam13-w/dmswift-mcp) - Hosted OAuth MCP server for Instagram professional accounts and Facebook Pages on Meta's official APIs: publish and schedule posts, reels and stories, run comment-to-DM campaigns, reply to comments and DMs, and read insights. 44 tools, approval mode and daily caps, no self-host.
 - [SocialClaw](https://github.com/ndesv21/socialclaw) - MCP server for scheduling, publishing, and tracking social posts across major social platforms.
 - [Reddit MCP Server](https://github.com/Hawstein/mcp-server-reddit) - Searches Reddit communities and retrieves posts, comments, and subreddit information.
 
