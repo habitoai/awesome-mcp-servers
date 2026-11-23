@@ -920,6 +920,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Media and Audio
 
 - [Audiobookshelf MCP](https://github.com/ni-c/audiobookshelf-mcp) - Lets agents browse a self-hosted Audiobookshelf library and listening history.
+- [Auteo MCP](https://github.com/AuteoAI/auteo-mcp) - Generate images, video, music, and speech through Auteo's hosted Streamable HTTP server using an API key.
 - [AutoEQ MCP](https://github.com/verIdyia/autoeq-mcp) - Searches the AutoEQ headphone and IEM database for equalization settings.
 - [FableCut](https://github.com/ronak-create/FableCut) - Lets AI agents edit browser-based video projects through an editable timeline.
 - [ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp) - Provides local image-processing tools for MCP clients.
