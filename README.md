@@ -855,6 +855,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Obsidian Markdown Notes](https://github.com/calclavia/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault.
 - [Open Index](https://github.com/DrDroidLab/open-index) - Structured context graph for domain-specific agents with hybrid search and validated read/write MCP tools.
 - [PIF](https://github.com/hungryrobot1/MCP-PIF) - A MCP implementation of the personal intelligence framework (PIF)
+- [Selvedge](https://github.com/masondelan/selvedge) - Local stdio MCP server and CLI for saving coding decisions, reasons, and rejected approaches in SQLite and retrieving them across sessions.
 - [XMind](https://github.com/apeyroux/mcp-xmind) - Analyzes and queries XMind mind maps, enabling smart searches, task management, and multi-file analysis
 - [ContextStream](https://github.com/contextstream/mcp-server) - Persistent project memory and semantic code search across connected repositories, documents, and conversations.
 - [Memxus](https://github.com/gpitrella/memxus-remote-mcp) - Remote persistent memory MCP server that carries context across coding agents and can connect GitHub and Notion sources.
