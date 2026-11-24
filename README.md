@@ -497,6 +497,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Airtable](https://github.com/felores/airtable-mcp) - Search, create and update Airtable bases, tables, fields, and records using Claude Desktop and MCP (Model Context Protocol) clients
 - [ArangoDB](https://github.com/ravenwits/mcp-server-arangodb) - This is a TypeScript-based MCP server that provides database interaction capabilities through ArangoDB. It implements core database operations and allows seamless integration with ArangoDB through MCP tools. You can use it wih Claude app and also extension for VSCode that works with mcp like Cline!
 - [BigQuery MCP Server](https://github.com/LucasHild/mcp-server-bigquery) - A Model Context Protocol server that provides access to BigQuery
+- [Bytebase MCP](https://github.com/bytebase/bytebase-mcp) - Official MCP server for Bytebase. Query data, inspect schemas and propose database changes under approval flow, access control, data masking and audit logging.
 - [Chroma](https://github.com/privetin/chroma) - A Model Context Protocol (MCP) server implementation that provides vector database capabilities through Chroma.
 - [DBHub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, SQLite, and etc.
 - [DBHub](https://github.com/bytebase/dbhub/) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, SQLite, and etc.
