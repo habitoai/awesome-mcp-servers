@@ -438,6 +438,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Container Registries
 
 - [Docker Hub MCP Server](https://github.com/docker/hub-mcp) - Search Docker Hub repositories and images, with token-authenticated tools for repository management.
+- [Harbor MCP Server](https://github.com/oreondev/harbor-mcp) - Read-only access to a Harbor registry: projects and quotas, repositories, artifacts, vulnerability scan results, robot accounts, replication and garbage collection.
 - [OCI Registry MCP](https://github.com/StacklokLabs/ocireg-mcp) - Inspects OCI image tags, manifests, configurations, and attached referrers such as signatures and attestations.
 
 ### Customer Data Platforms
