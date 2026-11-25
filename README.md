@@ -692,7 +692,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### E-Commerce
 
-- [Perklo](https://github.com/tianrich/perklo-mcp) - Live UK deals, global voucher codes and ticket announcements over MCP. 27 tools, no API key.
+- [Perklo](https://github.com/tianrich/perklo-mcp) - Live UK deals, global voucher codes and ticket announcements over MCP. 27 tools, no API key for reads.
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
