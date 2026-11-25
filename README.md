@@ -908,6 +908,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Get MCP Ads — X Ads](https://github.com/get-mcp-ads/x-ads-mcp-server) - Query X advertising analytics, campaigns, and creatives, with optional preview-first writes.
 - [Nevent](https://github.com/nevent-dev/mcp-nevent) - Hosted MCP server for marketing analytics, audience segments, campaigns, templates, deliverability, and paid media.
 - [OrbiAds](https://github.com/OrbiAds/Orbiads-GAM-MCP) - Hosted OAuth MCP server for managing Google Ad Manager networks.
+- [Poptin MCP](https://github.com/Poptin-LTD/Poptin-MCP) - Hosted OAuth MCP server for drafting email campaigns, building contact segments, and reviewing popup and form performance.
 - [Robot Speed](https://github.com/robot-speed/mcp) - Hosted MCP server for SEO audits, keyword research, site content management, and client reports.
 - [SiteAudit](https://github.com/vdalhambra/siteaudit-mcp) - MCP server for website SEO, performance, security, and broken-link audits.
 - [DataForSEO MCP Server](https://github.com/dataforseo/mcp-server-typescript) - Provides search results, keyword research, and related SEO data through the DataForSEO API.
@@ -1473,16 +1474,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
