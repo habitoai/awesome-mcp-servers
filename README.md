@@ -1270,6 +1270,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Airtable MCP](https://github.com/rashidazarang/airtable-mcp) - Airtable integration for AI-powered applications via Anthropic's Model Context Protocol (MCP). Connect your AI tools directly to Airtable for seamless data access and management.
 - [Attio MCP Server](https://github.com/hmk/attio-mcp-server) - Connects Claude (and similar clients) to the Attio CRM API for reading and writing company data
 - [ClaudeTasks](https://github.com/arpitbatra123/mcp-googletasks) - Manages Google Tasks via Claude, enabling creation, updating, and deletion of tasks and lists
+- [Dash](https://github.com/dash-pup/dash-mcp) - Connect AI clients to Dash, the AI teammate you can text or email, plus your workspace and its apps. Hosted Streamable HTTP with Dash sign-in or API keys; requires a paid Dash workspace.
 - [Dify](https://github.com/YanxingLiu/dify-mcp-server) - Model Context Protocol (MCP) Server for dify workflows
 - [Dify Workflow Executor](https://github.com/gotoolkits/mcp-difyworkflow-server) - mcp-difyworkflow-server is an mcp server Tools application that implements the query and invocation of Dify workflows, supporting the on-demand operation of multiple custom Dify workflows.
 - [iFlytek Workflow](https://github.com/iflytek/ifly-workflow-mcp-server) - This a simple implementation of an MCP server using iFlytek. It enables calling iFlytek workflows through MCP tools.
