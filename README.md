@@ -921,6 +921,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Audiobookshelf MCP](https://github.com/ni-c/audiobookshelf-mcp) - Lets agents browse a self-hosted Audiobookshelf library and listening history.
 - [AutoEQ MCP](https://github.com/verIdyia/autoeq-mcp) - Searches the AutoEQ headphone and IEM database for equalization settings.
+- [ClearCaption](https://github.com/Andrii2203/clearcaption-youtube-transcript) - YouTube transcripts, SRT/VTT subtitles and timestamped translation for videos, channels and playlists; works from cloud servers and as an MCP server.
 - [FableCut](https://github.com/ronak-create/FableCut) - Lets AI agents edit browser-based video projects through an editable timeline.
 - [ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp) - Provides local image-processing tools for MCP clients.
 - [Imagician](https://github.com/flowy11/imagician) - Edits local images with resizing, cropping, format conversion, compression, rotation, flipping, metadata inspection, and batch resizing.
