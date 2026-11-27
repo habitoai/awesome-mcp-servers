@@ -576,6 +576,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [OpenZeppelin Contracts Wizard MCP](https://github.com/OpenZeppelin/contracts-wizard/tree/master/packages/mcp) - Generates OpenZeppelin smart-contract source for Solidity, Cairo, Stellar, Stylus, TRON, confidential contracts, and Uniswap Hooks; MCP Apps clients can render an interactive wizard.
 - [Package Registry MCP](https://github.com/Artmann/package-registry-mcp) - Searches package registries, retrieves package versions and metadata, and queries GitHub Security Advisories across multiple language ecosystems.
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - Searches technical documentation and retrieves linked pages as Markdown through the Ref API; requires a Ref API key.
+- [Sandscale](https://sandscale.dev/sandboxes/mcp) - Remote MCP server (Streamable HTTP, OAuth 2.1) at `https://mcp.sandscale.dev/mcp` that creates a Firecracker microVM sandbox per task, runs commands and moves files in it, with allow/ask/deny rules per tool that Claude Code enforces through its hooks (Codex and Gemini CLI calls are recorded, not blocked), and an audit log.
 - [Semgrep](https://github.com/semgrep/mcp) - [beta] Use Semgrep in LLMs using MCP framework
 - [Stripe](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [UnifAI](https://github.com/unifai-network/unifai-mcp-server) - Simplifies multi-chain protocol (MCP) client development with TypeScript and Python SDKs
