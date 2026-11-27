@@ -291,6 +291,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [BrowserControl](https://github.com/eyalzh/browser-control-mcp) - An MCP server paired with a browser extension that enables LLM clients to control the user's browser.
 - [Fetcher](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser.
 - [FireCrawl](https://github.com/vrknetha/mcp-server-firecrawl) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
+- [Geekflare](https://github.com/geekflare/geekflare-api-mcp) - Official Geekflare MCP Server for web scraping, web and Google SERP search, site crawling and screenshots.
 - [MCP Playwright Server](https://github.com/Automata-Labs-team/MCP-Server-Playwright) - MCP server for browser automation using Playwright
 - [Mobile MCP](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping
 - [OmniParser AutoGUI MCP](https://github.com/NON906/omniparser-autogui-mcp) - Automatic operation of on-screen GUI.
