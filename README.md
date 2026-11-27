@@ -307,6 +307,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Business Applications
 
 - [ERPNext MCP Server](https://github.com/rakeshgangwar/erpnext-mcp-server) - Queries and manages ERPNext documents, reports, and whitelisted methods.
+- [Genaya Connect](https://developer.genaya.com/mcp) - Official hosted Streamable HTTP server for Genaya, an operations app for service businesses: answers questions about appointments, clients, invoices, calls and tasks, and prepares changes that run only after the member confirms them, with OAuth 2.1 or a read-only API key.
 - [Kontent.ai MCP](https://github.com/kontent-ai/mcp-server) - Creates and manages Kontent.ai content items, content types, languages, taxonomies, and publishing workflows.
 - [Odoo MCP Server](https://github.com/ivnvxd/mcp-server-odoo) - Connects AI assistants to Odoo ERP records for search, retrieval, and data management.
 
