@@ -258,6 +258,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Amazon Translate MCP Server](https://github.com/awslabs/mcp/tree/main/src/amazon-translate-mcp-server) - Translates text and documents with Amazon Translate and supports batch and custom terminology workflows.
 - [DeepL MCP Server](https://github.com/DeepL/deepl-mcp-server) - Translates text and documents, rephrases content, and looks up glossary and style rules through DeepL.
 - [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Exposes MiniMax text-to-speech, image-generation, and video-generation APIs through MCP.
+- **EYROVE Image MCP** - Turns any image on the web into an editable eight-dimension prompt, restores the original prompt when metadata exists, searches 100,000+ prompts, and generates the result.
 
 ### Art and Culture
 
