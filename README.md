@@ -1109,6 +1109,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Driflyte MCP Server](https://github.com/serkan-ozal/driflyte-mcp-server) - Retrieves topic-specific knowledge from recursively crawled and indexed web pages.
 - [Gopher and Gemini MCP](https://github.com/cameronrye/gopher-mcp) - Browses resources on the Gopher and Gemini protocols.
 - [pdfmux](https://github.com/NameetP/pdfmux) - Extracts PDF content and flags pages that could not be read reliably.
+- [MEDIAPRONET](https://mediapronet.com/mcp) - Searches a directory of newly launched startups and SaaS tools. Read-only remote MCP at `https://mediapronet.com/api/mcp`, no API key.
 
 ### Security
 
