@@ -825,6 +825,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Health Export MCP](https://github.com/PhilipAD/health-export-mcp) - Read-only, local access to 190 Apple Health metrics through an MCP server.
 - [SynergyAge MCP](https://github.com/longevity-genie/synergy-age-mcp) - Queries SynergyAge data on genetic interventions and aging.
 
+- [Telo by BlynkAI](https://telo.blynkai.app/apple-health-mcp/) - Remote, read-only MCP server with OAuth for querying user-authorized Apple Health sleep, HRV, and workouts synced through Telo.
+
 ### Home Automation
 
 - [Hass-MCP](https://github.com/voska/hass-mcp) - Connects MCP clients to Home Assistant to query and control devices.
