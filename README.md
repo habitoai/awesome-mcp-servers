@@ -349,7 +349,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [IONOS Cloud MCP](https://github.com/ionos-cloud/ionoscloud-mcp) - Inspects IONOS compute, networking, Kubernetes, DNS, and storage resources, with optional confirmed write operations.
 - [K8m AI Kubernetes Dashboard](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 - [Kubernetes MCP Server](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
-- [Lantern Works](https://github.com/connormatthewdouglas/agent-work-stack-deals) - Free, read-only, keyless MCP for comparing GPU rental prices across providers; rates are cited and refreshed regularly, with each price's age shown, plus job-cost estimates.
+- [Lantern Works](https://github.com/connormatthewdouglas/agent-work-stack-deals) - Free, keyless MCP for comparing GPU rental prices across providers (local uvx package read-only; hosted endpoint adds optional price watches and alerts); rates are cited and refreshed regularly, with each price's age shown, plus job-cost estimates.
 - [Liveblocks MCP](https://github.com/liveblocks/liveblocks-mcp-server) - Manages collaboration rooms, storage documents, threads, comments, and active-user information through the Liveblocks API.
 - [LlamaCloud](https://github.com/run-llama/mcp-server-llamacloud) - A MCP server connecting to managed indexes on LlamaCloud
 - [LocalStack MCP](https://github.com/localstack/localstack-mcp-server) - Manages local cloud emulators, runs emulated AWS and Azure commands, deploys infrastructure projects, and searches LocalStack documentation.
@@ -1474,16 +1474,42 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 
-## Frequently Asked Questions
-
-#### What is an MCP server?
-An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
-
-#### How do I connect to a server?
-Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
-
-#### Where can I find published server manifests?
-The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
-
-<!-- MCP_LIST_END -->
-
+## Frequently Asked Questions
+
+
+
+
+
+#### What is an MCP server?
+
+
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
+
+
+
+
+
+#### How do I connect to a server?
+
+
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
+
+
+
+
+
+#### Where can I find published server manifests?
+
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
+
+
+
+
+
+<!-- MCP_LIST_END -->
+
+
+
+
+
