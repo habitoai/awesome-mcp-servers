@@ -1051,7 +1051,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Astronomy Oracle](https://github.com/gregario/astronomy-oracle) - Provides astronomical catalog data and observing-session visibility planning.
 - [Data Aggregator MCP](https://github.com/musharna/data-aggregator-mcp) - Searches and retrieves research data across archives, omics registries, and scholarly literature.
-- [Frank AI Researcher](https://github.com/nar-vardanyan/frank-mcp) - Official hosted MCP server for AI-moderated voice interviews with your own customers. Remote: `https://api.hifrank.ai/mcp` (OAuth). Works with ChatGPT, Claude, Grok and Muse, plus other MCP clients that support remote servers with OAuth. Free plan: 60 voice minutes a month, no card required. Registry: `ai.hifrank/frank`.
+- [Frank AI Researcher](https://github.com/nar-vardanyan/frank-mcp) - Hosted MCP server for AI-moderated voice interviews with your own customers. Remote: `https://api.hifrank.ai/mcp` (OAuth). Works with ChatGPT, Claude, Grok and Muse, plus other MCP clients that support remote servers with OAuth. Free plan: 60 voice minutes a month, no card required. Registry: `ai.hifrank/frank`.
 - [Grounding AI](https://github.com/andyliszewski/grounding-ai) - Creates a local document corpus for evidence-grounded agent answers.
 - [Hacker News MCP](https://github.com/imprvhub/mcp-claude-hackernews) - Browses Hacker News stories, rankings, searches, and comments.
 - [OmniSeek](https://github.com/Battam1111/omniseek) - Self-hosted research tools for searching podcasts, social discussions, web sources, and multilingual content.
